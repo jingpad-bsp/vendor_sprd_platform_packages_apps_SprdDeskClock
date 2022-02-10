@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="cities_names">
+<item>"A <xliff:g id="separator">=</xliff:g> ཨ་སྤེལ་ཀྲང་།"</item>
+<item>"A <xliff:g id="separator">=</xliff:g> ཨ་ཁེ་ར།"</item>
+<item>"A <xliff:g id="separator">=</xliff:g> ཨ་སྡེ་ས་ཨ་སྤལ་པ།"</item>
+<item>"A <xliff:g id="separator">=</xliff:g> ཨེལ་ཀྲ་རེ་ས།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྤ་ལེ་ཐ་ཡ།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྤ་རེ་གཟའ་ཝེལ།"</item>
+<item>"C <xliff:g id="separator">=</xliff:g> ཁེ་རོ།"</item>
+<item>"C <xliff:g id="separator">=</xliff:g> ཁ་སེ་སྤོ་ལེ་ཁ།"</item>
+<item>"C <xliff:g id="separator">=</xliff:g> ཁ་ནེ་ཁ་རེ།"</item>
+<item>"D <xliff:g id="separator">=</xliff:g> སྒྲ་ཁར།"</item>
+<item>"D <xliff:g id="separator">=</xliff:g> སྒྲ་རེ་ས་ལེམ།"</item>
+<item>"D <xliff:g id="separator">=</xliff:g> ཀྲ་སྤོ་ཐེ།"</item>
+<item>"F <xliff:g id="separator">=</xliff:g> ཧྥོ་རེ་ཁྲམ།"</item>
+<item>"G <xliff:g id="separator">=</xliff:g> དགའ་སྦེ་རོན།"</item>
+<item>"H <xliff:g id="separator">=</xliff:g> ཧ་ར་རེ།"</item>
+<item>"J <xliff:g id="separator">=</xliff:g> ཀྲོ་ཧ་མ་སེ་སྤེར།"</item>
+<item>"K <xliff:g id="separator">=</xliff:g> ཁན་ཕེ་ར།"</item>
+<item>"K <xliff:g id="separator">=</xliff:g> ཁར་ཁྲམ།"</item>
+<item>"K <xliff:g id="separator">=</xliff:g> ཁེ་ག་ལེ།"</item>
+<item>"K <xliff:g id="separator">=</xliff:g> ཁེན་སྲར་ས།"</item>
+<item>"L <xliff:g id="separator">=</xliff:g> ལར་གེ་ས།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མ་སེ་རོ།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མོལ་ག་རྡ་ཤོ།"</item>
+<item>"N <xliff:g id="separator">=</xliff:g> ནེ་རོ་སྤེལ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེན་ཐོ་མེ།"</item>
+<item>"T <xliff:g id="separator">=</xliff:g> ཐེམ་པག་ཐོ།"</item>
+<item>"T <xliff:g id="separator">=</xliff:g> ཁྲེ་ཕུ་ལེ།"</item>
+<item>"T <xliff:g id="separator">=</xliff:g> ཁྲོ་ནེ་སི།"</item>
+<item>"A <xliff:g id="separator">=</xliff:g> ཨན་ཁ་ར་ཀྲེ།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མེན་རྡོ་སེ།"</item>
+<item>"A <xliff:g id="separator">=</xliff:g> ཨ་རོ་སྤར།"</item>
+<item>"A <xliff:g id="separator">=</xliff:g> ཡ་སོན་སེན།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྤ་སྤེ་སྒྲོ་སེ།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྤོ་ལེ་སར།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྤོ་ག་ཐ།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྤོན་ས་རེ་སི།"</item>
+<item>"C <xliff:g id="separator">=</xliff:g> ཁན་ཁོན།"</item>
+<item>"C <xliff:g id="separator">=</xliff:g> ཁ་ར་ཁ་སེ།"</item>
+<item>"C <xliff:g id="separator">=</xliff:g> ཁ་མེན།"</item>
+<item>"C <xliff:g id="separator">=</xliff:g> ཧྲེ་ཁ་སྒོ།"</item>
+<item>"C <xliff:g id="separator">=</xliff:g> ཁེ་ས་ཐ་རེ་ཁ།"</item>
+<item>"C <xliff:g id="separator">=</xliff:g> ཁོ་རེ་སར།"</item>
+<item>"D <xliff:g id="separator">=</xliff:g> སྒྲོ་སན་ཁོ་རེ་ཁ།"</item>
+<item>"D <xliff:g id="separator">=</xliff:g> རྟན་ཝར།"</item>
+<item>"D <xliff:g id="separator">=</xliff:g> སྒྲ་ཁྲ་རོ་ཐེ།"</item>
+<item>"D <xliff:g id="separator">=</xliff:g> སྒྲོ་ནེ་མེ་ཁ།"</item>
+<item>"E <xliff:g id="separator">=</xliff:g> ཨ་སྒྲ་མན་ཐེ།"</item>
+<item>"E <xliff:g id="separator">=</xliff:g> ཨེལ་ས་ཝེ་སྒྲོལ།"</item>
+<item>"F <xliff:g id="separator">=</xliff:g> ཧྥོ་ཁྲ་རེ་སར།"</item>
+<item>"G <xliff:g id="separator">=</xliff:g> ཁྲ་ཁ་ཆེ་བ།"</item>
+<item>"G <xliff:g id="separator">=</xliff:g> ག་རེན་ནེ་སྒྲ།"</item>
+<item>"G <xliff:g id="separator">=</xliff:g> ཀོ་ཐ་མ་ལེར།"</item>
+<item>"G <xliff:g id="separator">=</xliff:g> ཀ་ཨ་ནེ།"</item>
+<item>"H <xliff:g id="separator">=</xliff:g> ཧ་ལེ་ཧྥ་ཁེ་ས།"</item>
+<item>"H <xliff:g id="separator">=</xliff:g> ཧ་ཝ་ནེ།"</item>
+<item>"I <xliff:g id="separator">=</xliff:g> ཨ་སྒྲེ་ནེ་ཕ་ལེ་ས།"</item>
+<item>"K <xliff:g id="separator">=</xliff:g> ནག་ཁེ་ས།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མོ་རེ་གོ"</item>
+<item>"P <xliff:g id="separator">=</xliff:g> ཕེ་ཁྲ་སི་སྤར།"</item>
+<item>"T <xliff:g id="separator">=</xliff:g> ཁྲེ་ལ་གྲོང་།"</item>
+<item>"V <xliff:g id="separator">=</xliff:g> ཝེ་ཝེས།"</item>
+<item>"V <xliff:g id="separator">=</xliff:g> ཝེན་ས་ནེ་ས།"</item>
+<item>"W <xliff:g id="separator">=</xliff:g> ཝན་ནེ་མ་ཁེ།"</item>
+<item>"K <xliff:g id="separator">=</xliff:g> ཁན་ས་ཁྲོན།"</item>
+<item>"N <xliff:g id="separator">=</xliff:g> ལེ་ཕ་ས།"</item>
+<item>"L <xliff:g id="separator">=</xliff:g> ལེ་མེ།"</item>
+<item>"L <xliff:g id="separator">=</xliff:g> ལོ་སེ་ཨན་ཀྲེལ།"</item>
+<item>"L <xliff:g id="separator">=</xliff:g> ལོ་ཡེ་ས་ཝེལ།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མ་ནེ་ག་ཝ།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མ་ཐ་ནེ་ཁ།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མེན་རྡོ་སེ།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མེ་ཁྲི་ལེ་ཁ་ཐར།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མེ་ཁ་སེ་གྲོང་།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མོན་ཁྲ་རེ།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མོན་ཁྲ་ཝེ་སྒྲེ་ཨོ།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མོན་ཁྲ་རེལ།"</item>
+<item>"N <xliff:g id="separator">=</xliff:g> ནེ་སོལ།"</item>
+<item>"N <xliff:g id="separator">=</xliff:g> ནེ་ཡོག"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྤ་ཡོ་ལེར།"</item>
+<item>"C <xliff:g id="separator">=</xliff:g> སེན་ཁྲ།"</item>
+<item>"N <xliff:g id="separator">=</xliff:g> ས་ལེམ་གསར་བ།"</item>
+<item>"P <xliff:g id="separator">=</xliff:g> ཕ་ན་མ།"</item>
+<item>"P <xliff:g id="separator">=</xliff:g> ཧྥ་ནེ་ཁ་སི།"</item>
+<item>"P <xliff:g id="separator">=</xliff:g> སི་ཕན་གྲུ་ཁ།"</item>
+<item>"P <xliff:g id="separator">=</xliff:g> ཕོ་ཁྲོ་ཕ་རེན།"</item>
+<item>"P <xliff:g id="separator">=</xliff:g> ཕོ་ཁྲོ་རེ་ཁོ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེན་ཁྲོ་སྒྲ་མེང་གོར།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེན་ཕོ་ལོ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེན་ལྗོན་སེ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེན་ཁེ་ཁྲི་སེ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེན་ལོ་སྲ་ཡ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེན་ཁྲོ་མ་སི།"</item>
+<item>"T <xliff:g id="separator">=</xliff:g> ཁྲེ་ཝ་ནར།"</item>
+<item>"T <xliff:g id="separator">=</xliff:g> ཁྲ་རན་ཁྲོ།"</item>
+<item>"V <xliff:g id="separator">=</xliff:g> ཝན་ཁོ་ཝར།"</item>
+<item>"W <xliff:g id="separator">=</xliff:g> ཝ་ནེ་ཕེར།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> ལྷོ་སྣེ།"</item>
+<item>"L <xliff:g id="separator">=</xliff:g> ལང་ཡེ་སྤེན།"</item>
+<item>"A <xliff:g id="separator">=</xliff:g> ཨ་ལེ་མོ་ཐེ།"</item>
+<item>"A <xliff:g id="separator">=</xliff:g> ཨན་མེན།"</item>
+<item>"A <xliff:g id="separator">=</xliff:g> ཨ་ནུ་སྒྲེར།"</item>
+<item>"A <xliff:g id="separator">=</xliff:g> ཨ་ཁེ་ཁྲོ།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྤེ་ག་སྦྲ།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྤ་རེན།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྤེ་ཁོ།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྤན་ཁོག"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྤེ་རོ་ཐ།"</item>
+<item>"C <xliff:g id="separator">=</xliff:g> ཁན་ལི་ཁ་ཁྲ།"</item>
+<item>"D <xliff:g id="separator">=</xliff:g> སྒྲ་མན་སི་ཁ།"</item>
+<item>"D <xliff:g id="separator">=</xliff:g> སྦྲ་ཁར།"</item>
+<item>"D <xliff:g id="separator">=</xliff:g> སྒྲོ་སྤེ།"</item>
+<item>"G <xliff:g id="separator">=</xliff:g> ག་ཟར།"</item>
+<item>"H <xliff:g id="separator">=</xliff:g> ཧེ་སྦི་རོན།"</item>
+<item>"H <xliff:g id="separator">=</xliff:g> ཧོ་ཁྲ་མེན།"</item>
+<item>"H <xliff:g id="separator">=</xliff:g> ཤང་ཀང་།"</item>
+<item>"I <xliff:g id="separator">=</xliff:g> ཨེ་སི་ཐན་སྤོལ།"</item>
+<item>"J <xliff:g id="separator">=</xliff:g> ལྗ་ཁར་ཐ།"</item>
+<item>"J <xliff:g id="separator">=</xliff:g> ཀྲ་རོལ་ས་ལེམ།"</item>
+<item>"K <xliff:g id="separator">=</xliff:g> ཁ་སྤོལ།"</item>
+<item>"K <xliff:g id="separator">=</xliff:g> ཁ་ར་ཁྲེ།"</item>
+<item>"K <xliff:g id="separator">=</xliff:g> ཁན་རྡ་མན་རྡོ།"</item>
+<item>"K <xliff:g id="separator">=</xliff:g> ཁོ་ལོ་ལོམ་ཕོར།"</item>
+<item>"K <xliff:g id="separator">=</xliff:g> ཁོ་ཝེ་ཐེ།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> ཨོ་མོན།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མ་ནེ་ལར།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མ་སེ་ཁེ་ཐ།"</item>
+<item>"P <xliff:g id="separator">=</xliff:g> ནོན་ཕེན།"</item>
+<item>"P <xliff:g id="separator">=</xliff:g> ཕེ་རང་།"</item>
+<item>"Q <xliff:g id="separator">=</xliff:g> ཁོ་ཐར།"</item>
+<item>"R <xliff:g id="separator">=</xliff:g> རན་ཀོན།"</item>
+<item>"R <xliff:g id="separator">=</xliff:g> རེ་ཡ་རྡ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེ་གན།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སོ་ཨོལ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> ཧྲང་ཧེ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེང་ག་ཕོར།"</item>
+<item>"T <xliff:g id="separator">=</xliff:g> ཐེ་་པེ།"</item>
+<item>"T <xliff:g id="separator">=</xliff:g> ཁྲེ་རན།"</item>
+<item>"T <xliff:g id="separator">=</xliff:g> ཁྲེ་ལ་ཝེ།"</item>
+<item>"T <xliff:g id="separator">=</xliff:g> ཐོ་ཁེ་ཡོ།"</item>
+<item>"U <xliff:g id="separator">=</xliff:g> ཝོ་ལན་སྤ་ཐོ།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྤལ་མོ་སྦྲ།"</item>
+<item>"C <xliff:g id="separator">=</xliff:g> ཁན་ན་རེ།"</item>
+<item>"C <xliff:g id="separator">=</xliff:g> ཝར་སྒྲ་ཟུར།"</item>
+<item>"R <xliff:g id="separator">=</xliff:g> རེ་ཁ་ཡ་ཝ་ཁ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སི་ཁྲན་ལེ།"</item>
+<item>"A <xliff:g id="separator">=</xliff:g> ཨ་སྦྲ་ལེ་སྒྲ།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྤེ་རེ་སི་པན།"</item>
+<item>"C <xliff:g id="separator">=</xliff:g> ཁན་ཕེ་ར།"</item>
+<item>"D <xliff:g id="separator">=</xliff:g> སྦྲ་ཝེན།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མེལ་སྤ་རེན།"</item>
+<item>"N <xliff:g id="separator">=</xliff:g> ལྷོ་ཝེ་སི་གསར་བ།"</item>
+<item>"P <xliff:g id="separator">=</xliff:g> ཕེལ་སི།"</item>
+<item>"Q <xliff:g id="separator">=</xliff:g> ཁོན་ཝེ་སི་ལན།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེ་སྦྲ་ནེན།"</item>
+<item>"V <xliff:g id="separator">=</xliff:g> ཝེ་ཐོ་ལེ་ཡ།"</item>
+<item>"N <xliff:g id="separator">=</xliff:g> ནེ་ཧྥེ་སྦྲ་ལན།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེ་སི་ཁ་ཁྲེ་ཝ།"</item>
+<item>"E <xliff:g id="separator">=</xliff:g> ཨ་སེ་ལན་ཤར་མ།"</item>
+<item>"A <xliff:g id="separator">=</xliff:g> ཨེམ་ས་ཁྲ་སྦྲན།"</item>
+<item>"A <xliff:g id="separator">=</xliff:g> ཨན་སྦྲ་ར།"</item>
+<item>"A <xliff:g id="separator">=</xliff:g> ཨེ་སར་སི།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྤེལ་ཧྥ་ས་ཁྲ།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྤེལ་ག་རེ་སྦྲ།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྦར་ལེན།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྤ་རེ་ཁྲེ་སི་ལར་ཝ།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྦ་རོ་སེལ།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྦོ་ཁྲ་རེ་སི་ཁྲ།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྦོ་སྦྲ་ཕེ་སི།"</item>
+<item>"C <xliff:g id="separator">=</xliff:g> ཅེ་ཞེ་ནོར།"</item>
+<item>"C <xliff:g id="separator">=</xliff:g> ཁོ་ཕན་ཧ་ཀན།"</item>
+<item>"D <xliff:g id="separator">=</xliff:g> སྦྲོ་སྦ་རེན།"</item>
+<item>"G <xliff:g id="separator">=</xliff:g> ལྗེ་པོ་ར་ཁྲ།"</item>
+<item>"H <xliff:g id="separator">=</xliff:g> ཧེལ་སེ་ཁེན།"</item>
+<item>"I <xliff:g id="separator">=</xliff:g> ཨེ་ལ་སི་མན།"</item>
+<item>"I <xliff:g id="separator">=</xliff:g> ཨེ་སི་ཐན་སྤོལ།"</item>
+<item>"K <xliff:g id="separator">=</xliff:g> ཁེ་ཝོ།"</item>
+<item>"L <xliff:g id="separator">=</xliff:g> ལེ་སི་ཕན།"</item>
+<item>"L <xliff:g id="separator">=</xliff:g> ལོན་ཏོན།"</item>
+<item>"L <xliff:g id="separator">=</xliff:g> ལོ་སེམ་ཕར།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མན་སྦྲ་ར་སྦྲེ།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མེལ་ཁྲ།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མེ་སི་ཁ།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མོན་ནན་ཁ།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མོ་སི་ཁོ།"</item>
+<item>"O <xliff:g id="separator">=</xliff:g> ཨོ་སི་ལོ།"</item>
+<item>"P <xliff:g id="separator">=</xliff:g> ཕ་རི་སི།"</item>
+<item>"P <xliff:g id="separator">=</xliff:g> ཕ་རེ་ཀོ"</item>
+<item>"R <xliff:g id="separator">=</xliff:g> རེ་ཀ"</item>
+<item>"R <xliff:g id="separator">=</xliff:g> རོ་མ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེན་མ་རེ་ནོས།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེ་ར་ཡེ་ཝོ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེམ་ཧྥེ་རོ་ཕོལ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སི་ཁོ་ཕི་ཡེ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སོ་ཧྥེ་ཡ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སི་ཁྲོག་ཧོ་ལེམ།"</item>
+<item>"T <xliff:g id="separator">=</xliff:g> ཁྲེ་ལུན།"</item>
+<item>"V <xliff:g id="separator">=</xliff:g> ཝན་ཁྲེ་ཁན།"</item>
+<item>"V <xliff:g id="separator">=</xliff:g> ཝེ་ཐ་ནེམ།"</item>
+<item>"V <xliff:g id="separator">=</xliff:g> ཝེལ་ནེར་སི།"</item>
+<item>"W <xliff:g id="separator">=</xliff:g> ཝ་སོ།"</item>
+<item>"Z <xliff:g id="separator">=</xliff:g> ཟ་གེ་རེབ།"</item>
+<item>"Z <xliff:g id="separator">=</xliff:g> བཟོ་རེ་ཁི།"</item>
+<item>"A <xliff:g id="separator">=</xliff:g> ཨན་ཐ་ནན་ནར་རེ་ཝོལ།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མལ་ལེ་སྦྲེ་ཝ།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མོ་ལེ་ཁྲེ་སེ།"</item>
+<item>"A <xliff:g id="separator">=</xliff:g> ཨོ་ཁི་ལན།"</item>
+<item>"F <xliff:g id="separator">=</xliff:g> ཧྥེ་ཀྲེ།"</item>
+<item>"G <xliff:g id="separator">=</xliff:g> ཀོན་ཝམ།"</item>
+<item>"H <xliff:g id="separator">=</xliff:g> ཧོ་ནོ་ལོ་ལོ།"</item>
+<item>"K <xliff:g id="separator">=</xliff:g> ཁ་རེ་ཁྲེ་མ་ཁྲེ།"</item>
+<item>"N <xliff:g id="separator">=</xliff:g> ནོས་མེ་ཨ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> ས་མོ་ཨ།"</item>
+<item>"T <xliff:g id="separator">=</xliff:g> ཁྲ་ཧེ་ཁྲེ།"</item>
+<item>"A <xliff:g id="separator">=</xliff:g> ཨན་ཐེ་ཀོ"</item>
+<item>"A <xliff:g id="separator">=</xliff:g> ཨོ་སི་ཐན།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྦོ་སི་ཁྲན།"</item>
+<item>"C <xliff:g id="separator">=</xliff:g> ཁེལ་ག་རེ།"</item>
+<item>"C <xliff:g id="separator">=</xliff:g> ཁ་ལམ་སྦར་སི།"</item>
+<item>"D <xliff:g id="separator">=</xliff:g> སྦྲ་ར་སི།"</item>
+<item>"K <xliff:g id="separator">=</xliff:g> ནོལ་ཁ་སི་ཝེལ།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མེན་ཧྥེས་སི།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མ་ཨ་མེ།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མེ་ནེ་ཨ་ཕོ་ལེ་སི།"</item>
+<item>"O <xliff:g id="separator">=</xliff:g> ཨོ་ཁྲ་ཝ།"</item>
+<item>"P <xliff:g id="separator">=</xliff:g> ཧྥེ་ལ་སྦྲ་ཧྥེ་ཡ།"</item>
+<item>"P <xliff:g id="separator">=</xliff:g> ཕོར་ཁྲ་ལན།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེན་སྦྲེ་ཨེ་སྒོ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེན་ཧྥ་རེ་སེ་སི་ཀོ"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> ཚྭ་མཚོ་གྲོང་།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེན་ཧོ་ཟེ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེན་སེལ་ཝོ་སྒྲོལ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེ་ཨེ་ཁྲ་ལོ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེན་ལོ་ཝེ་སི།"</item>
+<item>"W <xliff:g id="separator">=</xliff:g> ཝ་ཧྲིན་ཁྲོན་དམིགས་གསལ་ཁུལ།"</item>
+<item>"H <xliff:g id="separator">=</xliff:g> ཧོས་སི་ཁྲོན།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེན་ཨན་ཁྲོན་ནེ་ཨོ།"</item>
+<item>"T <xliff:g id="separator">=</xliff:g> ལྗ་ཁེ་སེན་ཝེལ།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྤལ་མོལ།"</item>
+<item>"N <xliff:g id="separator">=</xliff:g> ནན་ཧྲི་ཝེལ།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མེལ་ཝོལ་ཁེ།"</item>
+<item>"O <xliff:g id="separator">=</xliff:g> ཨོ་ཁེ་ལར་ཧོམ་གྲོང་།"</item>
+<item>"L <xliff:g id="separator">=</xliff:g> ལེ་སི་ཝེ་ག་སི།"</item>
+<item>"A <xliff:g id="separator">=</xliff:g> ཨེལ་སྦར་ཁར་ཁེ།"</item>
+<item>"T <xliff:g id="separator">=</xliff:g> ཁྲོས་སོན།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> ས་ཁེ་ར་མེན་ཐོ།"</item>
+<item>"Y <xliff:g id="separator">=</xliff:g> ཨེ་ཁྲ་ལན་ཁྲ།"</item>
+<item>"K <xliff:g id="separator">=</xliff:g> ཁ་ལེ་ཧྥ་ལན།"</item>
+<item>"X <xliff:g id="separator">=</xliff:g> ཨོ་ལེ་ཨ་སི་གསར་བ།"</item>
+<item>"T <xliff:g id="separator">=</xliff:g> ཁྲེམ་ཕེལ།"</item>
+<item>"P <xliff:g id="separator">=</xliff:g> ཕེལ་ཁྲི་སི་ཕར།"</item>
+<item>"X <xliff:g id="separator">=</xliff:g> སེན་སེན་ནར་ཁྲེ།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> རི་ལྗོངས།"</item>
+<item>"L <xliff:g id="separator">=</xliff:g> རེ་ནོལ།"</item>
+<item>"H <xliff:g id="separator">=</xliff:g> བྲག་རྡོ་ནག་པོའི་གྲོང་།"</item>
+<item>"D <xliff:g id="separator">=</xliff:g> སྦྲོ་ཧ།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> པེ་ཅིན།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མང་སྦེ།"</item>
+<item>"D <xliff:g id="separator">=</xliff:g> རྡི་ལི།"</item>
+<item>"D <xliff:g id="separator">=</xliff:g> ཨོ་ས་ཁ།"</item>
+<item>"L <xliff:g id="separator">=</xliff:g> ལར་ཧོར།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> ས་ནེ།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྦ་སེ་ལོ་ནལ།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མོ་ནེ་ཧེ།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མེ་ལན།"</item>
+<item>"F <xliff:g id="separator">=</xliff:g> ཧྥ་རན་ཁ་ཧྥ་ཁྲེ།"</item>
+<item>"H <xliff:g id="separator">=</xliff:g> ཧེ་ནོ་ཨེ།"</item>
+<item>"A <xliff:g id="separator">=</xliff:g> ཨན་ཁ་ར།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྦན་ག་ལོར།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྦ་ར་སེ་ལེ་ཡ།"</item>
+<item>"K <xliff:g id="separator">=</xliff:g> ཁེ་ཕི་ཁྲོན།"</item>
+<item>"Y <xliff:g id="separator">=</xliff:g> ཨེ་སི་ལེམ་སྦོ།"</item>
+<item>"L <xliff:g id="separator">=</xliff:g> རེ་ཨོ་སྡ་རྗེ་ནེ་རོལ།"</item>
+<item>"A <xliff:g id="separator">=</xliff:g> ཨན་ནེན་སྦོ།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྦོལ་སྦྲ།"</item>
+<item>"J <xliff:g id="separator">=</xliff:g> ཁན་སྦ་རེ་ཀྲི།"</item>
+<item>"K <xliff:g id="separator">=</xliff:g> ཁར་ཁ་ལན།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མན་སྦྲ་སན།"</item>
+<item>"G <xliff:g id="separator">=</xliff:g> ཀོང་གྲུ།"</item>
+<item>"H <xliff:g id="separator">=</xliff:g> ཧེ་སྦྲ་ར་སྦ།"</item>
+<item>"L <xliff:g id="separator">=</xliff:g> རེ་སི་ཁྲོན།"</item>
+<item>"B <xliff:g id="separator">=</xliff:g> སྦེ་ལོ་ཧོར་ཟོན་ཁྲེ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེན་ཐེ་ཨ་སྒོ།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མོན་རོ་ཝ་ཡ།"</item>
+<item>"K <xliff:g id="separator">=</xliff:g> ཁ་ལོམ་སྦོ།"</item>
+<item>"Q <xliff:g id="separator">=</xliff:g> ཁྲེ་ཝ་ཝ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེལ་ཝ་སྦྲོལ།"</item>
+<item>"G <xliff:g id="separator">=</xliff:g> གོལ་ཀོན།"</item>
+<item>"M <xliff:g id="separator">=</xliff:g> མན་ཁྲེ་སི་ཁྲར།"</item>
+<item>"J <xliff:g id="separator">=</xliff:g> ཁེ་ཝོ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེན་ཕེ་ཁྲར་སི་ཕར།"</item>
+<item>"K <xliff:g id="separator">=</xliff:g> ཁ་ར་ཁ་ཝོ།"</item>
+<item>"F <xliff:g id="separator">=</xliff:g> རོ་ཚི་ཝོ།"</item>
+<item>"H <xliff:g id="separator">=</xliff:g> ཧན་སྦར།"</item>
+<item>"A <xliff:g id="separator">=</xliff:g> ཨོ་ལོ།"</item>
+<item>"H <xliff:g id="separator">=</xliff:g> ཧེ་ཧྥ།"</item>
+<item>"S <xliff:g id="separator">=</xliff:g> སེན་ཧོ་ཨན།"</item>
+<item>"T <xliff:g id="separator">=</xliff:g> ཁྲི་སྒོ་སར་གེ་ལ་ཕལ།"</item>
+<item>"P <xliff:g id="separator">=</xliff:g> ཕ་ར་མེ་རེ་སྦོ།"</item>
+<item>"J <xliff:g id="separator">=</xliff:g> ཁེས་ཁྲོ།"</item>
+<item>"L <xliff:g id="separator">=</xliff:g> ལོ་ཁ་ཕོར་ཅན་ནལ།"</item>
+</string-array>
+<string-array name="cities_names_sprd">
+<item>ཡི་ཤུའི་གླིང་ཕྲན། /ཁེ་རེ་པ་སི།</item>
+<item>ཕྲ་ཐ་མུ་གླིང་ཕྲན།/ནེའུ་ཙི་ལན། </item>
+<item>ཝེ་ལིང་ཐོན།/ནེའུ་ཙི་ལན། </item>
+<item>ཧྥི་ཅི།/སུ་ཝ།</item>
+<item> ཨ་ན་ཏ་ཨར།/ཨུ་རུ་ས།</item>
+<item>ཁན་ཕྲ་ཅ།/ཨུ་རུ་ས།</item>
+<item>ཧྥུ་ལ་ཏི་ཨ་སི་ཐོ་ཁ།/ཨུ་རུ་ས།</item>
+<item>སི་ནི།/ཨོ་སི་ཁྲུ་ལི་ཡ།</item>
+<item>ཁེན་པེ་ར།/ཨོ་སི་ཁྲུ་ལི་ཡ།</item>
+<item>རྨོ་ཨ་པིན།/ཨོ་སི་ཁྲུ་ལི་ཡ།</item>
+<item>པུ་ལི་སི་པན།/ཨོ་སི་ཁྲུ་ལི་ཡ།</item>
+<item>གཡའ་ཐ་ལི་ཏི།/ཨོ་སི་ཁྲུ་ལི་ཡ།</item>
+<item>ཏ་ཨ་ཝིན།/ཨོ་སི་ཁྲུ་ལི་ཡ།</item>
+<item>ཏུང་ཅིང།/རི་པིན།</item>
+<item>ཧན་གྲང།/ཁོ་རེ་ཡ།</item>
+<item>ཐེ་པེ།/ཀྲུང་ཧྭ།</item>
+<item>ཧྲང་ཧྭེ།/ཀྲུང་ཧྭ།</item>
+<item>མ་ནི་ལ།/ཧྥི་ལི་ཕིན།</item>
+<item>པེ་ཅིང།/ཀྲུང་ཧྭ།</item>
+<item>པོ་སི།/ཨོ་སི་ཁྲུ་ལི་ཡ།</item>
+<item>ཧང་ཀོང།/ཀྲུང་ཧྭ།</item>
+<item>སིང་ཀ་ཕོར།/སིང་ཀ་ཕོར།</item>
+<item>ཅི་ལུང་ཕོ།/མ་ལེ་ཞི་ཡ།</item>
+<item>ཡ་ཏ་ཅ།/ཧིན་ཉི།</item>
+<item>ཧོ་ནེ།/ཡོ་ནན།</item>
+<item>མན་ཀུའུ།/ཐེ་ལན།</item>
+<item>དབྱང་ཀོང།/འབར་མ།</item>
+<item>ཏ་ཁ།/བྷང་ག་ལ།</item>
+<item>ཀ་ཏ་མིན་རྡུ།/ནེ་པ་ལ།</item>
+<item>ཁ་ཨ་ཁ་ཐ།/རྒྱ་གར།</item>
+<item>ཏི་ལི་གསར་པ།/རྒྱ་གར།</item>
+<item>མང་མི།/རྒྱ་གར།</item>
+<item>དབྱི་སི་པམ་པོ།/ཕ་གི་སི་ཐན།</item>
+<item>ཐ་ཧ་ཀན།/ཨུ་ཙི་པེ་ཁ་སི་ཐན།</item>
+<item>གླ་ཧ་ཨ།/ཕ་གི་སི་ཐན།</item>
+<item>ག་ལ་བྱི།/ཕ་གི་སི་ཐན།</item>
+<item>ཁ་པུར།/ཨ་ཧྥུ་ཧན།</item>
+<item>ཐེ་ཧེ་རན།/དབྱི་ལང།</item>
+<item>ཨབ་ཀྲ་པེ།/ཨ་རབ་མཉམ་འབྲེལ་ཚོ་དཔོན་རྒྱལ་ཁབ།</item>
+<item>མོ་སི་ཁོ།/སུའུ་ལན།</item>
+<item>ཐ་ན་ན་རི་ཝོ།/མ་ཏ་ཀ་སི་ཁར།</item>
+<item>རི་ཡ་ཏེ།/སོ་ཏི་ཨ་རབ།</item>
+<item>ཡ་ཏིང།/ཡེ་མེན།</item>
+<item>པ་ཀ་ཏ།/དབྱི་རག།</item>
+<item>ཨེ་ཏི་སི་ཨ་པ་པ།/ཨེ་ཛི་ཨོ་པི་ཡ།</item>
+<item>ཁུ་ཝེ་ཐེ།/ཁུ་ཝེ་ཐེ་གྲོང་ཁྱེར།</item>
+<item>ནེ་རོ་པི།/ཁེན་ནི་ཡ།</item>
+<item>ཁར་ཐུམ།/སུའུ་ཏན།</item>
+<item>ཨན་མན།/ཅོར་ཏན།</item>
+<item>པེ་རུ་ཐེ།/ལེ་པ་ནོན།</item>
+<item>ཡས་ལུ་ས་ལང།/ཡི་སི་ལས།</item>
+<item>ཨན་ཁ་ར། /ཐུར་ཁེ།</item>
+<item>པ་ཆ་རི་སི་ཐེ།/རོ་མ་ནི་ཡ།</item>
+<item>མིང་སི་ཁ། /པེ་ཨུ་རུ་སུ།</item>
+<item>ཨོ་ཏ་ས། /ཨུ་ཁ་ལན།</item>
+<item>ཅི་ཧྥུ།/ཨུ་ཁ་ལན།</item>
+<item>སི་ཐན་ཐན་པུ་ཨ།/ཐུར་ཁེ།</item>
+<item>སོ་ཧྥེ་ཡ།/པུར་ཀ་རི་ཡ།</item>
+<item>ཡ་ཏེན།/ཞི་ལ།</item>
+<item>ཐ་ལིན།/ཨེ་སོ་ནི་ཡ།</item>
+<item>ཧེར་སིན་ཁེ།/ཧྥིན་ལན།</item>
+<item>ཁེ་རོ།/ཨེ་ཅིབ།</item>
+<item>ཧ་ར་རེ། /ཙམ་པབ་ཝེ།</item>
+<item>ཡོ་ཧན་ནི་སི་པོའོ། /ཨ་ཧྥི་རི་ཁ་ལྷོ་མ།</item>
+<item>ཁེ་ཕུ་ཏུན།/ཨ་ཧྥི་རི་ཁ་ལྷོ་མ།</item>
+<item>ཧྭ་ཧྲ།/ཕོ་ལན།</item>
+<item>པེ་ཨ་ཀ་ལེ་ཏ།/སི་ཨ་ཝི་ཡ་དང་མང་ཐ་ནེ་ཀ་ལོ།</item>
+<item>པུ་ཏ་ཕེ་སི།/ཧང་ཀ་རི།</item>
+<item>སི་ཐོག་ཁོར་མ།/སུའེ་ཏན།</item>
+<item>ཝེ་ཨེན་ན།/ཨོ་སི་ཁྲུ་རི་ཡ།</item>
+<item>ས་ཀ་ལེ་པོ།/ལོ་ག་ཏི་ཡ།</item>
+<item>ཕུ་རག།/ཅེ་ཁེ།</item>
+<item>པེར་ལེན།/འཇར་མན།</item>
+<item>རོ་མ།/དབྱི་ཐ་ལི།</item>
+<item>ཁོ་ཕེན་ཧོ་ཀེན།/ཏེན་མན།</item>
+<item>ཨ་སི་ལོ།/ནོར་ཝེ།</item>
+<item>ཧྥུ་ལན་ཁ་ཧྥུ།/འཇར་མན།</item>
+<item>སུ་ལི་ཧྲི།/སུའེ་ཙེར།</item>
+<item>རི་ནི་ཝ།/སུའེ་ཙེར།</item>
+<item>ཨམ་སི་ཐེ་ཏམ།/ཧོ་ལན།</item>
+<item>པུ་རུ་སེར།/པེར་ཀྲེམ།</item>
+<item>ཕ་རི་སི། /ཧྥ་རན་སི།</item>
+<item>པ་སས་ལོ་ན།/སི་ཕེན།</item>
+<item>མ་ཏེ་རི།/སི་ཕེན།</item>
+<item>ཀ་ལོ་སི།/ནི་ཀྲི་རི་ཡ།</item>
+<item>ཨར་ཅིར་སི།/ཨར་ཅི་རི་ཡ།</item>
+<item>ལོན་ཏོན།/དབྱིན་ཇི།</item>
+<item>ཏུ་པོ་ལིན།/ཨིར་ལན།</item>
+<item>ལི་སི་པོན།/ཕུའུ་ཐའོ་ཡ།</item>
+<item>ཁ་ས་པོ་ལན་ཁ།/མོ་རོ་ཁོ།</item>
+<item>རེ་ཁ་ཅ་ཝི་ཁ།/འཁྱངས་གླིང།</item>
+<item>ལི་གཡོ་རི་ནི་ལུ།/པར་ཙིར།</item>
+<item>ཧྲང་པོ་ལོ།/པར་ཙིར།</item>
+<item>པ་ཞི་ལི་ཡ།/པར་ཙིར།</item>
+<item>མོང་ཐི་ཝེ་ཏི་ཡ།/ཝུ་ར་ཀུའེ།</item>
+<item>པུ་དབྱི་ནོ་སི་ཨེ་རི་སི།/ཨ་ཀན་ཐིན།</item>
+<item>ཧ་ལི་ཧྥ་ཁ་སི།/ཁ་ན་ཏ།</item>
+<item>ཁ་ར་ཁ་སི།/ཝེ་ནི་ཙུའེ་ལ།</item>
+<item>སན་ཧུ་ཨན།/ཕུལ་ཐོ་རི་ཁོ།</item>
+<item>སན་ཐེ་ཨ་ཀོ།/ཀྲི་ལི།</item>
+<item>སེན་ལྗོན་ས/ཁན་ན་སྒྲ།</item>
+<item>ཨེ་སུན་སིན།/ཕ་ར་ཀུའེ།</item>
+<item>ལ་པོ་ཙི།/པོ་ལི་ཝེ་ཡ།</item>
+<item>སན་ཐོ་ཏོ་མིང་ཀོ།/ཏོ་སྨི་ནི་ཁ།</item>
+<item>པོ་སི་ཏུན།/ཨ་རི།</item>
+<item>མང་ཐི་ལི་ཨར།/ཁ་ན་ཏ།</item>
+<item>ཉུས་ཡོའོ།/ཨ་རི།</item>
+<item>ན་སོ།་/པ་ཧ་མ།</item>
+<item>ཨོ་ཐེ་ཝ།/ཁ་ན་ཏ།</item>
+<item>ཏོ་ལོན་ཏོ།/ཁ་ན་ཏ།</item>
+<item>ཧྥེ་གྲེང།/ཨ་རི།</item>
+<item>ཧ་ཝ་ན།/ཁུ་པ།</item>
+<item>ཡིན་ཏི་ཨན་ན་པོ་ལི་སེ།/ཨ་རི།</item>
+<item>ཡ་ཐ་ལན་ཏ།/ཨ་རི།</item>
+<item>ཝ་ཧྲེང་ཐོན་ཀ་ལུན་པི་ཡ།/ཨ་རི།</item>
+<item>ཏི་ཐ་བླུ།/ཨ་རི།</item>
+<item>པོ་ཀ་ཏའ། ཇན་ཕུའུ་ཀྲའེ།</item>
+<item>ལི་མ།/དམི་ལུ།</item>
+<item>ཅི་སི་ཏུན།/ཡ་མ་ཅ།</item>
+<item>མོ་ཤི་ཀ་གྱོང་ཁྱེར།/མོ་ཤི་ཀ།</item>
+<item>ཤུ་སི་ཏུན།/ཨ་རི།</item>
+<item>ཝན་ནི་པོའོ།/ཁ་ན་ཏ།</item>
+<item>མིང་ནི་ཨ་པོ་ལི་སི།/ཨ་རི།</item>
+<item>མང་ཀ་མ་ལི།/ཨ་རི།</item>
+<item>ཀྲིའི་ཅ་ཀ།/ཨ་རི།</item>
+<item>ཤིན་པོ་ཨ་ལན།/ཨ་རི།</item>
+<item>སི་པོ་ལོའོ།/ཨ་རི།</item>
+<item>ཨུ་ཏི་མ་ལ།/ཨུ་ཏི་མ་ལ།</item>
+<item>ཐེ་ཀུ་ཤི་ཅ་ཨ་པ།/ཧུང་ཏོ་ལ་སི།</item>
+<item>ཧྲིང་ས་ཨ་ཝ་ཏོ།</item>
+<item>མ་ན་ཀ།/ནི་ཅ་ལ་ཀ།</item>
+<item>ཏན་ཧྥུ།/ཨ་རི།</item>
+<item>ཨེ་ཏ་མང་ཏུན།/ཁ་ན་ཏ།</item>
+<item>ཧྥིང་ཧྭ་གྲོང།/ཨ་རི།</item>
+<item>ཨ་ཁ་ལ་ཝི་ལ།/ཁ་ན་ཏ།</item>
+<item>ལོ་ཧྲན་ཅི།/ཨ་རི།</item>
+<item>སི་ཨ་ཐོའོ།/ཨ་རི།</item>
+<item>ཝིན་ཀ་ཧྭ།/ཁ་ན་ཏ།</item>
+<item>སན་ཧྥུ་རན་སི་སི་ཁོ།/ཨ་རི།</item>
+<item>ཨ་ལ་སི་ཅ་ཨན་ཁ་ལི་ཇི།/ཨ་རི།</item>
+<item>ཧ་ན་ལུ་ལུ།/ཨ་རི།</item>
+</string-array>
+<string-array name="auto_silence">
+<item>"སྐར་མ་1"</item>
+<item>"སྐར་མ་5"</item>
+<item>"སྐར་མ་10"</item>
+<item>"སྐར་མ་15"</item>
+<item>"སྐར་མ་20"</item>
+<item>"སྐར་མ་25"</item>
+<item>"སྐར་མ 30"</item>
+</string-array>
+<string-array name="repeat_days_sat">
+<item>"གཟའ་སྤེན་པ།"</item>
+<item>"གཟའ་ཉི་མ།"</item>
+<item>"གཟའ་ཟླ་བ།"</item>
+<item>གཟའ་མིག་དམར།</item>
+<item>གཟའ་ལྷག་པ།</item>
+<item>གཟའ་ཕུར་བུ།</item>
+<item>གཟའ་པ་སངས།</item>
+</string-array>
+<string-array name="repeat_days_sun">
+<item>"གཟའ་ཉི་མ།"</item>
+<item>"གཟའ་ཟླ་བ།"</item>
+<item>གཟའ་མིག་དམར།</item>
+<item>གཟའ་ལྷག་པ།</item>
+<item>གཟའ་ཕུར་བུ།</item>
+<item>གཟའ་པ་སངས།</item>
+<item>"གཟའ་སྤེན་པ།"</item>
+</string-array>
+<string-array name="repeat_days_mon">
+<item>"གཟའ་ཟླ་བ།"</item>
+<item>གཟའ་མིག་དམར།</item>
+<item>གཟའ་ལྷག་པ།</item>
+<item>གཟའ་ཕུར་བུ།</item>
+<item>གཟའ་པ་སངས།</item>
+<item>"གཟའ་སྤེན་པ།"</item>
+<item>"གཟའ་ཉི་མ།"</item>
+</string-array>
+</resources>

@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="cities_names">
+<item>"A<xliff:g id="separator">=</xliff:g>Abidjaan"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Akiiraa"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Finfinnee"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Aljeeriis"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Blaantyree"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Birazzavillee"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kaayiiroo"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kasaabilaankaa"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Koonakry"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Daakaar"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Daar es Salaam"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Jibuutii"</item>
+<item>"F<xliff:g id="separator">=</xliff:g>Magaala Biliisaa"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>Gaboroonee"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Haraaree"</item>
+<item>"J<xliff:g id="separator">=</xliff:g>Johannesbaargi"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kampaalaa"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kaartuum"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kigaalii"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kinshasaa"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>Laagoos"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Maseruu"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Moqaadishoo"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>Naayiroobii"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>São Tomée"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Timbuktuu"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Tripoolii"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Tuniis"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Anchoraage"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Mendooza"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Arubaa"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Asunciónii"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Barbaadoos"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Belizee"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Bogootáa"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Buenos Xiyaaraa"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kaankuun"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Karaakas"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kaayman"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Chigaakoo"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Koosta Rica"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kurakao"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Daawson Kreek"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Denveer"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Detroiti"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Dominikaa"</item>
+<item>"E<xliff:g id="separator">=</xliff:g>Edmontonii"</item>
+<item>"E<xliff:g id="separator">=</xliff:g>El Saalvaadorii"</item>
+<item>"F<xliff:g id="separator">=</xliff:g>Fortalezaa"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>Grand Tuurk"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>Grenadaa"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>Guatemaala"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>Guyanaa"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Halifaax"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Havaanaa"</item>
+<item>"I<xliff:g id="separator">=</xliff:g>Indianapolis"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Knoox"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Mareengoo"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Petersbarg"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Magaala Himii"</item>
+<item>"V<xliff:g id="separator">=</xliff:g>Vevaay"</item>
+<item>"V<xliff:g id="separator">=</xliff:g>Vincennesii"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>Winamak"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kingstoonii"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>Nuestra Señora de La Paz"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>Limaa"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>Los Angeleesii"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>Louisvillee"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Managuwaa"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Martinique"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Mendooza"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Metlakatlaa"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Magaala Meeksiikoo"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Monterreyi"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Montevidiyoo"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Montreal"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>Nassaawuu"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>Niwuu Yoork"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Beulaah"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Handhuura"</item>
+<item>"N<xliff:g id="separator">=</xliff:g> Saaleem Haaraa"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Paanamaa"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Qooqa"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Doonii Ispeen"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Doonii-au-Mootummaa"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Puerto Riicoo"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Saanto Domiingoo"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>São Paulo"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Qulqulluu.Daawiit"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Qulqulluu. Kitts"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> Qulqulluu.  Lucia"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> Qulqulluu.Thomas"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Tijuanaa"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Toroontoo"</item>
+<item>"V<xliff:g id="separator">=</xliff:g>Vancouveerii"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>Winnipegii"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> Fallaa Kibba"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>Waggaa dheeraabyen"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Almaatii"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Amman"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Anadyr"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Aqtawaa"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Baghdaad"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Bahraain"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Baakuu"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Bangkook"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Beeruuti"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kaalkuttaa"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Daamaskaas"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Dhaaka"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Dubaa’ii"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>Gaazaa"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Hebroon"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Hoo Chi Minh"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Hong Kong"</item>
+<item>"I<xliff:g id="separator">=</xliff:g>Istaanbuul"</item>
+<item>"J<xliff:g id="separator">=</xliff:g>Jakaartaa"</item>
+<item>"J<xliff:g id="separator">=</xliff:g>Iyeeruusaaleem"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kaabuul"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Karaachi"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kathmanduu"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kuala Lumpuur"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kuwaaiti"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Makau"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Maanilaa"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Muskaat"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Phnomi Penhh"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Pyongyaangi"</item>
+<item>"Q<xliff:g id="separator">=</xliff:g>Kaatar"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>Rangooni"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>Riyadhii"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Saigooni"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Seoulii"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Shanghai"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Singaapooree"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Taipei"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Teehraan"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Tel Aviiv"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Tookiyoo"</item>
+<item>"U<xliff:g id="separator">=</xliff:g>Ulaanbaatar"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Bermudaa"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kanarii"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Keepe Verdee"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>Reykjaviik"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Istaanleey"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Adellaayiidii"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Brisbaane"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kanberra"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Daarwin"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Melboornii"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>Walees Haaraa Kibba"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Peerzii"</item>
+<item>"Q<xliff:g id="separator">=</xliff:g>Queenslaandii"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Sydneey"</item>
+<item>"V<xliff:g id="separator">=</xliff:g>Viiktooriiyaa"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>Newfoundlaand"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Saskatchewani"</item>
+<item>"E<xliff:g id="separator">=</xliff:g> Islaandii Bahaa"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Amsterdaam"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Andorraa"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Ateensii"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Belfast"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Belgrade"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Berliin"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Bratislavaa"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Birussilees"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Buchaareest"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Budaapeest"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Chisinuwaa"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Koopenhaagen"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Dubliin"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>Gibraaltaar"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Helsiinki"</item>
+<item>"I<xliff:g id="separator">=</xliff:g>Isle of Maan"</item>
+<item>"I<xliff:g id="separator">=</xliff:g>Istaanbuul"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kiev"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>Lisboonii"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>Londoon"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>Luxembourg"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Maadriid"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Maltaa"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Minski"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Monaakoo"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Moskoowu"</item>
+<item>"O<xliff:g id="separator">=</xliff:g>Osiiloo"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Paariis"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Praaguwee"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>Riga"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>Roomaa"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Saan Maariinoo"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Saaraajeevoo"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Simfeeropolii"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Skopjee"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Sofiiyaa"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Stockhoolm"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Tallinniin"</item>
+<item>"V<xliff:g id="separator">=</xliff:g>Vatikaan"</item>
+<item>"V<xliff:g id="separator">=</xliff:g>Veennaa"</item>
+<item>"V<xliff:g id="separator">=</xliff:g>Vilnius"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>Waarsaaw"</item>
+<item>"Z<xliff:g id="separator">=</xliff:g>Zaagreeb"</item>
+<item>"Z<xliff:g id="separator">=</xliff:g>Zuriich"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Antanaanaariivoo"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Maaldivees"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Mauritishees"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Auckland"</item>
+<item>"F<xliff:g id="separator">=</xliff:g>Fiijii"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>Guaam"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Honooluluu"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kiritimaati"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>Noumiyaa"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Saamoa"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Taahiti"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Antiguaa"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Austiin"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Bostoonii"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>kaalgarii"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Koloomboosi"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Daallaas"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kinooxvillee"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Memphis"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Miamii"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Minniyaapoliis"</item>
+<item>"O<xliff:g id="separator">=</xliff:g>Ottaawaa"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Filaadeelfiyyaa"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Poortlaandii"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Saan Diego"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Saan Fraansiiskoo"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Haroo Magaala Ashaboo"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Saan Joose"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Saan Saalvaadoor"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Seattle"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>St. Louis"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>Waashiingtaan D.C."</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Hoostoon"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Saan Antooniiyoo"</item>
+<item>"J<xliff:g id="separator">=</xliff:g>Jaakiisonvillee"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Baaltiimooree"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>Naashvillee"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Milwaukee"</item>
+<item>"O<xliff:g id="separator">=</xliff:g>Magaala Oklaahoomaa"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>Laas Veegaas"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Albuuquerque"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Tuuksoonii"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Saakrameentoo"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Atlaantaa"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Cleevelaandii"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>Haaraa Orleansii"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Taampaa"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Pittsbaargh"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Cincinnati"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Tullu ilaaluu"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>Reenoo"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> Magaala Dhakaa Gurraacha"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Doohaa"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Beejiingii"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Mumbiiyaa"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Deelhi"</item>
+<item>"O<xliff:g id="separator">=</xliff:g>Osaakaa"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>Laahooree"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Sana\'a"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Baarseeloonaa"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Muniich"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Milaan"</item>
+<item>"F<xliff:g id="separator">=</xliff:g>Firaankfruut"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Haanoi"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Ankaaraa"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Bangaalooree"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Brazilliffa"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Magaala keepii"</item>
+<item>"I<xliff:g id="separator">=</xliff:g>Islaamaabad"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>Rio dee Jaaneiroo"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Ann Arboor"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Bouldeeri"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kaambiriijiii"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kirklaand"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Madisoonii"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>Guangzhouwuu"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Hydeeraabaad"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>Reestoonii"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Beeloo Horizoontee"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Saantiaagoo"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Mooniroviyaa"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kolomboo"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Chihuahua"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Saalvaadorii"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>Gurgaonii"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Maanchesteer"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kyiiv"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>St. Peeteersbaargi"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kiraakóowuu"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>Wirookilaawuu"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Haambaargi"</item>
+<item>"O<xliff:g id="separator">=</xliff:g>Oulu"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Haaifaa"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Saan Juaanii"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Tegucigaalpaa"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Paaramaariiboo"</item>
+<item>"Q<xliff:g id="separator">=</xliff:g>Quito"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>Ljubljaanaa"</item>
+</string-array>
+<string-array name="repeat_days_sat">
+<item>"Sanbata duraa"</item>
+<item>"Dilbata"</item>
+<item>"Wiixata"</item>
+<item>"Kibxata"</item>
+<item>"Roobii"</item>
+<item>"Kaamiisa"</item>
+<item>"Jimaata"</item>
+</string-array>
+<string-array name="repeat_days_sun">
+<item>"Dilbata"</item>
+<item>"Wiixata"</item>
+<item>"Kibxata"</item>
+<item>"Roobii"</item>
+<item>"Kaamiisa"</item>
+<item>"Jimaata"</item>
+<item>"Sanbata duraa"</item>
+</string-array>
+<string-array name="repeat_days_mon">
+<item>"Wiixata"</item>
+<item>"Kibxata"</item>
+<item>"Roobii"</item>
+<item>"Kaamiisa"</item>
+<item>"Jimaata"</item>
+<item>"Sanbata duraa"</item>
+<item>"Dilbata"</item>
+</string-array>
+<string-array name="auto_silence">
+<item>"Daaqiiqaa 1"</item>
+<item>"Daqiiqota 5"</item>
+<item>"Daqiiqota 10"</item>
+<item>"Daqiiqota 15"</item>
+<item>"Daqiiqota 20"</item>
+<item>"Daqiiqota 25"</item>
+<item>"Daqiiqota 30"</item>
+</string-array>
+<string-array name="cities_names_sprd">
+<item>"Kiriitimaatii/Kiriibaatii"</item>
+<item>"Chaathaam Iyiislaandii/ Niwuu Ziilaandii"</item>
+<item>"Weellingiitoon/Niwuu Ziilaandii"</item>
+<item>"Suuvaa/Fiijii"</item>
+<item>"Anaadyrii/ Raashiyaa"</item>
+<item>"Kamchaatkaa/ Raashiyaa"</item>
+<item>"Vlaadiivoostookii/Raashiyaa"</item>
+<item>"Sydneey/ Awuustiraaliyaa"</item>
+<item>"Kaanbeerraa/ Awuustiraaliyaa"</item>
+<item>"Meelboornii/ Awuustiraaliyaa"</item>
+<item>"Biriibaanee/ Awuustiraaliyaa"</item>
+<item>"Adeelaayiidii/Awuustiraaliyaa"</item>
+<item>"Daarwiin/Awuustiraaliyaa"</item>
+<item>"Tookiyoo/Jaapaan"</item>
+<item>"Seeool/Kooriiyaa"</item>
+<item>"Taappii/Chaayinaa"</item>
+<item>"Shaanghaai/Chaayinaa"</item>
+<item>"Maanila/FIliippinii Iyiislaadii"</item>
+<item>"Beejiingii/Chaayinaa"</item>
+<item>"Peerzii/Awuustiraaliyaa"</item>
+<item>"Hoong Koong/Chaayiinaa"</item>
+<item>"Siingaaporee/Siingaaporee"</item>
+<item>"Kualaa Lumpuur/Malashiyaa"</item>
+<item>"Jakaartaa/Indooneeshiyaa"</item>
+<item>"Hanoi/Veeitnaam"</item>
+<item>"Baangkook/Taayiilaand"</item>
+<item>"Yaangoon/Burmaa"</item>
+<item>"Dhakaa/Beengaal"</item>
+<item>"Katmaandu/Neepaal"</item>
+<item>"Kolkaataa/Indiiyaa"</item>
+<item>"Deelhii haaraa/Indiiyaa"</item>
+<item>"Mumbiiyaa/Indiiyaa"</item>
+<item>"Islaamabad/Paakiistaan"</item>
+<item>"Taashkeent/ Uzbeekiistaan"</item>
+<item>"Lahooree/Paakiistaanii"</item>
+<item>"Karaachii/Paakiistaanii"</item>
+<item>"Kaabuul/ Afghaaniistaan"</item>
+<item>"Teehiraan/Iraaq"</item>
+<item>"Abuu Dhabii/Bakkoota Araba Tokkoome"</item>
+<item>"Moskoow/Raashiyaa"</item>
+<item>"Antananaariivoo/Madagaaskaar"</item>
+<item>"Riyaad/Saawuud Arabbiyaa"</item>
+<item>"Adeen/Yeemeen"</item>
+<item>"Bagdaad/Iraaq"</item>
+<item>"Finfinnee/Itoophiyaa"</item>
+<item>"Magaala Kuwaati/Kuwaati"</item>
+<item>"Naayiroobii/Keeniyaa"</item>
+<item>"Kaartuum/Sudaan"</item>
+<item>"Amman/Joordaan"</item>
+<item>"Beeruuti/Leebaanoon"</item>
+<item>"Iyeeruusaaleem/Israa’eel"</item>
+<item>"Ankaraa/Turkeeyi"</item>
+<item>"Buchaareest/Roomaaniyaa"</item>
+<item>"Minsk/Beelaaruus"</item>
+<item>"Oddeesa/Yuukireenii"</item>
+<item>"Kyvik/Yuukireenii"</item>
+<item>"Istaanbuul/Turkeeyi"</item>
+<item>"Sofiyaa/Bulgariyaa"</item>
+<item>"Ateensi/Giriiki"</item>
+<item>"Tallinni/Estooniyaa"</item>
+<item>"Helsiinkii/Fiinlaand"</item>
+<item>"Kaayiiroo/Ijiipti"</item>
+<item>"Haraaree/Zimbaabwee"</item>
+<item>"Joohaaneesbaarg/oota. Afrikaa"</item>
+<item>"Magaala/oota Keeppii. Afrikaa"</item>
+<item>"Waarsaaw/Poolaand"</item>
+<item>"Beelgireedii/Seerbiyaa fi Moonteenego Lo"</item>
+<item>"Budaapeestii/Hangaarii"</item>
+<item>"Istookhoolm/Iswiidiin"</item>
+<item>"Veennaa/Awuustiryaa"</item>
+<item>"Zaagireebii/Kirooshiyaa"</item>
+<item>"Piraaguu/Scheeskh"</item>
+<item>"Beerliin/Jarmaan"</item>
+<item>"Roomaa/Ixaaliyaa"</item>
+<item>"Koopeenhaageen/Deenmaarkii"</item>
+<item>"OSiiloo/Noorwaaayii"</item>
+<item>"Firaankifiruuti/Jarmaanii"</item>
+<item>"Zuuriich/ Iswuuzeerlaandii"</item>
+<item>"Jeeneevaa/Iswuuzeerlaandii"</item>
+<item>"Ameestaardaam/Hoollaand"</item>
+<item>"Biruussiilees/Beeljiiyeem"</item>
+<item>"Paariis/Faaraansaay"</item>
+<item>"Baarseeloonaa/Ispeenii"</item>
+<item>"Maadriid/Ispeenii"</item>
+<item>"Laagoos/Naayiijeeriiyaa"</item>
+<item>"Algeeriis/Aljeeriiyaa"</item>
+<item>"Londoon/Ingiliizii"</item>
+<item>"Duubiliinii/Iyiislaandii"</item>
+<item>"Liisboon/Poorchuugaali"</item>
+<item>"Kasaabilaankaa/Morookoo"</item>
+<item>"Reeyiikjaaviik/Iyiislandii"</item>
+<item>"Reediioo Dii Jeeneeriioo"</item>
+<item>"Saa’oo Pooloo/Biraaziil"</item>
+<item>"Biraaziliyyaa/Biraaziil"</item>
+<item>"Moonteevidiiyoo/yuraagaay"</item>
+<item>"Qilleensa Buuniiyees/Arjeentiinaa"</item>
+<item>"Haaliifaaksii/Kanaadaa"</item>
+<item>"Qulqulluu Daaw\iit/ Veenizuulaa"</item>
+<item>"Karaakaas/Veenizuulaa"</item>
+<item>"Saantiyaagoo/Chiilii"</item>
+<item>"Qulqulluu Daaw\iit/Ameeriikaa"</item>
+<item>"Asuuniishiiyaa/Paaraaguyyaa"</item>
+<item>"Laa Paasii/Booliviiyaa"</item>
+<item>"Saantoo Doomiingoo/Doominiikaa"</item>
+<item>"Bostoon/Ameeriikaa"</item>
+<item>"Montiiriiyaal/Kanaadaa"</item>
+<item>"Niiyuu yoorki/Ameeriikaa"</item>
+<item>"Nassawuu/Bahamaas"</item>
+<item>"Ottawaa/Ameeriikaa"</item>
+<item>"Toroontoo/Ameeriikaa"</item>
+<item>"Fiilaadeelfiyyaa/Ameeriikaa"</item>
+<item>"Havaanaa/kuubaa"</item>
+<item>"Inddiyaanpooliis/Ameerikaa"</item>
+<item>"Atilaantaa/Ameeriikaa"</item>
+<item>"Waashiingitaan DC/Ameeriikaa"</item>
+<item>"Detiirooti/Ameeriikaa"</item>
+<item>"Bogootaa/Kaampiichiiyaa"</item>
+<item>"Limaa/Peeruu"</item>
+<item>"Mootummmaa /Jamaa’iikaa"</item>
+<item>"Magaala Meeksiikoo / Meeksiikoo"</item>
+<item>"Houston/ Ameeriikaa"</item>
+<item>"Winnipeegii/Kaanaadaa"</item>
+<item>"miniiyaapooliis/Ameeriikaa"</item>
+<item>"Montgoomeeriiyii /Ameeriikaa"</item>
+<item>"Chiigaakoo/Ameeriikaa"</item>
+<item>"Orliiyaansii Haaraa /Ameeriikaa"</item>
+<item>"Phaawuloosii qulquulluu/Ameeriikaa"</item>
+<item>"Guaatamalaa/ Guaatamalaa"</item>
+<item>"Tegukiigalpaa/Honduraasii"</item>
+<item>"Saan Salvaadoorii/Saalvaatooree"</item>
+<item>"Managuwaa/Nikaaraguwaaa"</item>
+<item>"Diinveerii/Ameeriikaa"</item>
+<item>"Edmontoonii /Kaanadaa"</item>
+<item>"Qooqa /Ameeriikaa"</item>
+<item>"Aklavik/Kaanaadaa"</item>
+<item>"Los Angeles/Ameerikaa"</item>
+<item>"Seattle/ Ameerikaa"</item>
+<item>"Vancouver/ Kaanaadaa"</item>
+<item>"San Francisco /Ameerikaa"</item>
+<item>"Anchorage/ Ameerikaa"</item>
+<item>"Honolulu/ Ameerikaa"</item>
+</string-array>
+</resources>

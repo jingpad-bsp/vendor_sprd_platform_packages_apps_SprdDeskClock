@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_label">"Sa’aattii"</string>
+<string name="alarm_list_title">"Yaadachiiftoota"</string>
+<string name="add_alarm">"Yadachiftuu idaa’I"</string>
+<string name="menu_desk_clock">"Deeskii sa’aatti"</string>
+<string name="menu_edit_alarm">"Yaadachiiftuu tolchuu"</string>
+<string name="delete_alarm">"Yaadachiiftuu balleessuu"</string>
+<string name="enable_alarm">"Yaadachiiftuu bani"</string>
+<string name="disable_alarm">"Yaadachiiftuu cufi"</string>
+<string name="delete_alarm_confirm">"Yaadachiiftuu kana balleessi"</string>
+<string name="show_clock">"Sa’aattii agarsiisi"</string>
+<string name="hide_clock">"Sa’aattii dhoksuu"</string>
+<string name="label">"Milikiteessuu"</string>
+<string name="on_switch">"IRRA"</string>
+<string name="off_switch">"Cuufaa"</string>
+<string name="default_label">"Dammaqsituu"</string>
+<string name="set_alarm">"Yaadachhiiftuu kaa’I"</string>
+<string name="alarm_vibrate">"Hollata"</string>
+<string name="alarm_repeat">"Irradeebi"</string>
+<string name="alert">"Waamiicha yaadachhiiftuu"</string>
+<string name="default_timer_ringtone_title">"Yeroo qindeessaan irra darbee jira"</string>
+<string name="silent_timer_ringtone_title">"Callisaa"</string>
+<string name="ringtone">"Sagalee bilbilaa"</string>
+<string name="time">"Yeroo"</string>
+<string name="alarm_tomorrow">"Boru"</string>
+<string name="alarm_today">"Har’a"</string>
+<string name="alarm_alert_wake_up">"Kaakkasii\u0021"</string>
+<string name="alarm_alert_off_action_text">"Cuufaa"</string>
+<string name="alarm_alert_dismiss_text">"Dhaabuu"</string>
+<string name="alarm_alert_dismiss_now_text">"Dhaabuu amma"</string>
+<string name="alarm_missed_title">"Yaadachiiftuu Amma"</string>
+<string name="alarm_alert_snoozed_text">"Rafe"</string>
+<plurals name="alarm_alert_snooze_duration">
+<item quantity="one">"Daqiiqaa 1"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%d</xliff:g> Daaq"</item>
+</plurals>
+<string name="alarm_alert_off_text">"Yaadachhiiftuu cufuu"</string>
+<string name="alarm_alert_snooze_text">"Raffiisi"</string>
+<plurals name="alarm_alert_snooze_set">
+<item quantity="one">"Rafuu daaqiiqaa 1’f"</item>
+<item quantity="other">"Rafuu daaqiiqaawwaan for <xliff:g id="minutes">%d</xliff:g>."</item>
+</plurals>
+<string name="alarm_alert_snooze_until">"Rafuu hanga <xliff:g id="time">%s</xliff:g>"</string>
+<string name="alarm_alert_predismiss_title">"Yaadachiiftuu irraa dhufu"</string>
+<string name="missed_alarm_has_been_deleted">"Yaadachiftuun dhaaabame kan haqame"</string>
+<string name="timer_notifications_less_min">"Daaqiiqaa gadi kan hafe"</string>
+<string name="timer_notifications_hours">"<xliff:g id="HOURS" example="2 hours">%1$s</xliff:g><xliff:g id="REMAINING" example="remaining"> %3$s</xliff:g>"</string>
+<string name="timer_notifications_minutes">"<xliff:g id="MINUTES" example="2 minutes">%2$s</xliff:g><xliff:g id="REMAINING" example="remaining"> %3$s</xliff:g>"</string>
+<string name="timer_notifications_hours_minutes">"<xliff:g id="HOURS" example="2 hours">%1$s</xliff:g> <xliff:g id="MINUTES" example="2 minutes">%2$s</xliff:g> Kan hafe"</string>
+<string name="timer_remaining_single">"Kan hafe"</string>
+<string name="timer_remaining_multiple">"Kan hafe"</string>
+<string-array name="alarm_set">
+<item>"Yaadachiftuun guutuu daaqiiqa 1 gadii amma irraa ."</item>
+<item>"Yaadachiftuun guutuu<xliff:g id="DAYS" example="2 days">%1$s</xliff:g> amma irraa."</item>
+<item>"Yaadachiftuun guutuu<xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> amma irraa."</item>
+<item>"Yaadachiftuun guutuu<xliff:g id="DAYS" example="2 days">%1$s</xliff:g> amma irraa fi <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>"</item>
+<item>"Yaadachiftuun guutuu<xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> amma irraa."</item>
+<item>"Yaadachiftuun guutuu<xliff:g id="DAYS" example="2 days">%1$s</xliff:g> amma irraa fi <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>"</item>
+<item>"Yaadachiftuun guutuu<xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> amma irraa fi <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>"</item>
+<item>"Yaadachiftuun guutuu<xliff:g id="DAYS" example="2 days">%1$s</xliff:g> amma irraa fi <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>.fi <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> amma irraa ."</item>
+</string-array>
+<plurals name="days">
+<item quantity="one">"Guyyaa 1"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%s</xliff:g> Guyyoota"</item>
+</plurals>
+<plurals name="hours">
+<item quantity="one">"Sa’aattii 1"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%s</xliff:g> Sa’aatiiwwan"</item>
+</plurals>
+<plurals name="minutes">
+<item quantity="one">"Daaqiiqaa 1"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%s</xliff:g> Daqiiqaawwan"</item>
+</plurals>
+<string name="every_day">"Guyyaa mara"</string>
+<string name="clock_instructions">"Sa’aatti filaadhu"</string>
+<string name="analog_gadget">"Sa’aatti walqixxa"</string>
+<string name="help">"Gargaarsa"</string>
+<string name="settings">"Seetiinhiiwwan"</string>
+<string name="snooze_duration_title">"Dheeriina rafuu"</string>
+<plurals name="snooze_duration">
+<item quantity="one">"Daaqiiqaa 1"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%s</xliff:g> Daqiiqaawwan"</item>
+</plurals>
+<plurals name="snooze_picker_label">
+<item quantity="one">"Daaqiiqaa"</item>
+<item quantity="other">"daqiiqaawwan"</item>
+</plurals>
+<string name="crescendo_duration_title">"Jeluma Jelaan Sagalee dabala"</string>
+<string name="no_crescendo_duration">"Cuufaa"</string>
+<string name="crescendo_duration">"<xliff:g id="number" example="7">%s</xliff:g> sekendoota"</string>
+<string name="crescendo_picker_label">"Seekoondiiwwaan"</string>
+<string name="auto_silence_title">"Calliisa booda"</string>
+<plurals name="auto_silence_summary">
+<item quantity="one">"Daaqiiqaa 1"</item>
+<item quantity="other">"<xliff:g id="formatted_number" example="7">%s</xliff:g> daqiiqaawwan"</item>
+</plurals>
+<string name="auto_silence_never">"Gonkuma"</string>
+<string-array name="auto_silence_entries">
+<item>"Daaqiiqaa 1"</item>
+<item>"Daqiiqota 5"</item>
+<item>"Daqiiqota 10"</item>
+<item>"Daqiiqota 15"</item>
+<item>"Daqiiqota 20"</item>
+<item>"Daqiiqota 25"</item>
+<item>"Gonkuma"</item>
+</string-array>
+<string name="week_start_title">"Jalqabuu torbee irraa"</string>
+<string-array name="week_start_entries">
+<item>"Sanbata duraa"</item>
+<item>"Dilbata"</item>
+<item>"Wiixata"</item>
+</string-array>
+<string name="done">"Hojjeeteera/dalageera"</string>
+<string name="revert">"Duubaatti deebbiisuu"</string>
+<string name="delete">"balleessuu"</string>
+<string name="alarm_volume_title">"Sagalee yaadachiiftuu"</string>
+<string name="silent_ringtone_title">"Callisaa"</string>
+<string name="unknown_ringtone_title">"Hinbeekamu"</string>
+<string name="alarm_notify_text">"Rafuu yookiin yaadachiiftuu dhaabuu"</string>
+<string name="alarm_notify_snooze_label">"<xliff:g id="label">%s</xliff:g> (rafuu)"</string>
+<string name="alarm_notify_snooze_text">"Yaadachhiiftuu guutuu <xliff:g id="time">%s</xliff:g>. Tuuqi gara balleessuuf."</string>
+<string name="volume_button_setting_title">"Qulfiiwaan sagalee"</string>
+<string name="volume_button_dialog_title">"Firriii qulfii"</string>
+<string-array name="volume_button_setting_entries">
+<item>"Raffiisi"</item>
+<item>"Dhaabuu"</item>
+<item>"Homaa hin dalagiin"</item>
+</string-array>
+<string name="default_ringtone_setting_title">"Waamiicha guutuu balleesuu"</string>
+<string name="alarm_button_description">"Yaadachiiftoota"</string>
+<string name="gallery_button_description">"Kuusaa Oddeeffannoo"</string>
+<string name="music_button_description">"Muuziiqaa"</string>
+<string name="nightmode_button_description">"Dimiimiisaa"</string>
+<string name="home_button_description">"Jalqabaa"</string>
+<string name="desk_clock_button_description">"Sa’aaatti agarsiisuu"</string>
+<string name="label_description">"Milikiteessuu"</string>
+<string name="ringtone_description">"Sagalee bilbilaa"</string>
+<string name="weather_fetch_failure">"Oddeefffannoo haala qilleensaa amma sirrii hin argaamne dha."</string>
+<string name="alarm_klaxon_service_desc">"Sagalee tajaajiila booda taphaachuu yaadachiiftoota Sa’aatti guutu keessa."</string>
+<string name="loading_ringtone">"Waamiicha fee’uu\u2026"</string>
+<string name="timer_ring_service_desc">"Sagalee tajaajiila booda taphaachuu yeroowwaaniif sa’aattii guutuu keessaatti."</string>
+<string name="control_set_alarm">"Yaadachhiiftuu kaa’I"</string>
+<string name="menu_alarm">"Dammaqsituu"</string>
+<string name="menu_timer">"Sa’aatti eegaa"</string>
+<string name="menu_clock">"Sa’aattii"</string>
+<string name="menu_stopwatch">"Sa’aattiii dhaabi"</string>
+<string name="button_alarms">"Yadachiftuu idaa’I"</string>
+<string name="button_cities">"Magaloota"</string>
+<string name="button_menu">"Carraawwaan hedduu"</string>
+<string name="menu_item_settings">"Seetiinhiiwwan"</string>
+<string name="menu_item_help">"Gargaarsa"</string>
+<string name="menu_item_night_mode">"Bifa galgalaa"</string>
+<string name="menu_item_sort_by_gmt_offset">"Yeroon kan hiraame"</string>
+<string name="menu_item_sort_by_name">"Maqan kan hiraame"</string>
+<string name="selected_cities_label">"Magaloota filaame"</string>
+<string name="sw_resume_button">"Deebiisi jalqabsiisi."</string>
+<string name="sw_reset_button">"Deebiisi guuti"</string>
+<string name="sw_start_button">"Jalqabi"</string>
+<string name="sw_pause_button">"Addakuuti/Dhaabi"</string>
+<string name="sw_lap_button">"Marsaa"</string>
+<string name="sw_share_button">"Qooduu"</string>
+<string name="hours_label">"H"</string>
+<string name="minutes_label">"M"</string>
+<string name="seconds_label">"S"</string>
+<string name="hours_label_description">"Sa’aatiiwwan"</string>
+<string name="minutes_label_description">"daqiiqaawwan"</string>
+<string name="seconds_label_description">"Seekoondiiwwaan"</string>
+<string name="sw_share_main">"Yeroon koo <xliff:g id="time">%s</xliff:g>"</string>
+<string name="sw_share_laps">"Yeroon marsaa:"</string>
+<string name="sw_notification_lap_number">"Marsaa <xliff:g id="number">%d</xliff:g>"</string>
+<plurals name="Nhours_description">
+<item quantity="one">"Sa’aattii 1"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%d</xliff:g> Sa’aatiiwwan"</item>
+</plurals>
+<plurals name="Nminutes_description">
+<item quantity="one">"Daaqiiqaa 1"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%d</xliff:g> Daqiiqaawwan"</item>
+</plurals>
+<plurals name="Nseconds_description">
+<item quantity="one">"Seekoondii 1"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%d</xliff:g> Seekoondiiwwaan"</item>
+</plurals>
+<string name="timer_add_timer">"Sa’aatti eegaa idaa’i"</string>
+<string name="timer_start">"Jalqabi"</string>
+<string name="timer_delete">"balleessuu"</string>
+<string name="timer_descriptive_delete">"Balleessuu <xliff:g id="number_string">%s</xliff:g>"</string>
+<string name="timer_plus_one">"Daaqiiqaa 1 idaa’I"</string>
+<string name="timer_plus_1_min">"Daaq 1 idaa’i"</string>
+<string name="timer_stop">"Dhaabi"</string>
+<string name="timer_stop_all">"Yeroo qindeesitoota hunda akka hinhojjenne godhi"</string>
+<string name="timer_reset">"Deebiisi guuti"</string>
+<string name="timer_cancel">"Balleessi"</string>
+<string name="timer_canceled">"Yeroo qindeesittuu ballessi"</string>
+<string name="timer_times_up">"Yeroo\n oli"</string>
+<string name="timer_multi_times_up">"<xliff:g id="NUM_TIMERS" example="2">%d</xliff:g> yeroo qindeesittuun irra darbe"</string>
+<string name="timer_notification_label">"Sa’aatti eegaa"</string>
+<string name="timers_max_count_reached">"Yeroowwaan 4 guddaa"</string>
+<string name="timer_pause">"Addakuuti/Dhaabi"</string>
+<string name="timer_reset_all">"Yeroo qindeesitoota hunda irra deebi\'ii qindeessi"</string>
+<string-array name="sw_share_strings">
+<item>"Ati calliissa dh\a saffiisa agar."</item>
+<item>"Firrii hojii keeti gammadi."</item>
+<item>"Andirooyiidiin kan beekame saffiisa ta’u,garuu akka kee saffiisaa!"</item>
+<item>"Gurgurtuu ."</item>
+<item>"Yeroowwaan L33t"</item>
+<item>"Saffiisa akkasii gadi bu’aa."</item>
+<item>"Mee haa dalag\nu yeroo baal\iisuu ammaas."</item>
+<item>"Jedhi utaali gara bitaatti."</item>
+<item>"Ati saffiisa gabaatee ni qabda."</item>
+<item>"Suurumaa saffiisaa."</item>
+</string-array>
+<string name="home_label">"Mana"</string>
+<string name="cities_activity_title">"Magaloota"</string>
+<string name="clock_settings">"Sa’aattii"</string>
+<string name="clock_style">"Akkaataa"</string>
+<string name="open_date_settings">"Guyyaa fi \u0026 Yeroo Jijjiiri "</string>
+<string-array name="clock_style_entries">
+<item>"Walqixxa"</item>
+<item>"Dijiitii"</item>
+</string-array>
+<string name="automatic_home_clock">"Cufuu manaa saffiisaa"</string>
+<string name="automatic_home_clock_summary">"Yeroo deemuu naannoo keessaa bakka yeroo adda dha,yeroo idaa’I manaaf"</string>
+<string name="home_time_zone">"Sa’aatti naannoo manaa"</string>
+<string name="home_time_zone_title">"Sa’aatti naannoo manaa"</string>
+<string name="time_picker_cancel">"Balleessi"</string>
+<string name="time_picker_set">"TOLE"</string>
+<string name="city_checked">"<xliff:g id="city_name">%s</xliff:g> Tohatame"</string>
+<string name="city_unchecked">"<xliff:g id="city_name">%s</xliff:g> hin tohatamne"</string>
+<string-array name="timezone_labels">
+<item>"Oddoola qondaalaa"</item>
+<item>"Oddoola karaa gidduu"</item>
+<item>"Hawa’ii"</item>
+<item>"Alaskaa"</item>
+<item>"Yeroo Paasfiikii"</item>
+<item>"Tijuanaa"</item>
+<item>"Arizoonaa"</item>
+<item>"Chihuahua"</item>
+<item>"Yeroo Tulluu"</item>
+<item>"Handhuura Ameeriikaa"</item>
+<item>"Handhuura Yeroo"</item>
+<item>"Magaala Meeksiikoo"</item>
+<item>"Saskatchewaanii"</item>
+<item>"Bogotaa"</item>
+<item>"Yeroo Bahaa"</item>
+<item>"Veneezuelaa"</item>
+<item>"Yeroo Atilaantiiki (Barbaadoosii)"</item>
+<item>"Yeroo Atilaantiiki (Kanaadaa)"</item>
+<item>"Manaauus"</item>
+<item>"Saantiaagoo"</item>
+<item>"Lafa haaraa argaame"</item>
+<item>"Biraaziiliiffa"</item>
+<item>"Buenos Aires"</item>
+<item>"Lafa magaariisa"</item>
+<item>"Moontevidiiyoo"</item>
+<item>"Gidduu –Atilaantiikii"</item>
+<item>"Azoorees"</item>
+<item>"Oddoola keeppi veerdee"</item>
+<item>"Kasabilaankaa"</item>
+<item>"Londoon,Dubliin"</item>
+<item>"Amsterdaam, Barliin"</item>
+<item>"Belgiraadi"</item>
+<item>"Biruuseelsii"</item>
+<item>"Saraajeevoo"</item>
+<item>"Windhoek"</item>
+<item>"Yeroo Dh.Afriikaa"</item>
+<item>"Ammaan, Joordaan"</item>
+<item>"Ateensi ,Istaanbuul"</item>
+<item>"Beeruuti,Leebaanoon"</item>
+<item>"Kaayiiroo"</item>
+<item>"Heelsinkii"</item>
+<item>"Iyyeerusaaleem"</item>
+<item>"Miinsk"</item>
+<item>"Haraaree"</item>
+<item>"Baghdaad"</item>
+<item>"Mooskoow"</item>
+<item>"KUwaait"</item>
+<item>"Naayiroobii"</item>
+<item>"Teehiraan"</item>
+<item>"Baakuu"</item>
+<item>"Tbiliisii"</item>
+<item>"Yaaraavaan"</item>
+<item>"Duubaa’ii"</item>
+<item>"Kaabuul"</item>
+<item>"Islamaabaad, Kaaraachi"</item>
+<item>"Uraal\'skii"</item>
+<item>"Yekaaterinbaargii"</item>
+<item>"Kolkaataa"</item>
+<item>"Siriilaankaa"</item>
+<item>"Kaathmaanduu"</item>
+<item>"Astaanaa"</item>
+<item>"Yaangoon"</item>
+<item>"Kraasnooyaarskii"</item>
+<item>"Baangkookii"</item>
+<item>"Beejiingii"</item>
+<item>"Hoong Koong"</item>
+<item>"Irkuutskii"</item>
+<item>"Kuaalaa Luumpuur"</item>
+<item>"Peerzii"</item>
+<item>"Taapee’ii"</item>
+<item>"Seeoo’uul"</item>
+<item>"Tookiyoo,Osaakaa"</item>
+<item>"Yaakuutkii"</item>
+<item>"Adelaayiidii"</item>
+<item>"Daarwiiii"</item>
+<item>"Brisbaanee"</item>
+<item>"Hoobaartii"</item>
+<item>"Sydneey, Kaanbeerra"</item>
+<item>"Vlaadivoostookii"</item>
+<item>"Guaam"</item>
+<item>"Magaadaan"</item>
+<item>"Aucklaandii"</item>
+<item>"Fiijii"</item>
+<item>"Toongaa"</item>
+<item>"Jakaartaa"</item>
+</string-array>
+<string name="alarm_settings">"Yaadachiiftoota"</string>
+<string name="timer_service_desc">"Yeroo beeksiftoota irraa tarkaanfii adeemsisuu."</string>
+<string name="stopwatch_service_desc">"Yeroo dhabsistuu irraa tarkaanfii adeemsisuu."</string>
+<string name="swn_paused">"dhaabameera"</string>
+<string name="description_direction_right">"Harkiisi mirgaatti dhaabuuf"</string>
+<string name="description_direction_left">"Harkiisi bitaatti dhaaabuuf"</string>
+<string name="description_direction_both">"Harkiisi bitaatti yookiiin mirgaatti dhabuuf"</string>
+<string name="timer_settings">"Yeroo qindeesituu"</string>
+<string name="timer_ringtone_title">"Lakkooftuu yeroo sagalee bilbiltuu"</string>
+<string name="timer_stopped">"Sa;aatti eegaa dhabbatte"</string>
+<string name="timer_paused">"Yeroo qindeesituun Dhaabbatee jirti"</string>
+<string name="timers_stopped">"<xliff:g id="number" example="7">%d</xliff:g> yeroo qindeesituun orkamtte"</string>
+<string name="all_timers_stopped_notif">"Tuuqi gara sa’aatti eegaa kee ilaaluu"</string>
+<string name="timers_in_use">"<xliff:g id="number" example="7">%d</xliff:g> Sa’aatti eegdoota"</string>
+<string name="next_timer_notif">"Sa’aatti eegaa itti aanu: <xliff:g id="time_remaining" example="2 minutes remaining">%s</xliff:g>"</string>
+<string name="screensaver_settings">"Qindeesitoowan Skriinii"</string>
+<string name="night_mode_title">"Bifa galgalaa"</string>
+<string name="night_mode_summary">"Dimimiissa hedduuu argisiisuu (kutaawwan dukkanaaf)"</string>
+<string name="expand_alarm">"Yaadachiiftuu bal’iisi"</string>
+<string name="collapse_alarm">"Yaadachiftuu kottoonfachiisuu"</string>
+<string name="alarm_undo">"DEEBISI"</string>
+<string name="alarm_deleted">"Yaadachiiftuu haqame"</string>
+<string name="next_alarm_description">"Yaadachiiftuu itti aanu: <xliff:g id="alarm_time" example="Wed 8:00am">%s</xliff:g>"</string>
+<string name="alarms_selected">"<xliff:g id="alarms">%d</xliff:g> Filatame"</string>
+<string name="deleted_message">"Balleeffameera"</string>
+<plurals name="alarm_delete_confirmation">
+<item quantity="one">"Haqi yaadachiftuu filaame?"</item>
+<item quantity="other">"Haqi yaadachiftoota filaame?"</item>
+</plurals>
+<string name="timer_delete_confirmation">"Haqi sa’aatti eegaa kana?"</string>
+<string name="city_delete_confirmation">"Magaala kana haqi ?"</string>
+<string name="digital_gadget">"Sa’aatti dijiitaalii"</string>
+<string name="no_alarms">"Yaadachiiftoota hin jire"</string>
+<string name="no_alarms_set">"Yaadachiiftoota hin guutamne"</string>
+<string name="no_upcoming_alarms">"ALAARMIIWWAN DHUFAN HIN JIRAN"</string>
+<string name="invalid_time">"Yeroo hin dhugoomne<xliff:g id="invalid_hour" example="25">%d</xliff:g>:<xliff:g id="invalid_minutes" example="63">%d</xliff:g> <xliff:g id="invalid_ampm" example="PM">%s</xliff:g>"</string>
+<string name="no_alarm_at">"Yaadachiiftuu hin jiru <xliff:g id="alarm_time_hour" example="14">%d</xliff:g>:<xliff:g id="alarm_time_minutes" example="23">%d</xliff:g>"</string>
+<string name="no_scheduled_alarms">"Yaadachiiiftoota sagantaa’e hin jiru"</string>
+<string name="no_label_specified">"Hidhaan adda bahe hin jiru"</string>
+<string name="no_alarms_with_label">"Yaadachiiftoota hidhaa kan qabaatte miti"</string>
+<string name="stopwatch_isnt_running">"Sa’aatti dhaabuu kan hi\n dalagne dha"</string>
+<string name="stopwatch_paused">"Dhaabduun sa\'atii dhaameera"</string>
+<string name="stopwatch_reset">"Sa’aatti dhaabuu irra deebiin guutuu"</string>
+<string name="stopwatch_lapped">"Sa’aatti dhaabuu hidhaame"</string>
+<string name="stopwatch_started">"Sa’aatti dhaabuu jalqabaame"</string>
+<string name="no_alarm_scheduled_for_this_time">"Yaadachiisa sagantaa’e hin jiru sa’aatti kanaaf"</string>
+<string name="alarm_is_dismissed">"<xliff:g id="alarm_time" example="14:20">%s</xliff:g> Yaadachiisa dhaabame"</string>
+<string name="alarm_is_set">"Yaadachiisa kan guutuu dha <xliff:g id="alarm_time" example="14:20">%s</xliff:g>"</string>
+<string name="no_timers_exist">"Lakkooftuun yeroo hinjiru"</string>
+<string name="too_many_timers_exist">"Lakkoftuun yeroo tokkoo oliiti jira"</string>
+<string name="timer_does_not_exist">"akkooftuun yeroo buqqaa\'era"</string>
+<string name="timer_created">"Sa’aatti eegaa uumaame"</string>
+<string name="timer_was_reset">"Sa’aatti irra deebii guutuu"</string>
+<string name="timer_deleted">"Sa’aattii eegaa haqame"</string>
+<string name="timer_started">"Sa’aattii eegaa jalqabame"</string>
+<string name="invalid_timer_length">"Sa’aatti eegaa hin dhugoomne"</string>
+<string name="no_city_selected">"Magaali hin filaamne"</string>
+<string name="the_city_you_specified_is_not_available">"Magaali ati adda baaftte hin jiru"</string>
+<string name="the_city_already_added">"Magaali sun duruma kan idaa’ame"</string>
+<string name="city_added">"<xliff:g id="city_name" example="Paris">%s</xliff:g> Idaa’ame"</string>
+<string name="city_deleted">"<xliff:g id="city_name" example="Paris">%s</xliff:g> balleeffameera"</string>
+<string name="alarm_cant_be_dismissed_still_more_than_24_hours_away">"<xliff:g id="alarm_time" example="14:20">%s</xliff:g> Yaadachiisa kan hi\n dandeenye dhaabame ammayyuu,hanga sa’attiiwwan 24 caalaa fagoo"</string>
+<string name="dismiss_alarm">"Yaadachiisa dhaabuu"</string>
+<string name="pick_alarm_to_dismiss">"Filaadhu yaadachiisa kam dhaabuu"</string>
+<string name="no_firing_alarms">"Yaadachiiftoota gubuu hin jiru"</string>
+<string name="alarm_is_snoozed">"<xliff:g id="alarm_time" example="14:20">%s</xliff:g> Yaadachiisa rafe daqiiqaawwan 10’f"</string>
+<string name="pause">"Raffiisi"</string>
+<string name="alarm_shutdown_cancal_open">"Dhaabuu"</string>
+<string name="alarm_shutdown_cancal_close">"Haquu fi aaniisa cufuu"</string>
+<string name="sw_stop_button">"Dhaabi"</string>
+<string name="reorder_city">"Tartiiba jijjiiirri"</string>
+<string name="delete_city">"balleessuu"</string>
+<string name="delete_alarm_cancel">"Balleessi"</string>
+<string name="delete_alarm_done">"Hojjeeteera/dalageera"</string>
+<string name="cancel_select">"Hunda balleesi"</string>
+<string name="all_select">"Hunda filii"</string>
+<string name="repeat_every_days">"Guyyaa mara"</string>
+<string name="repeat_work_days">"Guyyoota hojii"</string>
+<string name="repeat_single">"Qeenxee"</string>
+<string name="repeat_dialog_done">"TOLE"</string>
+<string name="repeat_dialog_cancel">"Balleessi"</string>
+<string name="auto_silence_cancel">"Balleessi"</string>
+<string name="title_too_long">"Mi’oonni kan hedduu dheeraa dha."</string>
+</resources>

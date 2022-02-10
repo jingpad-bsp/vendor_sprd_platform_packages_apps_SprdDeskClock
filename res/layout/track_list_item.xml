@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/normal_height"
+    android:baselineAligned="false"
+    android:gravity="bottom"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/normal_height"
+        android:clickable="true"
+        android:focusable="true"
+        android:gravity="center_vertical" >
+
+        <ImageView
+            android:id="@+id/WCReorderSrc"
+            android:layout_width="55dip"
+            android:layout_height="match_parent"
+            android:background="@drawable/citylist_tile_drag" />
+
+        <include layout="@layout/track_list_item_common" />
+    </RelativeLayout>
+
+</LinearLayout>

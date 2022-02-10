@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="cities_names">
+<item>"A<xliff:g id="separator">=</xliff:g>Abixhan"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Akra"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Adis-Abeba"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Algjer"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Blantyre"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Brezavillë"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kajro"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kazablanka"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Konakri"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Dakar"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Dar-es-Salaam"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Xhibuti"</item>
+<item>"F<xliff:g id="separator">=</xliff:g>Freetown"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>Gaborone"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Harare"</item>
+<item>"J<xliff:g id="separator">=</xliff:g>Johanesburg"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kampala"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Khartum"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kigali"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kinshasa"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>Lagos"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Maseru"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Mogadishu"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>Najrobi"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>São-Tomé"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Timbuktu"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Tripoli"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Tuniz"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Ankorazhe"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Mendoza"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Aruba"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Asunción"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Barbados"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Belize"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Bogotá"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Buenos-Aires"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kankun"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Karakas"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kajman"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Çikago"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kosta-Rika"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kuraçao"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Përroi Dawson"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Denver"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Detroit"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Dominikë"</item>
+<item>"E<xliff:g id="separator">=</xliff:g>Edmonton"</item>
+<item>"E<xliff:g id="separator">=</xliff:g>El-Salvador"</item>
+<item>"F<xliff:g id="separator">=</xliff:g>Fortaleza"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>Grand Turk"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>Grenadë"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>Guatemala"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>Guajanë"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Halifaks"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Havana"</item>
+<item>"I<xliff:g id="separator">=</xliff:g>Indianapolis"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Knoks"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Marengo"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Petersburg"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Tell City"</item>
+<item>"V<xliff:g id="separator">=</xliff:g>Vevai"</item>
+<item>"V<xliff:g id="separator">=</xliff:g>Vincennes"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>Winamac"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kingston"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>Nuestra Señora de La Paz"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>Lima"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>Los-Anxhelos"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>Luisvillë"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Managua"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Martinikë"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Mendoza"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Metlakatla"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Qyteti Meksiko"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Monterei"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Montevideo"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Montreal"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>Nasau"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>Nju-Jork"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Beulah"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Center"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>Nju-Salem"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Panama"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Feniks"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Port of Spain"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Port-au-Prince"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Porto-Riko"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Santo-Domingo"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>São-Paulo"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Shën Xhons"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Shën Kitts"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Shën Lusia"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Shën Tomas"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Tihuana"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Toronto"</item>
+<item>"V<xliff:g id="separator">=</xliff:g>Vankuver"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>Uinnipeg"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Poli i Jugut"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>Longyearbyen"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Almati"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Aman"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Anadir"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Aqtau"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Bagdad"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Bahrein"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Baku"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Bangkok"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Bejrut"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kalkuta"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Damask"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Dhaka"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Dubai"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>Gaza"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Hebron"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Ho-Shi-Min"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Hong-Kong"</item>
+<item>"I<xliff:g id="separator">=</xliff:g>Stamboll"</item>
+<item>"J<xliff:g id="separator">=</xliff:g>Xhakarta"</item>
+<item>"J<xliff:g id="separator">=</xliff:g>Jerusalem"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kabul"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Karaçi"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Katmandu"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kuala-Lumpur"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kuvajt"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Makau"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Manila"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Muskat"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Pnom-Penh"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Pyongyang"</item>
+<item>"Q<xliff:g id="separator">=</xliff:g>Katar"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>Rangun"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>Riad"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Saigon"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Seul"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Shangai"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Singapor"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Taipei"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Teheran"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Tel-Aviv"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Tokio"</item>
+<item>"U<xliff:g id="separator">=</xliff:g>Ulan-Bator"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Bermuda"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kanarie"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kepi i Gjelbër"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>Reikjavik"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Stanlej"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Adelaide"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Brisbein"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kanberra"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Darvin"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Melburn"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>Uellsi i Ri Jugor"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Perth"</item>
+<item>"Q<xliff:g id="separator">=</xliff:g>Queensland"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Sidnej"</item>
+<item>"V<xliff:g id="separator">=</xliff:g>Viktoria"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>Njufoundland"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Saskatçevan"</item>
+<item>"E<xliff:g id="separator">=</xliff:g>Ishulli i Pashkëve"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Amsterdam"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Andorra"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Athinë"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Belfast"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Beograd"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Berlin"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Bratislava"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Bruksel"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Bukuresht"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Budapest"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kisinau"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kopenhagë"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Dublin"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>Gjibraltar"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Helsinki"</item>
+<item>"I<xliff:g id="separator">=</xliff:g>Ishulli i Manit"</item>
+<item>"I<xliff:g id="separator">=</xliff:g>Stamboll"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kiev"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>Lisbonë"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>Londër"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>Luksemburg"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Madrid"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Malta"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Minsk"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Monako"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Moskë"</item>
+<item>"O<xliff:g id="separator">=</xliff:g>Oslo"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Paris"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Pragë"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>Riga"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>Romë"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>San-Marino"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Sarajevë"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Simferopol"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Shkup"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Sofja"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Stokholm"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Tallin"</item>
+<item>"V<xliff:g id="separator">=</xliff:g>Vatikan"</item>
+<item>"V<xliff:g id="separator">=</xliff:g>Vjenë"</item>
+<item>"V<xliff:g id="separator">=</xliff:g>Vilnius"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>Varshavë"</item>
+<item>"Z<xliff:g id="separator">=</xliff:g>Zagreb"</item>
+<item>"Z<xliff:g id="separator">=</xliff:g>Cyrih"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Antananarivo"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Maldive"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Mauricius"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Auckland"</item>
+<item>"F<xliff:g id="separator">=</xliff:g>Fixhi"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>Guam"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Honolulu"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kiritimati"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>Noumea"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Samoa"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Tahiti"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Antigua"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Austin"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Boston"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kalgari"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kolumbus"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Dallas"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Knoxville"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Memfis"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Majami"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Mineapolis"</item>
+<item>"O<xliff:g id="separator">=</xliff:g>Otava"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Filadelfia"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Portland"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>San-Diego"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>San-Francisko"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Salt Lake Siti"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>San-Jose"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>San-Salvador"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Siatëll"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Shën Luis"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>Uashington D.C."</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Hjuston"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>San-Antonio"</item>
+<item>"J<xliff:g id="separator">=</xliff:g>Xheksonvill"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Baltimora"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>Nashville"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Milwaukee"</item>
+<item>"O<xliff:g id="separator">=</xliff:g>Oklahoma Siti"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>Las-Vegas"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Albuquerque"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Tukson"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Sakramento"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Atlanta"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kliveland"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>Nju-Orleans"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Tampa"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Pitsburg"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Sinsinati"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Mountain View"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>Reno"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Black Rock Siti"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Doha"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Pekin"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Mumbai"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>Delhi"</item>
+<item>"O<xliff:g id="separator">=</xliff:g>Osaka"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>Lahore"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Sana\'a"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Barcelona"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Munih"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Milano"</item>
+<item>"F<xliff:g id="separator">=</xliff:g>Frankfurt"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Hanoi"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Ankara"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Bangalore"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Brasília"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kejp Taun"</item>
+<item>"I<xliff:g id="separator">=</xliff:g>Islamabad"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>Rio-de-Zhaneiro"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>Ann Arbor"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Boulder"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kembrixh"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kirkland"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Madison"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>Guangzhou"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Hyderabad"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>Reston"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Belo Horizonte"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Santiago"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Monrovia"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Kolombo"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>Chihuahua"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Salvador"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>Gurgaon"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>Mançester"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Kiev"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>Shën Petersburg"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>Krakovë"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>Wroclaw"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Hamburg"</item>
+<item>"O<xliff:g id="separator">=</xliff:g>Oulu"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>Haifa"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>San-Juan"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>Tegucigalpa"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>Paramaribo"</item>
+<item>"Q<xliff:g id="separator">=</xliff:g>Quito"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>Ljubljana"</item>
+</string-array>
+<string-array name="repeat_days_sat">
+<item>E shtunë</item>
+<item>E dielë</item>
+<item>E hënë</item>
+<item>E martë</item>
+<item>E mërkurë</item>
+<item>E enjte</item>
+<item>E premte</item>
+</string-array>
+<string-array name="repeat_days_sun">
+<item>E dielë</item>
+<item>E hënë</item>
+<item>E martë</item>
+<item>E mërkurë</item>
+<item>E enjte</item>
+<item>E premte</item>
+<item>E shtunë</item>
+</string-array>
+<string-array name="repeat_days_mon">
+<item>E hënë</item>
+<item>E martë</item>
+<item>E mërkurë</item>
+<item>E enjte</item>
+<item>E premte</item>
+<item>E shtunë</item>
+<item>E dielë</item>
+</string-array>
+<string-array name="auto_silence">
+<item>1 minutë</item>
+<item>5 minuta</item>
+<item>10 minuta</item>
+<item>15 minuta</item>
+<item>20 minuta</item>
+<item>25 minuta</item>
+<item>30 minuta</item>
+</string-array>
+<string-array name="cities_names_sprd">
+<item>"Kiritimati/Kiribati"</item>
+<item>"Chatham Island/Zelandë e re"</item>
+<item>"Wellington/Zelandë e re"</item>
+<item>"Suva/Fixhi"</item>
+<item>"Anadir/Rusi"</item>
+<item>"Kamçatka/Rusi"</item>
+<item>"Vladivostok/Rusi"</item>
+<item>"Sidnei/Australi"</item>
+<item>"Kanberra/Australi"</item>
+<item>"Melburn/Australi"</item>
+<item>"Brisbane/Australi"</item>
+<item>"Adelaide/Australi"</item>
+<item>"Darvin/Australi"</item>
+<item>"Tokio/Japoni"</item>
+<item>"Seul/Kore"</item>
+<item>"Taipei/Kinë"</item>
+<item>"Shangai/Kinë"</item>
+<item>"Manila/Ishujt Filipine"</item>
+<item>"Pekin/Kinë"</item>
+<item>"Perth/Australi"</item>
+<item>"Hong Kong/Kinë"</item>
+<item>"Singapor/Singapor"</item>
+<item>"Kuala Lumpur/Malajzi"</item>
+<item>"Xhakartë/Indonezi"</item>
+<item>"Hanoi/Vietnam"</item>
+<item>"Bangkok/Tailandë"</item>
+<item>"Jangon/Burma"</item>
+<item>"Daka/Bengal"</item>
+<item>"Katmandu/Nepal"</item>
+<item>"Kolkata/Indi"</item>
+<item>"New Delhi/Indi"</item>
+<item>"Mumbai/Indi"</item>
+<item>"Islamabad/Pakistan"</item>
+<item>"Tashkent/Uzbekistan"</item>
+<item>"Lahore/Pakistan"</item>
+<item>"Karaçi/Pakistan"</item>
+<item>"Kabul/Afganistan"</item>
+<item>"Teheran/Iran"</item>
+<item>"Abu Dabi/Emiratet e Bashkuara Arabe"</item>
+<item>"Moskë/Rusi"</item>
+<item>"Antananarivo/Madagaskar"</item>
+<item>"Riadh/Arabia Saudite"</item>
+<item>"Aden/Jemen"</item>
+<item>"Bagdad/Irak"</item>
+<item>"Adis Ababa/Etiopi"</item>
+<item>"Qyteti i Kuvajtit/Kuvait"</item>
+<item>"Nairobi/Kenia"</item>
+<item>"Khartum/Sudan"</item>
+<item>"Aman/Jordan"</item>
+<item>"Beirut/Leban"</item>
+<item>"Jerusalem/Izrael"</item>
+<item>"Ankara/Turqi"</item>
+<item>"Bukuresht/Rumani"</item>
+<item>"Minsk/Bjellorusi"</item>
+<item>"Odesa/Ukrainë"</item>
+<item>"Kiev/Ukrainë"</item>
+<item>"Stamboll/Turqi"</item>
+<item>"Sofie/Bullgari"</item>
+<item>"Athinë/Greqi"</item>
+<item>"Tallin/Estoni"</item>
+<item>"Helsinki/Finlandë"</item>
+<item>"Kajro/Egjipt"</item>
+<item>"Harare/Zimbabve"</item>
+<item>"Johanesburg/A. e Jugut"</item>
+<item>"Keip Taun/A. e Jugut"</item>
+<item>"Varashavë/Poloni"</item>
+<item>"Beograd/Serbi dhe Mali i Zi"</item>
+<item>"Budapest/Hungari"</item>
+<item>"Stokholm/Suedi"</item>
+<item>"Vienë/Austri"</item>
+<item>"Zagreb/Croaci"</item>
+<item>"Pragë/Çeki"</item>
+<item>"Berlin/Gjermani"</item>
+<item>"Romë/Itali"</item>
+<item>"Kopenhagen/Danimarkë"</item>
+<item>"Oslo/Norvegji"</item>
+<item>"Frankfurt/Gjermani"</item>
+<item>"Zyrih/Zvicër"</item>
+<item>"Gjenevë/Zvicër"</item>
+<item>"Amsterdam/Hollandë"</item>
+<item>"Bruksel/Belgjikë"</item>
+<item>"Paris/Francë"</item>
+<item>"Barcelonë/Spanjë"</item>
+<item>"Madrid/Spanjë"</item>
+<item>"Lagos/Nigeri"</item>
+<item>"Algjer/Algjeri"</item>
+<item>"Londër/Angli"</item>
+<item>"Dublin/Irlandë"</item>
+<item>"Lisbonë/Portugali"</item>
+<item>"Kazablankë/Marrok"</item>
+<item>"Reikjavik/Islandë"</item>
+<item>"Rio de Zhaneiro/Brazil"</item>
+<item>"San Paolo/Brazil"</item>
+<item>"Brazilia/Brazil"</item>
+<item>"Montevideo/Uruguaj"</item>
+<item>"Buenos Aires/Argjentinë"</item>
+<item>"Halifaks/Kanada"</item>
+<item>"Shën Gjoni/Venezuelë"</item>
+<item>"Karakas/Puerto Riko"</item>
+<item>"Santiago/Kili"</item>
+<item>"Shën Gjoni/Kanada"</item>
+<item>"Asuncion/Paraguaj"</item>
+<item>"La Paz/Bolivi"</item>
+<item>"Santo Domingo/Dominika"</item>
+<item>"Boston/Amerikë"</item>
+<item>"Montreal/Kanada"</item>
+<item>"Nju Jork/Amerikë"</item>
+<item>"Nasau/Bahamas"</item>
+<item>"Otaua/Kanada"</item>
+<item>"Toronto/Kanada"</item>
+<item>"Filadelfia/Amerikë"</item>
+<item>"Havana/Kuba"</item>
+<item>"Indianapolis/Amerikë"</item>
+<item>"Atlanta/Amerikë"</item>
+<item>"Uashington DC/Amerikë"</item>
+<item>"Detroit/Amerikë"</item>
+<item>"Bogota/Kampuçea"</item>
+<item>"Lima/Peru"</item>
+<item>"Kingston/Xhamajkë"</item>
+<item>"Meksiko Siti/Meksikë"</item>
+<item>"Hjuston/Amerikë"</item>
+<item>"Winipeg/Kanada"</item>
+<item>"Mineapolis/Amerikë"</item>
+<item>"Montgomeri/Amerikë"</item>
+<item>"Çikago/Amerikë"</item>
+<item>"Nju Orlins/Amerikë"</item>
+<item>"Shën Pavli/Amerikë"</item>
+<item>"Guatemalë/Guatemalë"</item>
+<item>"Tegucigalpa/Honduras"</item>
+<item>"Shën Salvador/Salvador"</item>
+<item>"Managua/Nikaragua"</item>
+<item>"Denver/Amerikë"</item>
+<item>"Edmonton/Kanada"</item>
+<item>"Foenix/Amerikë"</item>
+<item>"Aklavik/Kanada"</item>
+<item>"Los Anxheles/Amerikë"</item>
+<item>"Siatëll/Amerikë"</item>
+<item>"Vankuver/Kanada"</item>
+<item>"San Françisko/Amerikë"</item>
+<item>"Ankorazh/Amerikë"</item>
+<item>"Honolulu/Amerikë"</item>
+</string-array>
+</resources>

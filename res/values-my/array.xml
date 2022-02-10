@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="cities_names">
+        <item>"အ<xliff:g id="separator">=</xliff:g>အဘစ်ဂျန်"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အက်ခရာ"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အာဒစ် အာဘာဘာ"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အယ်လ်ဂျီးယား"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘလန်တိုင်ရာ"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘရာဇာဗီလီ"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကိုင်ရို"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကာဆာဘလန်ကာ"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကာနေလ်ခရီလ်"</item>
+        <item>"ဒ<xliff:g id="separator">=</xliff:g>ဒါကာ"</item>
+        <item>"ဒ<xliff:g id="separator">=</xliff:g>ဒါအက်စ် ဆယ်လန်း"</item>
+        <item>"ဂ<xliff:g id="separator">=</xliff:g>ဂျီဘူတီ"</item>
+        <item>"ဖ<xliff:g id="separator">=</xliff:g>ဖရီးတောင်း"</item>
+        <item>"ဂ<xliff:g id="separator">=</xliff:g>ဂါဘရွန်နေ"</item>
+        <item>"ဟ<xliff:g id="separator">=</xliff:g>ဟာရာရီ"</item>
+        <item>"ဂ<xliff:g id="separator">=</xliff:g>ဂျိုဟန္နက်စဗတ်"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကမ်ပါလာ"</item>
+        <item>"ခ<xliff:g id="separator">=</xliff:g>ခါတွမ်း"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကီဂါလီ"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကင်ရှာဆာ"</item>
+        <item>"လ<xliff:g id="separator">=</xliff:g>လာဂေါ့စ်"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မဆဲရု"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မိုဂါဒီရှု"</item>
+        <item>"န<xliff:g id="separator">=</xliff:g>နိုင်ရိုဘီ"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆာအို တိုမဲ"</item>
+        <item>"တ<xliff:g id="separator">=</xliff:g>တင်မ်ဘွတ်တူ"</item>
+        <item>"ထ<xliff:g id="separator">=</xliff:g>ထရိုင်ပိုလီ"</item>
+        <item>"တ<xliff:g id="separator">=</xliff:g>တူနစ္စ"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အန်ကားရေ့ခ်ျ"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မင်ဒိုဇာ"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အရူဘာ"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အာဆွန်စီယွန်"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘာဘာဒေါ့စ်"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘီလိဇ်"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘိုဂိုတာ"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဗျူနော့စ် အေးရိစ်"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကင်န်ကွန်"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကာရာကက်စ်"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကေးမန်း"</item>
+        <item>"ခ<xliff:g id="separator">=</xliff:g>ချီကာဂို"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကိုစတာရီကာ"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကျူရေးကိုးစ်"</item>
+        <item>"ဒ<xliff:g id="separator">=</xliff:g>ဒေါ်ဆန်ခရိခ်"</item>
+        <item>"ဒ<xliff:g id="separator">=</xliff:g>ဒင်ဗာ"</item>
+        <item>"ဒ<xliff:g id="separator">=</xliff:g>ဒီထရွိုက်"</item>
+        <item>"ဒ<xliff:g id="separator">=</xliff:g>ဒိုမီနီကာ"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အဒ်မွန်တန်"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အယ်လ် ဆယ်လ်ဗာဒေါ"</item>
+        <item>"ဖ<xliff:g id="separator">=</xliff:g>ဖော်တလီဇာ"</item>
+        <item>"ဂ<xliff:g id="separator">=</xliff:g>ဂရန်းတာ့ခ်"</item>
+        <item>"ဂ<xliff:g id="separator">=</xliff:g>ဂရီနာဒါ"</item>
+        <item>"ဂ<xliff:g id="separator">=</xliff:g>ဂွာတီမာလာ"</item>
+        <item>"ဂ<xliff:g id="separator">=</xliff:g>ဂူယာနာ"</item>
+        <item>"ဟ<xliff:g id="separator">=</xliff:g>ဟာလီဖက်စ်"</item>
+        <item>"ဟ<xliff:g id="separator">=</xliff:g>ဟာဗားနား"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အင်ဒီယားနားပိုလီးစ်"</item>
+        <item>"န<xliff:g id="separator">=</xliff:g>နော့စ်"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မာရင်ဂို"</item>
+        <item>"ပ<xliff:g id="separator">=</xliff:g>ပီတာစ်ဘာ့ဂ်"</item>
+        <item>"တ<xliff:g id="separator">=</xliff:g>တဲလ်စီးတီး"</item>
+        <item>"ဗ<xliff:g id="separator">=</xliff:g>ဗီဗေး"</item>
+        <item>"ဗ<xliff:g id="separator">=</xliff:g>ဗင့်ဆင်းနက်စ်"</item>
+        <item>"ဝ<xliff:g id="separator">=</xliff:g>ဝီနာမက်စ်"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကင်းစတန်"</item>
+        <item>"န<xliff:g id="separator">=</xliff:g>နူစထရာ ဆီနိုရာ ဒီ လာပက်ဇ်"</item>
+        <item>"လ<xliff:g id="separator">=</xliff:g>လီမာ"</item>
+        <item>"လ<xliff:g id="separator">=</xliff:g>လော့စ်အိန်ဂျလိစ်"</item>
+        <item>"လ<xliff:g id="separator">=</xliff:g>လူဝီးစ်ဗီးလ်"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မာနာဂွာ"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မာတီနိခ်"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မင်ဒိုဇာ"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မတ်လာကတ်လာ"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မက္ကစီကို စီးတီး"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မွန်တာရေး"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မွန်တီဗီဒီယို"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မွန်ထရယ်"</item>
+        <item>"န<xliff:g id="separator">=</xliff:g>နတ်စ်ဆာရူး"</item>
+        <item>"န<xliff:g id="separator">=</xliff:g>နယူးယောက်"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘူးလား"</item>
+        <item>"စ<xliff:g id="separator">=</xliff:g>စင်တာ"</item>
+        <item>"န<xliff:g id="separator">=</xliff:g>နယူးဆာလမ်"</item>
+        <item>"ပ<xliff:g id="separator">=</xliff:g>ပနားမား"</item>
+        <item>"ဖ<xliff:g id="separator">=</xliff:g>ဖီးနစ်"</item>
+        <item>"ပ<xliff:g id="separator">=</xliff:g>ပို့တ် အော့ဖ် စပိန်"</item>
+        <item>"ပ<xliff:g id="separator">=</xliff:g>ပို့တ်-အူ-ပရင့်စ်"</item>
+        <item>"ပ<xliff:g id="separator">=</xliff:g>ပွာတူရီကို"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆန်တို ဒိုမင်ဂို"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆာအိုပိုလို"</item>
+        <item>"စ<xliff:g id="separator">=</xliff:g>စိန့် ဂျွန်းစ်"</item>
+        <item>"စ<xliff:g id="separator">=</xliff:g>စိန့် ကစ်စ်"</item>
+        <item>"စ<xliff:g id="separator">=</xliff:g>စိန့် လူစီယာ"</item>
+        <item>"စ<xliff:g id="separator">=</xliff:g>စိန့် သောမတ်စ်"</item>
+        <item>"တ<xliff:g id="separator">=</xliff:g>တီဂွာနာ"</item>
+        <item>"တ<xliff:g id="separator">=</xliff:g>တိုရွန်တို"</item>
+        <item>"ဗ<xliff:g id="separator">=</xliff:g>ဗန်ကိုဗာ"</item>
+        <item>"ဝ<xliff:g id="separator">=</xliff:g>ဝင်နီပက်"</item>
+        <item>"တ<xliff:g id="separator">=</xliff:g>တောင်ဝင်ရိုးစွန်း"</item>
+        <item>"လ<xliff:g id="separator">=</xliff:g>လောင်ရီယာဘန်ယန်"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အယ်လ်မတီ"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အမ်မန်"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အန်နာဒေ"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အခ်တောင်"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘဂ္ဂဒက်"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘာရိန်း"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘခု"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘန်ကောက်"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘေရွတ်"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကာလကတ္တား"</item>
+        <item>"ဒ<xliff:g id="separator">=</xliff:g>ဒမားစကပ်"</item>
+        <item>"ဒ<xliff:g id="separator">=</xliff:g>ဒါကာ"</item>
+        <item>"ဒ<xliff:g id="separator">=</xliff:g>ဒူဘိုင်း"</item>
+        <item>"ဂ<xliff:g id="separator">=</xliff:g>ဂါဇာ"</item>
+        <item>"ဟ<xliff:g id="separator">=</xliff:g>ဟီဘရွန်"</item>
+        <item>"ဟ<xliff:g id="separator">=</xliff:g>ဟိုချီမင်း"</item>
+        <item>"ဟ<xliff:g id="separator">=</xliff:g>ဟောင်ကောင်"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အစ်စတန်ဘူလ်"</item>
+        <item>"ဂ<xliff:g id="separator">=</xliff:g>ဂျကာတာ"</item>
+        <item>"ဂ<xliff:g id="separator">=</xliff:g>ဂျေရုစလင်မ်"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကဘူးလ်"</item>
+        <item>"ခ<xliff:g id="separator">=</xliff:g>ခရာချိ"</item>
+        <item>"ခ<xliff:g id="separator">=</xliff:g>ခတ္တမန္ဒူ"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကွာလာလမ်ပူ"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကူဝိတ်"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မကာအို"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မနီလာ"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မျူစ်ကတ်"</item>
+        <item>"ဖ<xliff:g id="separator">=</xliff:g>ဖနွမ်းပင်"</item>
+        <item>"ပ<xliff:g id="separator">=</xliff:g>ပြုံယမ်း"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကာတာ"</item>
+        <item>"ရ<xliff:g id="separator">=</xliff:g>ရန်ကုန်"</item>
+        <item>"ရ<xliff:g id="separator">=</xliff:g>ရီယက်"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆိုင်ဂွန်"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆိုးလ်"</item>
+        <item>"ရ<xliff:g id="separator">=</xliff:g>ရှန်ဟိုင်း"</item>
+        <item>"စ<xliff:g id="separator">=</xliff:g>စင်္ကာပူ"</item>
+        <item>"တ<xliff:g id="separator">=</xliff:g>တိုင်ပေ"</item>
+        <item>"တ<xliff:g id="separator">=</xliff:g>တီဟီရန်"</item>
+        <item>"တ<xliff:g id="separator">=</xliff:g>တယ်လ်အာဗီရာဖို"</item>
+        <item>"တ<xliff:g id="separator">=</xliff:g>တိုကျို"</item>
+        <item>"ဥ<xliff:g id="separator">=</xliff:g>ဦလန်ဘာတာ"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘာမြူဒါ"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကာနရီ"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကိပ်ဗာဒီ"</item>
+        <item>"ရ<xliff:g id="separator">=</xliff:g>ရေးခီးဗက်ခ်"</item>
+        <item>"စ<xliff:g id="separator">=</xliff:g>စတန်လေ"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အက်ဒလိတ်"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘရစ်စဘိန်း"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကန်ဘာရာ"</item>
+        <item>"ဒ<xliff:g id="separator">=</xliff:g>ဒါဝင်"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မဲလ်ဘုန်း"</item>
+        <item>"န<xliff:g id="separator">=</xliff:g>နယူးဆော့သ်ဝေး"</item>
+        <item>"ပ<xliff:g id="separator">=</xliff:g>ပါ့သ်"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကွင်းစလန်"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆစ်ဒနီ"</item>
+        <item>"ဗ<xliff:g id="separator">=</xliff:g>ဗစ်တိုးရီးယား"</item>
+        <item>"န<xliff:g id="separator">=</xliff:g>နယူးဖောင်လန်း"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆက်စကက်ချီဝမ်"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အီစတာကျွန်း"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အမ်စတာဒမ်"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အန်ဒိုရာ"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အေသင်"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘဲလ်ဖတ်"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘဲလ်ဂရိတ်"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘာလင်"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘရာတစ်လာဗာ"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘရပ်ဆဲလ်"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘူခါရက်စ်"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘူဒါပတ်စ်"</item>
+        <item>"ခ<xliff:g id="separator">=</xliff:g>ချီဆင်နျူး"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကိုပင်ဟေဂင်"</item>
+        <item>"ဒ<xliff:g id="separator">=</xliff:g>ဒပ်ဘလင်"</item>
+        <item>"ဂ<xliff:g id="separator">=</xliff:g>ဂျီဘရော်လ်တာ"</item>
+        <item>"ဟ<xliff:g id="separator">=</xliff:g>ဟယ်လ်ဆင်ကီ"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>မန်ကျွန်း"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အစ်စတန်ဘူလ်"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကိဗ်"</item>
+        <item>"လ<xliff:g id="separator">=</xliff:g>လစ်စဘွန်း"</item>
+        <item>"လ<xliff:g id="separator">=</xliff:g>လန်ဒန်"</item>
+        <item>"လ<xliff:g id="separator">=</xliff:g>လူဇင်ဘတ်"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မက်ဒရစ်"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မယ်လ်တာ"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မင့်စ်ခ်"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မိုနာကို"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မော်စကို"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အော့စလို"</item>
+        <item>"ပ<xliff:g id="separator">=</xliff:g>ပါရီ"</item>
+        <item>"ပ<xliff:g id="separator">=</xliff:g>ပါရာဂွေး"</item>
+        <item>"ရ<xliff:g id="separator">=</xliff:g>ရီဂါ"</item>
+        <item>"ရ<xliff:g id="separator">=</xliff:g>ရောမ"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆန်မာရီနို"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆာရာယေဗို"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>စင်ဖာရောပို"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>စကော့ပီရေခ်ျ"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆိုဖီယာ"</item>
+        <item>"စ<xliff:g id="separator">=</xliff:g>စတော့ခ်ဟုမ်း"</item>
+        <item>"တ<xliff:g id="separator">=</xliff:g>တာလင်းန်"</item>
+        <item>"ဗ<xliff:g id="separator">=</xliff:g>ဗာတီကန်"</item>
+        <item>"ဗ<xliff:g id="separator">=</xliff:g>ဗီယင်နာ"</item>
+        <item>"ဗ<xliff:g id="separator">=</xliff:g>ဗွီနီးယက်စ်"</item>
+        <item>"ဝ<xliff:g id="separator">=</xliff:g>ဝါဆော"</item>
+        <item>"ဇ<xliff:g id="separator">=</xliff:g>ဇာဂရပ်ဘ်"</item>
+        <item>"ဇ<xliff:g id="separator">=</xliff:g>ဇူးရစ်ခ်ျ"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အန်တန်နန်ရီဗိုလ်"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မော်လ်ဒိုက်စ်"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မောရစ်ရှူစ်"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အော့ကလန်"</item>
+        <item>"ဖ<xliff:g id="separator">=</xliff:g>ဖူဂျီ"</item>
+        <item>"ဂ<xliff:g id="separator">=</xliff:g>ဂူအမ်"</item>
+        <item>"ဟ<xliff:g id="separator">=</xliff:g>ဟိုနိုလူလူ"</item>
+        <item>"ခ<xliff:g id="separator">=</xliff:g>ခီရီတီမာတီ"</item>
+        <item>"န<xliff:g id="separator">=</xliff:g>နိုမူးမီး"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆမိုးအား"</item>
+        <item>"တ<xliff:g id="separator">=</xliff:g>တဟီးတစ်"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အန်တီဂါ"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အော်စတင်"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘော့စတွန်"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကယ်လ်ဂရီ"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကိုလံဘတ်စ်"</item>
+        <item>"ဒ<xliff:g id="separator">=</xliff:g>ဒါးလတ်စ်"</item>
+        <item>"န<xliff:g id="separator">=</xliff:g>နောက်က်(စ်)ဗီးလ်"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မန်းန်ဖစ်စ်"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မိုင်အာမီ"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မီနီရ်ပိုလစ်"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အော့တဝ"</item>
+        <item>"ဖ<xliff:g id="separator">=</xliff:g>ဖီလာဒဲလ်ဖီးယား"</item>
+        <item>"ပ<xliff:g id="separator">=</xliff:g>ပို့တ်လန်း"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆန် ဒီအ်ဂို"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆန် ဖရန်စစ္စကို"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆော့်လိက် မြို့"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆန်း ဂျို့စ်"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆန် ဆာဗတိုရ်"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆီအက်တယ်"</item>
+        <item>"စ<xliff:g id="separator">=</xliff:g>စိန့် လူးဝစ်"</item>
+        <item>"ဝ<xliff:g id="separator">=</xliff:g>ဝါရှင်တန်ဒီစီ"</item>
+        <item>"ဟ<xliff:g id="separator">=</xliff:g>ဟူစတန်"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆန် အန်တိုနီယို"</item>
+        <item>"ဂ<xliff:g id="separator">=</xliff:g>ဂျက်ဆင်ဗီးလ်"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘော်လ်တီမိုး"</item>
+        <item>"န<xliff:g id="separator">=</xliff:g>နက်ရှ်ဗီးလ်"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မီလ်ဝါကီး"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အိုကလာဟိုးမား မြို့"</item>
+        <item>"လ<xliff:g id="separator">=</xliff:g>လပ်ဗီးဂပ်စ်"</item>
+        <item>"လ<xliff:g id="separator">=</xliff:g>လပ်ဗီးဂပ်စ်"</item>
+        <item>"တ<xliff:g id="separator">=</xliff:g>တူဆန်"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆီခါမန်တို"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အတ္တလန္တာ"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကာလီဗီလန်"</item>
+        <item>"န<xliff:g id="separator">=</xliff:g>နယူးအော်လင်းစ်"</item>
+        <item>"တ<xliff:g id="separator">=</xliff:g>တန်မ်ပါ"</item>
+        <item>"ပ<xliff:g id="separator">=</xliff:g>ပစ်တ်စ်ဘာ့ဂ်"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆင်ဆနယ်တီ"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မောင်တိန်ဗျူး"</item>
+        <item>"ရ<xliff:g id="separator">=</xliff:g>ရီနို"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘလက်ခ် ရော့ခ်မြို့"</item>
+        <item>"ဒ<xliff:g id="separator">=</xliff:g>ဒိုဟာ"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘီဂျင်း"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မွမ်ဘိုင်း"</item>
+        <item>"ဒ<xliff:g id="separator">=</xliff:g>ဒေလီ"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အိုဆာကာ"</item>
+        <item>"လ<xliff:g id="separator">=</xliff:g>လာဟိုးလ်"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆန်နာရာ"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘာစီလိုနာ"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မြူးနစ်ခ်ျ"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မီလန်"</item>
+        <item>"ဖ<xliff:g id="separator">=</xliff:g>ဖရန့်ဖွတ်"</item>
+        <item>"ဟ<xliff:g id="separator">=</xliff:g>ဟနွိုင်း"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အန်ကာရာ"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘန်ဂလို"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘရာစေးလေးယား"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကိပ်တောင်း"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အစ္စ​လာမ်​မာ​ဗတ်"</item>
+        <item>"ရ<xliff:g id="separator">=</xliff:g>ရီယို ဒီ ဂျီးနေးရိုး"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အန်းန် အာဘာ"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘိုးလ်ဒါ"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကိန်းဘရစ်ခ်ျ"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကားခ်လန်း"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မာဒီဆန်"</item>
+        <item>"ဂ<xliff:g id="separator">=</xliff:g>ကွမ်ကျိုး"</item>
+        <item>"ဟ<xliff:g id="separator">=</xliff:g>ဟိုက်ဒါရာဘတ်"</item>
+        <item>"ရ<xliff:g id="separator">=</xliff:g>ရက်စ်တန်"</item>
+        <item>"ဘ<xliff:g id="separator">=</xliff:g>ဘယ်လို ဟော်ရီဇွန်တီ"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆန်တီယာဂို"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မွန်ရိုးဗီးယား"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကိုလွန်ဘို"</item>
+        <item>"ခ<xliff:g id="separator">=</xliff:g>ချီဟွာဟွာ"</item>
+        <item>"ဆ<xliff:g id="separator">=</xliff:g>ဆာလ်ဗဒိုး"</item>
+        <item>"ဂ<xliff:g id="separator">=</xliff:g>ဂူရူဂရမ်"</item>
+        <item>"မ<xliff:g id="separator">=</xliff:g>မန်ချက်စတာ"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကီးယက်"</item>
+        <item>"စ<xliff:g id="separator">=</xliff:g>စိန့် ပီတာစ်ဘာ့ဂ်"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကရားကော့"</item>
+        <item>"ဝ<xliff:g id="separator">=</xliff:g>ဝရာကလော"</item>
+        <item>"ဟ<xliff:g id="separator">=</xliff:g>ဟမ်းဗတ်"</item>
+        <item>"အ<xliff:g id="separator">=</xliff:g>အိုအူလူ"</item>
+        <item>"ဟ<xliff:g id="separator">=</xliff:g>ဟိုင်ဖ"</item>
+        <item>"စ<xliff:g id="separator">=</xliff:g>စန် ဂျူအန်"</item>
+        <item>"တ<xliff:g id="separator">=</xliff:g>တီဂူဆီလ်ဂါလ်ပါ"</item>
+        <item>"ပ<xliff:g id="separator">=</xliff:g>ပါရာမာရီဘို"</item>
+        <item>"က<xliff:g id="separator">=</xliff:g>ကီတို"</item>
+        <item>"လ<xliff:g id="separator">=</xliff:g>လူဘလီယားနား"</item>
+    </string-array>
+    <string-array name="repeat_days_sat">
+        <item>"စနေ"</item>
+        <item>"တနင်္ဂနွေ"</item>
+        <item>"တနင်္လာ"</item>
+        <item>"အင်္ဂါ"</item>
+        <item>"ဗုဒ္ဓဟူး"</item>
+        <item>"ကြာသာပတေး"</item>
+        <item>"သောကြာ"</item>
+    </string-array>
+    <string-array name="repeat_days_sun">
+        <item>"တနင်္ဂနွေ"</item>
+        <item>"တနင်္လာ"</item>
+        <item>"အင်္ဂါ"</item>
+        <item>"ဗုဒ္ဓဟူး"</item>
+        <item>"ကြာသာပတေး"</item>
+        <item>"သောကြာ"</item>
+        <item>"စနေ"</item>
+    </string-array>
+    <string-array name="repeat_days_mon">
+        <item>"တနင်္လာ"</item>
+        <item>"အင်္ဂါ"</item>
+        <item>"ဗုဒ္ဓဟူး"</item>
+        <item>"ကြာသာပတေး"</item>
+        <item>"သောကြာ"</item>
+        <item>"စနေ"</item>
+        <item>"တနင်္ဂနွေ"</item>
+    </string-array>
+    <string-array name="auto_silence">
+        <item>"1 မိနစ်"</item>
+        <item>"5 မိနစ်"</item>
+        <item>"10 မိနစ်"</item>
+        <item>"15 မိနစ်"</item>
+        <item>"20 မိနစ်"</item>
+        <item>"25 မိနစ်"</item>
+        <item>"30 မိနစ်"</item>
+    </string-array>
+    <string-array name="cities_names_sprd">
+        <item>"ကီရီတီမာတီ/ကီရီဘာတီ"</item>
+        <item>"နယူးဇီလန်"</item>
+        <item>"ဝယ်လင်တန်/နယူးဇီလန်"</item>
+        <item>"ဆူဗာ/ဖီဂျီ"</item>
+        <item>"အာနာဒီယာ/ရုရှား"</item>
+        <item>"ကမ်ချက်ကာ/ရုရှား"</item>
+        <item>"ဗာလာဒီဗီုစတော့ခ်/ရုရှား"</item>
+        <item>"ဆစ်ဒနီ/သြစတြေးလျ"</item>
+        <item>"ကင်ဘာရာ/သြစတြေးလျ"</item>
+        <item>"မဲလ်ဘုန်း/သြစတြေးလျ"</item>
+        <item>"ဘရစ်စဘိန်း/သြစတြေးလျ"</item>
+        <item>"အင်ဒီလိတ်/သြစတြေးလျ"</item>
+        <item>"ဒါဝင်/သြစတြေးလျ"</item>
+        <item>"တိုကျို/ဂျပန်"</item>
+        <item>"ဆိုးလ်/ကိုးရီးယား"</item>
+        <item>"တိုင်ပေ/ထိုင်ဝမ်"</item>
+        <item>"ရှန်ဟိုင်း/တရုတ်"</item>
+        <item>"မနီလာ/ဖိလစ်ပိုင်ကျွန်းစု"</item>
+        <item>"ပီကင်း/တရုတ်"</item>
+        <item>"ပါသ်/သြစတြေးလျ"</item>
+        <item>"ဟောင်ကောင်/တရုတ်"</item>
+        <item>"စင်္ကာပူ/စင်္ကာပူ"</item>
+        <item>"ကွာလာလမ်ပူ/မလေးရှား"</item>
+        <item>"ဂျက်ကာတာ/အင်ဒိုနီးရှား"</item>
+        <item>"ဟနွိုင်း/ဗီယက်နန်"</item>
+        <item>"ဘန်ကောက်/ထိုင်း"</item>
+        <item>"ရန်ကုန်/မြန်မာ"</item>
+        <item>"ဒါကာ/ဘင်္ဂလားဒေ့ရှ်"</item>
+        <item>"ခတ်မန္တူ/နီပေါ"</item>
+        <item>"ကာလကတ္တား/အိန္ဒိယ"</item>
+        <item>"နယူးဒေလီ/အိန္ဒိယ"</item>
+        <item>"မွန်ဘိုင်း/အိန္ဒိယ"</item>
+        <item>"အစ္စလမ်မာဘတ်/ပါကစ္စတန်"</item>
+        <item>"တက်ရ်ကန်/ဥဇဘက်ကစ္စတန်"</item>
+        <item>"လဟိုး/ပါကစ္စတန်"</item>
+        <item>"ကာရာချီ/ပါကစ္စတန်"</item>
+        <item>"ကာဘူး/အာဖကန်နစ္စတန်"</item>
+        <item>"တီဟီရန်/အီရန်"</item>
+        <item>"အဘူဒါဘီ/အာရပ်စော်ဘွားများပြည်ထောင်စု"</item>
+        <item>"မော်စကို/ရုရှား"</item>
+        <item>"အမ်တနမ်နာရီဗို/မဒါဂတ်စကာ"</item>
+        <item>"ရီယာ/ဆော်ဒီအာရေဗျ"</item>
+        <item>"အာဒန်/ယီမင်"</item>
+        <item>"ဘက္ကဒက်/အီရတ်"</item>
+        <item>"အဒီအဘာသာ/အီသီယိုးပီးယား"</item>
+        <item>"ကူဝိတ်မြို့/ကူဝိတ်"</item>
+        <item>"နိုင်ရောဘီ/ကင်ညာ"</item>
+        <item>"ခါတွန်/ဆူဒန်"</item>
+        <item>"အာမန်/ဂျော်ဒန်"</item>
+        <item>"ဘဲရုတ်/လက်ဘနွန်"</item>
+        <item>"ဂျေရုဆလင်/အစ္စရေး"</item>
+        <item>"အန်ကာရာ/တူရကီ"</item>
+        <item>"ဘူခါရက်စ်/ရိုမေးနီးယား"</item>
+        <item>"မင့်ခ်/ဘယ်လာရု(စ်)"</item>
+        <item>"အိုဒီဆာ/ယူကရိန်း"</item>
+        <item>"ကိယက်ဖ်/ယူကရိန်း"</item>
+        <item>"အစ္စတမ်ဘူလ်/တူရကီ"</item>
+        <item>"ဆိုဖီရာ/ဘူဂေးရီးယား"</item>
+        <item>"အေသင်/ဂရိ"</item>
+        <item>"တယ်လင်/အက်စတိုးနီးယား"</item>
+        <item>"ဟယ်လ်ဆင်ကီး/ဖင်လန်"</item>
+        <item>"ကိုင်ရို/အီဂျစ်"</item>
+        <item>"ဟာယာရီ/ဇင်ဘာဘွေ"</item>
+        <item>"ဂျွန်ဟန်နီးစပတ်/တောင်အာဖရိက"</item>
+        <item>"ကိတ်တောင်း/တောင်အာဖရိက"</item>
+        <item>"ဝါဆော/ပိုလန်"</item>
+        <item>"ဘဲဂရိတ်/ဆာဗီးယားမွန်တီနီကိုး"</item>
+        <item>"ဘူတာပတ်စ်/ဟန်ဂေရီ"</item>
+        <item>"စတော့ဟုမ်စ်/ဆွီဒင်"</item>
+        <item>"ဗီယင်နာ/သြစတြီးယာ"</item>
+        <item>"စာဂရက်/ခရိုအေးရှား"</item>
+        <item>"ပရပ်/ချက်နိုင်ငံ"</item>
+        <item>"ဘာလင်/ဂျာမနီ"</item>
+        <item>"ရောမ/အီတလီ"</item>
+        <item>"ကိုပေဟေဂက်/ဒိန်းမတ်"</item>
+        <item>"အော်စလို/နော်ဝေး"</item>
+        <item>"ဖရန်ပဖတ်/ဂျာမနီ"</item>
+        <item>"ဇူးရစ်ရ်/ဆွစ်ဇာလန်"</item>
+        <item>"ဂျနီဗာ/ဆွစ်ဇာလန်"</item>
+        <item>"အမ်စတာဒမ်/ဟော်လန်"</item>
+        <item>"ဘရပ်ဆယ်လ်/ဘယ်လ်ဂျီယံ"</item>
+        <item>"ပဲရစ်/ပြင်သစ်"</item>
+        <item>"ဘာစီလိုနာ/စပိန်"</item>
+        <item>"မဒရစ်/စပိန်"</item>
+        <item>"လာဂေါ့(စ်)/နိုင်ဂျီးရီးယား"</item>
+        <item>"အယ်ဂျီရာ/အယ်ဂျေးရီးယား"</item>
+        <item>"လန်ဒန်/အင်္ဂလန်"</item>
+        <item>"အဗ္ဗလင်/အီရန်"</item>
+        <item>"လစ္စဘွန်း/ပေါ်တူဂီ"</item>
+        <item>"ကာစာလဘန်ကတာ/မောရိုကို"</item>
+        <item>"ရေဂျာဗစ်ခလ/အိုက်စလန်"</item>
+        <item>"ရီယိုဒီဂျနေရိုး/ဘရာဇီးလ်"</item>
+        <item>"ဆော်ပိုလို/ဘရာဇီးလ်"</item>
+        <item>"ဘရာဆီးလီးရား/ဘရာဇီးလ်"</item>
+        <item>"မွန်တီဗီဒီယို/ဥရုဂွေး"</item>
+        <item>"ဗျူနိုအေရစ်/အာဂျင်တီးနား"</item>
+        <item>"ဟာလီးဖက်/ကနေဒါ"</item>
+        <item>"စိန့်ဂျွန်/ဗင်နီဇွဲလား"</item>
+        <item>"ကာရာကက်စ်/ပွာတိုရီကို"</item>
+        <item>"ဆန်တီဂို/ချီလီ"</item>
+        <item>"စိန့်ဂျွန်စ်/ကနေဒါ"</item>
+        <item>"အက်ဆန်စီယွန်/ပါရာဂွေး"</item>
+        <item>"လားပါစ်/ဘူလီးပီးယား"</item>
+        <item>"ဆန်ကိုဒိုမင်ရိုး/ဒိုမီနီကန်သမ္မတနိုင်ငံ"</item>
+        <item>"ဘော့စ်တွန်း/အမေရိကန်"</item>
+        <item>"မွန်ထရီရယ်/ကနေဒါ"</item>
+        <item>"နယူးယောက်/အမေရိကန်"</item>
+        <item>"နာဆူး/ဘာဟားမားစ်"</item>
+        <item>"အော့တဝါ/ကနေဒါ"</item>
+        <item>"တိုရန်တို/ကနေဒါ"</item>
+        <item>"ဖီလာဒဲဖီးယား/အမေရိကန်"</item>
+        <item>"ဟာဗားနား/ကျူးဘား"</item>
+        <item>"အင်ဒီးယားနားပိုလစ်/အမေရိကန်"</item>
+        <item>"အက်တလန်တာ/အမေရိကန်"</item>
+        <item>"ဝါရှင်တန်ဒီစီ/အမေရိကန်"</item>
+        <item>"ဒက်ထရက်/အမေရိကန်"</item>
+        <item>"ဘိုဂိုဒါ/ကမ်ပူခြား"</item>
+        <item>"လီမာ/ပီရူး"</item>
+        <item>"ကင်းစတန်/ဂျမေကာ"</item>
+        <item>"မက္ကဆီကိုမြို့တော်/မက္ကဆီကို"</item>
+        <item>"ဟောက်စ်တွန်း/အမေရိကန်"</item>
+        <item>"ဝင်နီပက်/ကနေဒါ"</item>
+        <item>"မင့်နီယာနီပိုလီ/အမေရိကန်"</item>
+        <item>"မောန့်ဂိုမာရီ/အမေရိကန်"</item>
+        <item>"ချီကာဂို/အမေရိကန်"</item>
+        <item>"နယူးအော်လန်/အမေရိကန်"</item>
+        <item>"စိန့်ပေါ/အမေရိကန်"</item>
+        <item>"ဂွာတီမာလာ/ဂွာတီမာလာ"</item>
+        <item>"တီဂယူဆီဂယ်ဖ/ဟွန်းဒူးရဒ်စ်"</item>
+        <item>"ဆန် ဆယ်ဗာဒို/ဆယ်ဗာဒို"</item>
+        <item>"မာနာဂွား/နီကာရာဂွား"</item>
+        <item>"ဒန်ဗာ/အမေရိကန်"</item>
+        <item>"အက်မွန်တန်/ကနေဒါ"</item>
+        <item>"ဖိုးနစ်/အမေရိကန်"</item>
+        <item>"အခ်လာဗစ်/ကနေဒါ"</item>
+        <item>"လော့စ် အန်ဂျဲလီ/အမေရိကန်"</item>
+        <item>"ဆီးတက်လီ/အမေရိကန်"</item>
+        <item>"ဗန်ကူးဗား/ကနေဒါ"</item>
+        <item>"ဆန်ဖရန်စစ္စကို/အမေရိကန်"</item>
+        <item>"အမ်ဒကားရစ်ခ်ျ/အမေရိကန်"</item>
+        <item>"ဟိုနိုလူလူ/အမေရိကန်"</item>
+    </string-array>
+</resources>

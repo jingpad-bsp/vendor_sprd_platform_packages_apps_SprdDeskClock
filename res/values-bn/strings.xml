@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_label">"ঘড়ি"</string>
+<string name="label">লেবেল</string>
+<string name="alarm_list_title">"অ্যালার্ম"</string>
+<string name="default_label">অ্যালার্ম</string>
+<string name="alarm_vibrate">"কাম্পান"</string>
+<string name="alarm_alert_dismiss_now_text">"এখন খারিজ"</string>
+<string name="alarm_repeat">"পুনরাবৃত্তি করুন"</string>
+<string name="delete">মুছুন</string>
+<string name="default_alarm_ringtone_title">"ডিফল্টিএলার্ম শব্দ "</string>
+<string name="alarm_sound">"আলার্ম শব্দ"</string>
+<string name="timer_sound">"টাইমার শব্দ"</string>
+<string name="add_new_sound">"নতুন বন্ধু"</string>
+<string name="remove_sound">অপসারিত</string>
+<string name="confirm_remove_custom_ringtone">"এই শব্দ ব্য়বহার করতে থাকা আলার্ম এবং টাইমার এর বদলে ডিফল্ট শব্দ বাজাবে |"</string>
+<string name="your_sounds">"আপনার শব্দগুলি"</string>
+<string name="device_sounds">"ডিভাইসের শব্দগুলি"</string>
+<string name="custom_ringtone_lost_permissions">"শব্দ কণ্টেণ্টগুলি আকসেস করা যাবে না"</string>
+<string name="default_timer_ringtone_title">"টাইমারের মেয়াদ শেষ হয়ে গেছে"</string>
+<string name="alarm_tomorrow">"আগামীকাল"</string>
+<string name="alarm_today">"আজ"</string>
+<string name="alarm_alert_dismiss_text">"বাতিল করুন "</string>
+<string name="alarm_missed_title">"মিসড এলার্ম"</string>
+<string name="alarm_alert_snoozed_text">"স্নুজ করা হয়েছে"</string>
+<plurals name="alarm_alert_snooze_duration">
+<item quantity="one">"১ মিনিট"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%d</xliff:g> মিনিট"</item>
+</plurals>
+<string name="alarm_alert_off_text">"অ্যালার্ম বন্ধ আছে"</string>
+<string name="alarm_alert_snooze_text">"স্নুজ"</string>
+<plurals name="alarm_alert_snooze_set">
+<item quantity="one">"1 মিনিটের জন্য স্নুজ করছে।"</item>
+<item quantity="other">"<xliff:g id="minutes">%d</xliff:g> মিনিটের জন্য স্নুজ করছে।"</item>
+</plurals>
+<string name="alarm_alert_snooze_until"><xliff:g id="time">%s</xliff:g> পর্যন্ত তন্দ্রা</string>
+<string name="alarm_alert_predismiss_title">"আসন্ন এলার্ম"</string>
+<string name="missed_alarm_has_been_deleted">"আপনার মিস এলার্ম মুছে ফেলা হয়েছে"</string>
+<string name="timer_notifications_less_min">এক মিনিটেরও কম অবশিষ্ট</string>
+<string name="timer_notifications_hours">"<xliff:g id="HOURS" example="2 hours">%1$s</xliff:g><xliff:g id="REMAINING" example="remaining"> %3$s</xliff:g>"</string>
+<string name="timer_notifications_minutes">"<xliff:g id="MINUTES" example="2 minutes">%2$s</xliff:g><xliff:g id="REMAINING" example="remaining"> %3$s</xliff:g>"</string>
+<string name="timer_notifications_hours_minutes">"<xliff:g id="HOURS" example="2 hours">%1$s</xliff:g><xliff:g id="MINUTES" example="2 minutes"> %2$s</xliff:g>অবশিষ্ট"</string>
+<string name="timer_notifications_seconds">"<xliff:g id="SECONDS" example="2 seconds">%4$s</xliff:g><xliff:g id="REMAINING" example="remaining"> %3$s</xliff:g>"</string>
+<string name="timer_notifications_minutes_seconds">"<xliff:g id="MINUTES" example="2 minutes">%2$s</xliff:g> <xliff:g id="SECONDS" example="2 seconds"> %4$s</xliff:g><xliff:g id="REMAINING" example="remaining"> %3$s</xliff:g>"</string>
+<string name="timer_notifications_hours_seconds">"<xliff:g id="HOURS" example="2 hours">%1$s</xliff:g> <xliff:g id="SECONDS" example="2 seconds"> %4$s</xliff:g><xliff:g id="REMAINING" example="remaining"> %3$s</xliff:g>"</string>
+<string name="timer_notifications_hours_minutes_seconds">"<xliff:g id="HOURS" example="2 hours">%1$s</xliff:g><xliff:g id="MINUTES" example="2 minutes"> %2$s</xliff:g><xliff:g id="SECONDS" example="2 seconds"> %4$s</xliff:g><xliff:g id="REMAINING" example="remaining"> %3$s</xliff:g>"</string>
+<string name="timer_accessibility_one_minute_added">"টাইমারে এক মিনিট যোগ করা হয়েছে, <xliff:g id="TIME" example="5 hours remaining">%1$s</xliff:g>"</string>
+<string name="timer_accessibility_stopped">"টাইমার পজ করা হয়েছে, <xliff:g id="TIME" example="5 hours remaining">%1$s</xliff:g>"</string>
+<string name="timer_accessibility_started">"সময় চল্ছে, <xliff:g id="TIME" example="5 hours remaining">%1$s</xliff:g>"</string>
+<string name="timer_remaining_single">"বাকি"</string>
+<string name="timer_remaining_multiple">"বাকি"</string>
+<string-array name="alarm_set">
+<item>"এই বিপদাশঙ্কা এখন থেকে কম 1 মিনিটের জন্য সেট করা হয়।"</item>
+<item>"অ্যালার্ম সেট হলো <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> এখন থেকে।"</item>
+<item>"অ্যালার্ম সেট হলো <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> এখন থেকে।"</item>
+<item>"অ্যালার্ম সেট হলো <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> এবং <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> এখন থেকে।"</item>
+<item>"অ্যালার্ম সেট হলো <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>এখন থেকে।"</item>
+<item>"অ্যালার্ম সেট হলো <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> এবং <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> এখন থেকে।"</item>
+<item>"অ্যালার্ম সেট হলো <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> এবং<xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> এখন থেকে।"</item>
+<item>"অ্যালার্ম সেট হলো<xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, এবং <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>এখন থেকে।"</item>
+</string-array>
+<plurals name="days">
+<item quantity="one">"১ দিন"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%s</xliff:g> দিন"</item>
+</plurals>
+<plurals name="hours">
+<item quantity="one">১ ঘন্টা</item>
+<item quantity="other">"<xliff:g id="number" example="7">%s</xliff:g> ঘন্টা"</item>
+</plurals>
+<plurals name="hours_short">
+<item quantity="one">"1 ঘণ্টা"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%s</xliff:g> ঘণ্টা"</item>
+</plurals>
+<plurals name="minutes">
+<item quantity="one">"১ মিনিট"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%s</xliff:g> মিনিট"</item>
+</plurals>
+<plurals name="minutes_short">
+<item quantity="one">"১ মিনিট"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%s</xliff:g>মিনিট"</item>
+</plurals>
+<plurals name="seconds">
+<item quantity="one">1 সেকেন্ড</item>
+<item quantity="other">"<xliff:g id="number" example="7">%s</xliff:g> সেকেন্ড"</item>
+</plurals>
+<string name="every_day">"প্রতিদিন"</string>
+<string name="loading_widget">লোড করা হচ্ছে\u2026</string>
+<string name="analog_gadget">"অ্যানালগ ঘড়ি"</string>
+<string name="digital_gadget">ডিজিটাল ঘড়ি</string>
+<string name="settings">সেটিংস</string>
+<string name="snooze_duration_title">"তন্দ্রার স্থায়ীত্ব"</string>
+<string name="crescendo_duration_title">"ধিরে ধিরে শব্দ বাড়ান"</string>
+<string name="auto_silence_title">"নিরব করুন এর পর"</string>
+<plurals name="auto_silence_summary">
+<item quantity="one">"১ মিনিট"</item>
+<item quantity="other">"<xliff:g id="formatted_number" example="7">%s</xliff:g> মিনিট"</item>
+</plurals>
+<string name="auto_silence_never">না</string>
+<string-array name="auto_silence_entries">
+<item>"১ মিনিট"</item>
+<item>"5 মিনিট"</item>
+<item>"১০ মিনিট"</item>
+<item>"১৫ মিনিট"</item>
+<item>"20 মিনিট"</item>
+<item>"25 মিনিট"</item>
+<item>না</item>
+</string-array>
+<string-array name="crescendo_entries">
+<item>বন্ধ</item>
+<item>"5 সেকেন্ড"</item>
+<item>"10 সেকেন্ড "</item>
+<item>"15 সেকেন্ড"</item>
+<item>"20 সেকেন্ড"</item>
+<item>"25 সেকেন্ড"</item>
+<item>"30 সেকেন্ড"</item>
+<item>"35 সেকেন্ড"</item>
+<item>"40 সেকেন্ড"</item>
+<item>"45 সেকেন্ড"</item>
+<item>"50 সেকেন্ড"</item>
+<item>"55 সেকেন্ড"</item>
+<item>"60 সেকেন্ড"</item>
+</string-array>
+<string-array name="snooze_duration_entries">
+<item>"১ মিনিট"</item>
+<item>"2 মিনিট"</item>
+<item>"3 মিনিট"</item>
+<item>"4 মিনিট"</item>
+<item>"5 মিনিট"</item>
+<item>"6 মিনিট"</item>
+<item>"7 মিনিট"</item>
+<item>"8 মিনিট"</item>
+<item>"9 মিনিট"</item>
+<item>"১০ মিনিট"</item>
+<item>"11 মিনিট"</item>
+<item>"12 মিনিট"</item>
+<item>"13 মিনিট"</item>
+<item>"14 মিনিট"</item>
+<item>"১৫ মিনিট"</item>
+<item>"16 মিনিট"</item>
+<item>"17 মিনিট"</item>
+<item>"18 মিনিট"</item>
+<item>"19 মিনিট"</item>
+<item>"20 মিনিট"</item>
+<item>"21 মিনিট"</item>
+<item>"22 মিনিট"</item>
+<item>"23 মিনিট"</item>
+<item>"24 মিনিট"</item>
+<item>"25 মিনিট"</item>
+<item>"26 মিনিট"</item>
+<item>"27 মিনিট"</item>
+<item>"28 মিনিট"</item>
+<item>"29 মিনিট"</item>
+<item>"30 মিনিট"</item>
+</string-array>
+<string name="week_start_title">"এই তারিখ থেকে সপ্তাহ শুরু করুনঃ" </string>
+<string-array name="week_start_entries">
+<item>"শনিবার"</item>
+<item>"রবিবার"</item>
+<item>"সোমবার"</item>
+</string-array>
+<string name="alarm_volume_title">"অ্যালার্মের শব্দ"</string>
+<string name="silent_ringtone_title">"নীরব"</string>
+<string name="unknown_ringtone_title">অজানা</string>
+<string name="alarm_volume_muted">"আলার্ম ভল্যুম ম্যুট করা হয়েছে"</string>
+<string name="unmute_alarm_volume">সশব্দ</string>
+<string name="silent_default_alarm_ringtone">"ডিফল্ট অ্যালার্ম রিংটোন নিঃশব্দ আছে"</string>
+<string name="change_setting_action">"পরিবর্তন করুন"</string>
+<string name="app_notifications_blocked">"ঘড়ি বিজ্ঞপ্তিগুলি ব্লক করা হয়েছে"</string>
+<string name="alarms_blocked_by_dnd">"ডিভাইস সম্পূর্ণ নিঃশব্দ সেট করা হয়েছে"</string>
+<string name="volume_button_setting_title">"ভলিউম এবং ক্যামেরা"</string>
+<string-array name="volume_button_setting_entries">
+<item>"স্নুজ"</item>
+<item>"বাতিল করুন "</item>
+<item>"ভল্যুম নিয়ন্ত্রণ"</item>
+</string-array>
+<string name="label_description">লেবেল</string>
+<string name="ringtone_description">"মন্তব্য"</string>
+<string name="menu_alarm">অ্যালার্ম</string>
+<string name="menu_timer">টাইমার</string>
+<string name="menu_clock">"ঘড়ি"</string>
+<string name="menu_stopwatch">বিরাম ঘড়ি</string>
+<string name="button_alarms">"অ্যালার্ম যোগ করুন"</string>
+<string name="button_cities">শহরগুলি</string>
+<string name="menu_item_settings">সেটিংস</string>
+<string name="menu_item_help">সাহায্য</string>
+<string name="menu_item_night_mode">"স্ক্রিন সেভার"</string>
+<string name="menu_item_sort_by_gmt_offset">"সময় অনুযায়ী সাজাও"</string>
+<string name="menu_item_sort_by_name">"শ্রেণীবিভক্ত করা"</string>
+<string name="selected_cities_label">"মনোনীত শহর"</string>
+<string name="sw_resume_button">পুনরায় শুরু করুন</string>
+<string name="sw_reset_button">পুন: স্থাপন করা</string>
+<string name="sw_start_button">আরম্ভ</string>
+<string name="sw_pause_button">বিরতি</string>
+<string name="sw_lap_button">ভাঁজ</string>
+<string name="sw_share_button">ভাগ</string>
+<string name="sw_stop_button">বন্ধ</string>
+<string name="hours_label">"h"</string>
+<string name="minutes_label">"m"</string>
+<string name="seconds_label">"সেপ্টে"</string>
+<string name="timer_setup_description">"<xliff:g id="hours" example="1 hour">%1$s</xliff:g>, <xliff:g id="minutes" example="15 minutes">%2$s</xliff:g>, <xliff:g id="seconds" example="30 seconds">%3$s</xliff:g>"</string>
+<string name="sw_share_main">আমার সময় হল <xliff:g id="time">%s</xliff:g></string>
+<string name="sw_share_laps">অধিস্থাপন বার:</string>
+<string name="sw_notification_lap_number">অধিস্থাপন<xliff:g id="number">%d</xliff:g></string>
+<string name="timer_add_timer">টাইমার যুক্ত করুন</string>
+<string name="timer_start">আরম্ভ</string>
+<string name="timer_delete">মুছুন</string>
+<string name="timer_descriptive_delete">"মুছে দিন<xliff:g id="number_string">%s</xliff:g>"</string>
+<string name="timer_plus_one">১মিনিট যোগ করুন</string>
+<string name="timer_plus_1_min">"1 মিনিট যোগ করুন"</string>
+<string name="timer_stop">বন্ধ</string>
+<string name="timer_stop_all">"সমস্ত টাইমার বন্ধ করুন"</string>
+<string name="timer_reset">পুন: স্থাপন করা</string>
+<string name="timer_cancel">বাতিল করুন</string>
+<string name="timer_canceled">"টাইমার বাতিল করা হয়েছে"</string>
+<string name="timer_times_up">সময় উপরে</string>
+<string name="timer_multi_times_up">"<xliff:g id="NUM_TIMERS" example="2">%d</xliff:g> টাইমারের মেয়াদ শেষ হয়ে গেছে"</string>
+<string name="timer_multi_missed">"<xliff:g id="number" example="2">%d</xliff:g> টাইমার মিস হয়েছে"</string>
+<string name="timer_notification_label">টাইমার</string>
+<string name="missed_timer_notification_label">"মিস হওয়া টাইমার"</string>
+<string name="missed_named_timer_notification_label">"মিস হওয়া টাইমার: <xliff:g id="name" example="Pick up kids">%s</xliff:g>"</string>
+<string name="timer_pause">বিরতি</string>
+<string name="timer_reset_all">"সমস্ত টাইমার রিসেট করুন"</string>
+<string name="hours_minutes_seconds">"<xliff:g id="hours" example="2">%d</xliff:g>:<xliff:g id="minutes" example="3">%02d</xliff:g>:<xliff:g id="seconds" example="44">%02d</xliff:g>"</string>
+<string name="minutes_seconds">"<xliff:g id="minutes" example="3">%d</xliff:g>:<xliff:g id="seconds" example="44">%02d</xliff:g>"</string>
+<string-array name="sw_share_strings">
+<item>আপনি পুরোপুরি গতি দৈত্য </item>
+<item>আপনার শ্রমের ফল ভোগ করেন.</item>
+<item>এন্ড্রয়েড দ্রুত কিন্তু আপনি তারও চেয়ে দ্রুত!</item>
+<item>ছি:!</item>
+<item>L33t বার.</item>
+<item>এই আশ্চর্যজনক গতিবেগ.</item>
+<item>চলুন আমরা সময়কে আবার সু-শৃঙ্খল করি</item>
+<item>বাম থেকে শুধু একটা লাফ</item>
+<item>আপনি ত্বরার জন্য একটি প্যালেট আছে.</item>
+<item>ফটোনিক গতিবেগ</item>
+</string-array>
+<string name="home_label">হোম</string>
+<string name="cities_activity_title">শহরগুলি</string>
+<string name="clock_settings">"ঘড়ি"</string>
+<string name="clock_style">স্টাইল</string>
+<string name="display_clock_seconds_pref">"সেকেণ্ডের সাথে সময় প্রদশন করুন"</string>
+<string name="open_date_settings">"তারিখ  \u0026 সময় পরিবর্তন করুন"</string>
+<string-array name="clock_style_entries">
+<item>এনালগ</item>
+<item>ডিজিটাল</item>
+</string-array>
+<string name="automatic_home_clock">সয়ংক্রিয় হোম লক</string>
+<string name="automatic_home_clock_summary">সময় ভিন্ন একটি এলাকায় ভ্রমণের সময় হোম ঘড়ি যোগ করুন</string>
+<string name="home_time_zone">"হোম সময় অঞ্চল"</string>
+<string name="home_time_zone_title">"হোম সময় অঞ্চল"</string>
+<string name="city_checked">"<xliff:g id="city_name">%s</xliff:g> চেক করা হয়েছে "</string>
+<string name="city_unchecked">"<xliff:g id="city_name">%s</xliff:g> চেক করা হয়নি "</string>
+<string name="shortcut_new_alarm_short">এক্সপ্লোর পরিচালনা বিপদাশঙ্কা</string>
+<string name="shortcut_new_alarm_long">"নতুন আলবাম তৈরি করুন"</string>
+<string name="shortcut_new_timer_short">"নতুন টাইমার"</string>
+<string name="shortcut_new_timer_long">"নতুন টাইমার তৈরি করুন"</string>
+<string name="shortcut_start_stopwatch_short">আরম্ভ</string>
+<string name="shortcut_start_stopwatch_long">"স্টপওয়াচ চালু করুন"</string>
+<string name="shortcut_pause_stopwatch_short">বিরতি</string>
+<string name="shortcut_pause_stopwatch_long">"স্টপওয়াচ পজ করুন"</string>
+<string name="shortcut_start_screensaver_short">"স্ক্রিন সেভার"</string>
+<string name="shortcut_start_screensaver_long">"স্ক্রিনসেভের চালু করুন"</string>
+<string name="alarm_settings">"অ্যালার্ম"</string>
+<string name="timer_service_desc">"টাইমার বিজ্ঞপ্তিগুলি থেকে কাজগুলি প্রক্রিয়া করে"</string>
+<string name="stopwatch_service_desc">"স্টপওয়াচ বিজ্ঞপ্তি থেকে কর্ম প্রক্রিয়া।"</string>
+<string name="swn_paused">বিরাম দেওয়া</string>
+<string name="description_direction_right">"ডানদিকে সোয়াইপ করুন অগ্রাহ্য করার জন্য"</string>
+<string name="description_direction_left">" বামদিকে সোয়াইপ করুন স্নুজ করার জন্য"</string>
+<string name="description_direction_both">"বামদিকে সোয়াইপ করুন স্নুজ করার জন্য অথবা ডানদিকে অগ্রাহ্য করার জন্য"</string>
+<string name="timer_settings">"টাইমারগুলি"</string>
+<string name="timer_vibrate_title">"টাইমার ভাইব্রেট"</string>
+<string name="timer_paused">"টাইমার থামানো হয়েছে" </string>
+<string name="timers_stopped">"<xliff:g id="number" example="7">%d</xliff:g>টাইমার থামানো হয়েছে" </string>
+<string name="all_timers_stopped_notif">"আপনার টাইমার দেখতে ট্য়াপ করুন"</string>
+<string name="timers_in_use">"<xliff:g id="number" example="7">%d</xliff:g> বার"</string>
+<string name="next_timer_notif">"পরবর্তী টাইমার: <xliff:g id="time_remaining" example="2 minutes remaining">%s</xliff:g>"</string>
+<string name="screensaver_settings">"স্ক্রিন সেভার সেটিংস"</string>
+<string name="night_mode_title">রাত মোড</string>
+<string name="night_mode_summary">খুব অস্পষ্ট প্রদর্শন (অন্ধকার কক্ষ জন্য)</string>
+<string name="expand_alarm">এলার্ম বাড়ানো</string>
+<string name="collapse_alarm">এলার্ম সঙ্কোচন </string>
+<string name="alarm_undo">"পূর্বাবস্থায় ফিরুন"</string>
+<string name="alarm_deleted">"অ্যালার্ম মুছে দেওয়া হয়েছে"</string>
+<string name="world_time_ahead">"<xliff:g id="time" example="6 hours">%1$s</xliff:g> এগিয়ে"</string>
+<string name="world_time_behind">"<xliff:g id="time" example="4 hours">%1$s</xliff:g> পেছিয়ে"</string>
+<string name="world_hours_minutes_ahead">"<xliff:g id="hours" example="6 hr">%1$s</xliff:g> <xliff:g id="minutes" example="30 min">%2$s</xliff:g>  এগিয়ে"</string>
+<string name="world_hours_minutes_behind">"<xliff:g id="hours" example="4 hr">%1$s</xliff:g> <xliff:g id="minutes" example="30 min">%2$s</xliff:g> পেছিয়ে"</string>
+<string name="world_hours_tomorrow">"আসচে কাল, <xliff:g id="time" example="6 hours ahead">%1$s</xliff:g>"</string>
+<string name="world_hours_yesterday">"গত কাল, <xliff:g id="time" example="4 hours behind">%1$s</xliff:g>"</string>
+<string name="world_tomorrow">"আগামীকাল"</string>
+<string name="world_yesterday">"গতকাল" </string>
+<string name="next_alarm_description">"পরবর্তী এলার্ম: <xliff:g id="alarm_time" example="Wed 8:00am">%s</xliff:g>"</string>
+<string name="no_alarms">"কোন এলার্ম নয়"</string>
+<string name="invalid_time">"অবৈধ সময় <xliff:g id="invalid_hour" example="25">%1$d</xliff:g>:<xliff:g id="invalid_minutes" example="63">%2$d</xliff:g> <xliff:g id="invalid_ampm" example="PM">%3$s</xliff:g>"</string>
+<string name="no_alarm_at">"<xliff:g id="alarm_time_hour" example="14">%1$d</xliff:g>:<xliff:g id="alarm_time_minutes" example="23">%2$d</xliff:g>তে আলার্ম নেই"</string>
+<string name="no_scheduled_alarms">"কোনো নির্ধারিত অ্যালার্ম নেই"</string>
+<string name="no_label_specified">"কোনো লেবেল নির্দিষ্ট করা নেই"</string>
+<string name="no_alarms_with_label">"কোনো অ্যালার্মে এই লেবেলটি নেই"</string>
+<string name="no_alarm_scheduled_for_this_time">"এই সময়ের জন্য কোনো অ্যালার্ম নির্ধারিত করা নেই"</string>
+<string name="alarm_is_dismissed">"<xliff:g id="alarm_time" example="14:20">%s</xliff:g> অ্যালার্ম অগ্রাহ্য করা হয়েছে"</string>
+<string name="alarm_is_set">"<xliff:g id="alarm_time" example="14:20">%s</xliff:g> জন্য অ্যালার্ম সেট করা হয়েছে"</string>
+<string name="timer_created">"টাইমার তৈরি করা হয়েছে"</string>
+<plurals name="expired_timers_dismissed">
+<item quantity="one">"টাইমার বরখাস্ত হয়েছে"</item>
+<item quantity="other">"<xliff:g id="number" example="5">%d</xliff:g>টাইমার বরখাস্ত হয়েছে"</item>
+</plurals>
+<string name="timer_deleted">"টাইমার মুছে দেওয়া হয়েছে"</string>
+<string name="invalid_timer_length">"টাইমারের দীর্ঘতা অবৈধ"</string>
+<string name="invalid_timer">"অবৈধ টাইমার নির্বাচিত হয়েছে"</string>
+<string name="no_expired_timers">"মেয়াদ শেষ হওয়া টাইমার নেই"</string>
+<string name="alarm_cant_be_dismissed_still_more_than_24_hours_away">"<xliff:g id="alarm_time" example="14:20">%s</xliff:g> অ্যালার্মটি এখন অগ্রাহ্য করা যাবেনা, এখনও ২৪ ঘন্টার বেশি সময় বাকি আছে"</string>
+<string name="dismiss_alarm">"অ্যালার্ম অগ্রাহ্য করুন"</string>
+<string name="pick_alarm_to_dismiss">"কোন অ্যালার্মটি অগ্রাহ্য করবেন তা নির্বাচন করুন"</string>
+<string name="no_firing_alarms">"কোনো ফায়ারিং অ্যালার্ম নেই"</string>
+<string name="alarm_is_snoozed">"<xliff:g id="alarm_time" example="14:20">%s</xliff:g> আলারমটি ১০ মিনিটের জন্য স্নুজ করা হয়েছে"</string>
+<string name="pause">বিরতি</string>
+<string name="alarm_shutdown_cancal_open">বাতিল করুন</string>
+<string name="alarm_shutdown_cancal_close">"বাতিল ও পাওয়ার অফ"</string>
+<string name="auto_silence_cancel">বাতিল করুন</string>
+<string name="repeat_every_days">"প্রতি দিন"      </string>
+<string name="repeat_work_days">"কাজের দিন"      </string>
+<string name="repeat_single">সিঙ্গাপুর / সিঙ্গাপুর</string>
+<string name="repeat_dialog_done">ঠিক আছে</string>
+<string name="repeat_dialog_cancel">বাতিল করুন</string>
+<string name="reorder_city">অর্ডার পরিবর্তন</string>
+<string name="delete_city">মুছুন</string>
+<string name="delete_alarm_cancel">বাতিল করুন</string>
+<string name="delete_alarm_done">সম্পন্ন</string>
+<string name="cancel_select">সব বাতিল করুন</string>
+<string name="all_select">সব নির্বাচন</string>
+<string name="firing_alarm">"অগ্নীসংযোগ অ্যালার্ম"</string>
+<string name="title_too_long">ইনপুট অত্যন্ত দীর্ঘ.</string>
+<string-array name="timezone_labels">
+    <item>মার্শাল দ্বীপপুঞ্জ</item>
+    <item>মিডওয়ে দ্বীপ</item>
+    <item>হাওয়াই</item>
+    <item>আলাস্কা</item>
+    <item>প্রশান্ত মহাসাগরীয় সময়</item>
+    <item>তিজুয়ানা</item>
+    <item>অ্যারিজোনা</item>
+    <item>ছিহুয়াহুয়া</item>
+    <item>মাউন্টেন টাইম</item>
+    <item>সেন্ট্রাল আমেরিকা</item>
+    <item>সেন্ট্রাল টাইম</item>
+    <item>মেক্সিকো সিটি</item>
+    <item>সাসকাচ্হিওয়ান</item>
+    <item>বোগোটা</item>
+    <item>ইস্টার্ন টাইম</item>
+    <item>ভেনেজুয়েলা</item>
+    <item>আটলান্টিক টাইম (বারবাডোজ)</item>
+    <item>আটলান্টিক টাইম (কানাডা)</item>
+    <item>ম্যানস</item>
+    <item>সান্তিয়াগো</item>
+    <item>নিউফাউন্ডল্যান্ড</item>
+    <item>ব্রাসিলিয়া</item>
+    <item>বুয়েনস</item>
+    <item>গ্রীনল্যান্ড</item>
+    <item>মন্টেভিডিও</item>
+    <item>মিড আটলান্টিক</item>
+    <item>আজোরেস</item>
+    <item>কেপ ভার্দি দ্বীপপুঞ্জ</item>
+    <item>কাসাব্লাংকা</item>
+    <item>লন্ডন, ডাবলিন</item>
+    <item>আমস্টারডাম, বার্লিন</item>
+    <item>বেলগ্রেড</item>
+    <item>ব্রাসেলস</item>
+    <item>সারাযেভো</item>
+    <item>উইন্ডহোক</item>
+    <item>ডব্লিউ আফ্রিকা টাইম</item>
+    <item>আম্মান, জর্দান</item>
+    <item>এথেন্স, ইস্তানবুল</item>
+    <item>বৈরুত, লেবানন</item>
+    <item>কায়রো</item>
+    <item>হেলসিঙ্কি</item>
+    <item>জেরুসালেম</item>
+    <item>মিন্স্ক</item>
+    <item>হারারে</item>
+    <item>বাগদাদ</item>
+    <item>মস্কো</item>
+    <item>কুয়েত</item>
+    <item>নাইরোবি</item>
+    <item>তেহরান</item>
+    <item>বাকু</item>
+    <item>তিবলিসিতে</item>
+    <item>ইয়েরেভান</item>
+    <item>দুবাই</item>
+    <item>কাবুল</item>
+    <item>ইসলামাবাদ, করাচী</item>
+    <item>উরাল এসকে</item>
+    <item>ইয়েকাটেরিনবার্গ</item>
+    <item>কলকাতা</item>
+    <item>শ্রীলঙ্কা</item>
+    <item>কাঠমান্ডু</item>
+    <item>আসটানা</item>
+    <item>ইয়াংগুন</item>
+    <item>ক্রসনোয়ার্স্ক</item>
+    <item>ব্যাংকক</item>
+    <item>বেইজিং</item>
+    <item>হংকং</item>
+    <item>ইরখুটস্ক</item>
+    <item>কুয়ালালামপুর</item>
+    <item>পার্থ</item>
+    <item>তাইপেই</item>
+    <item>সিওল</item>
+    <item>টোকিও, ওসাকা</item>
+    <item>ইয়াখুটস্ক</item>
+    <item>এডিলেড</item>
+    <item>ডারউইন</item>
+    <item>ব্রিসবেন</item>
+    <item>হোবার্ট</item>
+    <item>দ্য সিডনি, ক্যানবেরা</item>
+    <item>ভ্লাডিভসটক</item>
+    <item>গুয়াম</item>
+    <item>মাগাডন</item>
+    <item>অকল্যান্ড</item>
+    <item>ফিজি</item>
+    <item>টোঙ্গা</item>
+    <item>"জাকার্তা"</item>
+</string-array>
+</resources>

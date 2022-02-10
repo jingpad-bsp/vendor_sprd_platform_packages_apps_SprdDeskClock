@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="cities_names">
+<item>"A<xliff:g id="separator">=</xliff:g> അബിദ്ജാൻ"</item>
+<item>"A<xliff:g id="separator">=</xliff:g> അക്ര"</item>
+<item>"A<xliff:g id="separator">=</xliff:g> അഡിസ് അബാബ"</item>
+<item>"A<xliff:g id="separator">=</xliff:g> അൾജിയേർസ്"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബ്ലാണ്ടിയർ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബ്രാസ്സവില്ലി"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> കെയ്റോ"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> കാസബ്ലാങ്ക"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> കൊനാക്രി"</item>
+<item>"D<xliff:g id="separator">=</xliff:g> ഡാക്കർ"</item>
+<item>"D<xliff:g id="separator">=</xliff:g> ദാർ എസ് സലാം"</item>
+<item>"D<xliff:g id="separator">=</xliff:g> ജിബൗട്ടി"</item>
+<item>"F<xliff:g id="separator">=</xliff:g> ഫ്രീടൗൺ"</item>
+<item>"G<xliff:g id="separator">=</xliff:g> ഗബോറോൺ"</item>
+<item>"H<xliff:g id="separator">=</xliff:g> ഹരാരെ"</item>
+<item>"J<xliff:g id="separator">=</xliff:g> ജൊഹാനസ്ബർഗ്"</item>
+<item>"K<xliff:g id="separator">=</xliff:g> കംപാല"</item>
+<item>"K<xliff:g id="separator">=</xliff:g> ഖാർത്തൂം"</item>
+<item>"K<xliff:g id="separator">=</xliff:g> കിഗാലി"</item>
+<item>"K<xliff:g id="separator">=</xliff:g> കിൻഷാസ"</item>
+<item>"L<xliff:g id="separator">=</xliff:g> ലാഗോസ്"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മസേരു"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മോഗാദിഷു"</item>
+<item>"N<xliff:g id="separator">=</xliff:g> നെയ്റോബി"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സാവോ ടോമെ"</item>
+<item>"T<xliff:g id="separator">=</xliff:g> ടിംബക്ടൂ"</item>
+<item>"T<xliff:g id="separator">=</xliff:g> ട്രിപ്പോളി"</item>
+<item>"T<xliff:g id="separator">=</xliff:g> ടൂണിസ്"</item>
+<item>"A<xliff:g id="separator">=</xliff:g> ആങ്കറേജ്"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മെൻഡോസ"</item>
+<item>"A<xliff:g id="separator">=</xliff:g> അരൂബ"</item>
+<item>"A<xliff:g id="separator">=</xliff:g> അസൻസിയോൻ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബാർബഡോസ്"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബെലീസ്"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബൊഗോട്ട"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബ്യൂണസ് അയേഴ്സ്"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> കാൻകൻ"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> കാരക്കാസ്"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> കേമാൻ"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> ഷിക്കാഗോ"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> കോസ്റ്റാ റിക്ക"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> കുറകാവോ"</item>
+<item>"D<xliff:g id="separator">=</xliff:g> ഡാവ്സൻ ക്രീക്ക്"</item>
+<item>"D<xliff:g id="separator">=</xliff:g> ഡെൻവർ"</item>
+<item>"D<xliff:g id="separator">=</xliff:g> ഡെട്രോയ്റ്റ്"</item>
+<item>"D<xliff:g id="separator">=</xliff:g> ഡൊമിനിക്ക"</item>
+<item>"E<xliff:g id="separator">=</xliff:g> എഡ്മോണ്ടൻ"</item>
+<item>"E<xliff:g id="separator">=</xliff:g> എൽ സാൽവഡോർ"</item>
+<item>"F<xliff:g id="separator">=</xliff:g> ഫോർട്ടലീസ"</item>
+<item>"G<xliff:g id="separator">=</xliff:g> ഗ്രാൻഡ് ടർക്ക്"</item>
+<item>"G<xliff:g id="separator">=</xliff:g> ഗ്രനേഡ"</item>
+<item>"G<xliff:g id="separator">=</xliff:g> ഗ്വാട്ടിമാല"</item>
+<item>"G<xliff:g id="separator">=</xliff:g> ഗയാന"</item>
+<item>"H<xliff:g id="separator">=</xliff:g> ഹാലിഫാക്സ്"</item>
+<item>"H<xliff:g id="separator">=</xliff:g> ഹവാന"</item>
+<item>"I<xliff:g id="separator">=</xliff:g> ഇന്ധ്യനാപോളിസ്"</item>
+<item>"K<xliff:g id="separator">=</xliff:g> നോക്സ്"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മരേംഗോ"</item>
+<item>"P<xliff:g id="separator">=</xliff:g> പീറ്റഴ്സ്ബർഗ്"</item>
+<item>"T<xliff:g id="separator">=</xliff:g> ടെൽ സിറ്റി"</item>
+<item>"V<xliff:g id="separator">=</xliff:g> വീവെയ്"</item>
+<item>"V<xliff:g id="separator">=</xliff:g> വിൻസെൻസ്"</item>
+<item>"W<xliff:g id="separator">=</xliff:g> വിനാമക്"</item>
+<item>"K<xliff:g id="separator">=</xliff:g> കിംഗ്സ്റ്റൺ"</item>
+<item>"N<xliff:g id="separator">=</xliff:g> നുവെസ്ട്രാ സെനോരാ ഡെ ലാ പാസ്"</item>
+<item>"L<xliff:g id="separator">=</xliff:g> ലൈമ"</item>
+<item>"L<xliff:g id="separator">=</xliff:g> ലോസ് ഏഞ്ചൽസ്"</item>
+<item>"L<xliff:g id="separator">=</xliff:g> ലൂയിസ്വില്ലെ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മനാഗ്വാ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മാർട്ടിനിക്ക്"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മെൻഡോസ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മെറ്റ്ലകത്ല"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മെക്സിക്കോ സിറ്റി"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മോണ്ടെറെ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മോണ്ടെവിഡിയോ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മോൺട്രിയൽ"</item>
+<item>"N<xliff:g id="separator">=</xliff:g> നാസ്സാവു"</item>
+<item>"N<xliff:g id="separator">=</xliff:g> ന്യൂയോർക്ക്"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബ്യൂല"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> സെന്റർ"</item>
+<item>"N<xliff:g id="separator">=</xliff:g> ന്യൂ സേലം"</item>
+<item>"P<xliff:g id="separator">=</xliff:g> പനാമ"</item>
+<item>"P<xliff:g id="separator">=</xliff:g> ഫീനിക്സ്"</item>
+<item>"P<xliff:g id="separator">=</xliff:g> പോർട്ട് ഓഫ് സ്പെയ്ൻ"</item>
+<item>"P<xliff:g id="separator">=</xliff:g> പോർട്ട്-ഓ-പ്രിൻസ്"</item>
+<item>"P<xliff:g id="separator">=</xliff:g> പ്യൂർട്ടോ റിക്ക"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സാന്തോ ഡൊമിംഗോ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സാവോ പോളോ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സെന്റ് ജോൺസ്"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സെന്റ് കിറ്റ്സ്"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സെന്റ് ലൂസിയ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സെന്റ് തോമസ്"</item>
+<item>"T<xliff:g id="separator">=</xliff:g> ടിജുവാനാ"</item>
+<item>"T<xliff:g id="separator">=</xliff:g> ടൊറാന്റോ"</item>
+<item>"V<xliff:g id="separator">=</xliff:g> വാൻകൂവർ"</item>
+<item>"W<xliff:g id="separator">=</xliff:g> വിന്നിപെഗ്"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> ദക്ഷിണ ധ്രുവം"</item>
+<item>"L<xliff:g id="separator">=</xliff:g> ലോഞ്ചെയർബയെൻ"</item>
+<item>"A<xliff:g id="separator">=</xliff:g> അൽമാട്ടി"</item>
+<item>"A<xliff:g id="separator">=</xliff:g> അമ്മാൻ"</item>
+<item>"A<xliff:g id="separator">=</xliff:g> അനഡിർ"</item>
+<item>"A<xliff:g id="separator">=</xliff:g> അക്താവു"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബാഗ്ദാദ്"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബഹ്റൈൻ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബകു"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബാങ്കോക്ക്"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബെയ്റൂട്ട്"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> കൽക്കട്ട"</item>
+<item>"D<xliff:g id="separator">=</xliff:g> ഡമാസ്കസ്"</item>
+<item>"D<xliff:g id="separator">=</xliff:g> ധാക്ക"</item>
+<item>"D<xliff:g id="separator">=</xliff:g> ദുബായ്"</item>
+<item>"G<xliff:g id="separator">=</xliff:g> ഗാസ"</item>
+<item>"H<xliff:g id="separator">=</xliff:g> ഹെബ്രോൺ"</item>
+<item>"H<xliff:g id="separator">=</xliff:g> ഹോ ചി മിൻ"</item>
+<item>"H<xliff:g id="separator">=</xliff:g> ഹോങ്കോങ്"</item>
+<item>"I<xliff:g id="separator">=</xliff:g> ഇസ്താംബൂൾ"</item>
+<item>"J<xliff:g id="separator">=</xliff:g> ജക്കാർത്ത"</item>
+<item>"J<xliff:g id="separator">=</xliff:g> ജറുസലേം"</item>
+<item>"K<xliff:g id="separator">=</xliff:g> കാബൂൾ"</item>
+<item>"K<xliff:g id="separator">=</xliff:g> കറാച്ചി"</item>
+<item>"K<xliff:g id="separator">=</xliff:g> കാഠ്മണ്ഡു"</item>
+<item>"K<xliff:g id="separator">=</xliff:g> കോല ലംപൂർ"</item>
+<item>"K<xliff:g id="separator">=</xliff:g> കുവൈറ്റ്"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മാക്കാവു"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മനില"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മസ്കറ്റ്"</item>
+<item>"P<xliff:g id="separator">=</xliff:g> പെനോം പെൻ"</item>
+<item>"P<xliff:g id="separator">=</xliff:g> പ്യോങ്യാംഗ്"</item>
+<item>"Q<xliff:g id="separator">=</xliff:g> ഖത്തർ"</item>
+<item>"R<xliff:g id="separator">=</xliff:g> റങ്കൂൺ"</item>
+<item>"R<xliff:g id="separator">=</xliff:g> റിയാദ്"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സൈഗോൺ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സിയോൾ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> ഷാങ്ഹായ്"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>സിങ്കപ്പൂർ"</item>
+<item>"T<xliff:g id="separator">=</xliff:g> തായ്പെയ്"</item>
+<item>"T<xliff:g id="separator">=</xliff:g> ടെഹ്റാൻ"</item>
+<item>"T<xliff:g id="separator">=</xliff:g> ടെൽ അവീവ്"</item>
+<item>"T<xliff:g id="separator">=</xliff:g> ടോക്കിയോ"</item>
+<item>"U<xliff:g id="separator">=</xliff:g> ഉലാൻബാറ്റർ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബെർമുഡ"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> കാനറി"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> കേപ്പ് വെർഡെ"</item>
+<item>"R<xliff:g id="separator">=</xliff:g> റെയ്ക്ജാവിക്ക്"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സ്റ്റാൻലി"</item>
+<item>"A<xliff:g id="separator">=</xliff:g> അഡ്ലൈഡ്"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബ്രിസ്ബേൻ"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> കാൻബറ"</item>
+<item>"D<xliff:g id="separator">=</xliff:g> ഡാർവിൻ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മെൽബൺ"</item>
+<item>"N<xliff:g id="separator">=</xliff:g> ന്യൂ സൗത്ത് വെയ്ൽസ്"</item>
+<item>"P<xliff:g id="separator">=</xliff:g> പെർത്ത്"</item>
+<item>"Q<xliff:g id="separator">=</xliff:g> ക്വീൻസ്ലാഡ്"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സിഡ്നി"</item>
+<item>"V<xliff:g id="separator">=</xliff:g>വിക്ടോറിയ"</item>
+<item>"N<xliff:g id="separator">=</xliff:g> ന്യൂഫൗണ്ട്ലാൻഡ്"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സസ്ക്കാച്ചെവൻ"</item>
+<item>"E<xliff:g id="separator">=</xliff:g> ഈസ്റ്റർ ഐലൻഡ്"</item>
+<item>"A<xliff:g id="separator">=</xliff:g> ആംസ്റ്റർഡാം"</item>
+<item>"A<xliff:g id="separator">=</xliff:g> അൻഡോറ"</item>
+<item>"A<xliff:g id="separator">=</xliff:g> ഏഥൻസ്"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബെൽഫാസ്റ്റ്"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബെൽഗ്രേഡ്"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബെർലിൻ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബ്രേടിസ്ലാവ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബ്രസ്സൽസ്"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബുക്കറെസ്റ്റ്"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബുഡാപെസ്റ്റ്"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> ചിസിനാവൂ"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> കോപ്പൻ ഹേഗൻ"</item>
+<item>"D<xliff:g id="separator">=</xliff:g> ഡബ്ലിൻ"</item>
+<item>"G<xliff:g id="separator">=</xliff:g> ജിബ്രാൾട്ടർ"</item>
+<item>"H<xliff:g id="separator">=</xliff:g> ഹെൽസിങ്കി"</item>
+<item>"I<xliff:g id="separator">=</xliff:g> ഐൽ ഓഫ് മാൻ"</item>
+<item>"I<xliff:g id="separator">=</xliff:g> ഇസ്താംബൂൾ"</item>
+<item>"K<xliff:g id="separator">=</xliff:g> കിയെവ്"</item>
+<item>"L<xliff:g id="separator">=</xliff:g> ലിസ്ബൺ"</item>
+<item>"L<xliff:g id="separator">=</xliff:g> ലണ്ടൻ"</item>
+<item>"L<xliff:g id="separator">=</xliff:g> ലക്സംബർഗ്"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മാഡ്രിഡ്"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മാൾട്ട"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മിൻസ്ക്"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മൊണാക്കോ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മോസ്കോ"</item>
+<item>"O<xliff:g id="separator">=</xliff:g> ഓസ്ലോ"</item>
+<item>"P<xliff:g id="separator">=</xliff:g> പാരീസ്"</item>
+<item>"P<xliff:g id="separator">=</xliff:g> പ്രാഗ്"</item>
+<item>"R<xliff:g id="separator">=</xliff:g> റിഗ"</item>
+<item>"R<xliff:g id="separator">=</xliff:g> റോം"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സാൻ മറീനോ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സാരാജാവോ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സിംഫെറോപോൾ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സ്കോപ്ജെ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സോഫിയ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സ്റ്റോക്ക്ഹോം"</item>
+<item>"T<xliff:g id="separator">=</xliff:g> ടാലിൻ"</item>
+<item>"V<xliff:g id="separator">=</xliff:g> വത്തിക്കാൻ"</item>
+<item>"V<xliff:g id="separator">=</xliff:g> വിയന്ന"</item>
+<item>"V<xliff:g id="separator">=</xliff:g> വിൽനിയസ്"</item>
+<item>"W<xliff:g id="separator">=</xliff:g> വാർസ"</item>
+<item>"Z<xliff:g id="separator">=</xliff:g> സ്ഗ്രെബ്"</item>
+<item>"Z<xliff:g id="separator">=</xliff:g> സൂറിച്ച്"</item>
+<item>"A<xliff:g id="separator">=</xliff:g> അന്റാനാനാരിവോ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മാലദ്വീപ്"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മൗറീഷ്യസ്"</item>
+<item>"A<xliff:g id="separator">=</xliff:g> ഓക്ലാൻഡ്"</item>
+<item>"F<xliff:g id="separator">=</xliff:g> ഫിജി"</item>
+<item>"G<xliff:g id="separator">=</xliff:g> ഗുവാം"</item>
+<item>"H<xliff:g id="separator">=</xliff:g> ഹോണോലുലു"</item>
+<item>"K<xliff:g id="separator">=</xliff:g> കിരിറ്റിമാറ്റി"</item>
+<item>"N<xliff:g id="separator">=</xliff:g> നൌമ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സമോവ"</item>
+<item>"T<xliff:g id="separator">=</xliff:g> താഹിതി"</item>
+<item>"A<xliff:g id="separator">=</xliff:g> ആന്റിഗ്വ"</item>
+<item>"A<xliff:g id="separator">=</xliff:g> ഓസ്റ്റിൻ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബോസ്റ്റൺ"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> കാൽഗറി"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> കൊളംബസ്"</item>
+<item>"D<xliff:g id="separator">=</xliff:g> ഡാളസ്"</item>
+<item>"K<xliff:g id="separator">=</xliff:g> നോക്സ്വില്ലെ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മെംഫിസ്"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മിയാമി"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മിനിയാപോളിസ്"</item>
+<item>"O<xliff:g id="separator">=</xliff:g> ഒട്ടാവ"</item>
+<item>"P<xliff:g id="separator">=</xliff:g> ഫിലാഡെൽഫിയ"</item>
+<item>"P<xliff:g id="separator">=</xliff:g> പോർട്ട്ലാൻഡ്"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സാൻഡീഗോ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സാൻഫ്രാൻസിസ്കോ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സാൾട്ട് ലേക്ക് സിറ്റി"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സാൻ ജോസ്"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സാൻ സാൽവദോർ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സീറ്റൽ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സെയ്ന്റ് ലൂയിസ്"</item>
+<item>"W<xliff:g id="separator">=</xliff:g> വാഷിംഗ്ടൺ ഡി.സി"</item>
+<item>"H<xliff:g id="separator">=</xliff:g> ഹ്യൂസ്റ്റൺ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സാൻ അന്റോണിയോ"</item>
+<item>"J<xliff:g id="separator">=</xliff:g> ജാക്ക്സൺവില്ലെ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബാൾട്ടിമോർ"</item>
+<item>"N<xliff:g id="separator">=</xliff:g> നാഷ്വില്ലെ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മിൽവാക്കി"</item>
+<item>"O<xliff:g id="separator">=</xliff:g> ഒക്ലഹോമ സിറ്റീ"</item>
+<item>"L<xliff:g id="separator">=</xliff:g> ലാസ് വെഗാസ്"</item>
+<item>"A<xliff:g id="separator">=</xliff:g> ആൽബുക്കർക്ക്"</item>
+<item>"T<xliff:g id="separator">=</xliff:g> ടക്സൺ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സാക്രമെന്റോ"</item>
+<item>"A<xliff:g id="separator">=</xliff:g> അറ്റ്ലാന്റ"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> ക്ലെവ്ലാന്റ്"</item>
+<item>"N<xliff:g id="separator">=</xliff:g> ന്യൂ ഓർലീൻസ്"</item>
+<item>"T<xliff:g id="separator">=</xliff:g> ടമ്പ"</item>
+<item>"P<xliff:g id="separator">=</xliff:g> പിറ്റ്സ്ബർഗ്"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> സിൻസിനാറ്റി"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മൗണ്ടൻ വ്യൂ"</item>
+<item>"R<xliff:g id="separator">=</xliff:g> റെനോ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബ്ലാക്ക് റോക്ക് സിറ്റി"</item>
+<item>"D<xliff:g id="separator">=</xliff:g> ദോഹ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബെയ്ജിങ്"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മുംബൈ"</item>
+<item>"D<xliff:g id="separator">=</xliff:g> ഡൽഹി"</item>
+<item>"O<xliff:g id="separator">=</xliff:g> ഒസാക്ക"</item>
+<item>"L<xliff:g id="separator">=</xliff:g> ലാഹോർ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സനാ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബാഴ്സലോണ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മ്യൂനിക്"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മിലാൻ"</item>
+<item>"F<xliff:g id="separator">=</xliff:g> ഫ്രാങ്ക്ഫർട്ട്"</item>
+<item>"H<xliff:g id="separator">=</xliff:g> ഹാനോയ്"</item>
+<item>"A<xliff:g id="separator">=</xliff:g> അങ്കാര"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബാംഗ്ലൂർ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബ്രസീലിയ"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> കേപ് ടൗൺ"</item>
+<item>"I<xliff:g id="separator">=</xliff:g> ഇസ്ലാമാബാദ്"</item>
+<item>"R<xliff:g id="separator">=</xliff:g> റിയോ ഡി ജനീറോ"</item>
+<item>"A<xliff:g id="separator">=</xliff:g> ആൻ അർബർ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബൗൾഡർ"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> കേംബ്രിഡ്ജ്"</item>
+<item>"K<xliff:g id="separator">=</xliff:g> കിർക് ലാൻഡ്"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മാഡിസൺ"</item>
+<item>"G<xliff:g id="separator">=</xliff:g> ഗുവാംഗ്ഷൌ"</item>
+<item>"H<xliff:g id="separator">=</xliff:g> ഹൈദരാബാദ്"</item>
+<item>"R<xliff:g id="separator">=</xliff:g> റെസ്റ്റൺ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g> ബലൊ ഹൊറിസോണ്ടെ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സാന്റിയാഗോ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മൻറോവിയ"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> കൊളംബോ"</item>
+<item>"C<xliff:g id="separator">=</xliff:g> ചിഹുവാഹുവ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സാൽവദോർ"</item>
+<item>"G<xliff:g id="separator">=</xliff:g> ഗുഡ്ഗാവ്"</item>
+<item>"M<xliff:g id="separator">=</xliff:g> മാഞ്ചസ്റ്റർ"</item>
+<item>"K<xliff:g id="separator">=</xliff:g> കീവ്"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സെന്റ് പീറ്റേഴ്സ്ബർഗ്"</item>
+<item>"K<xliff:g id="separator">=</xliff:g> ക്രോക്കോ"</item>
+<item>"W<xliff:g id="separator">=</xliff:g> വ്രോക്ല"</item>
+<item>"H<xliff:g id="separator">=</xliff:g> ഹാംബർഗ്"</item>
+<item>"O<xliff:g id="separator">=</xliff:g> ഒലു"</item>
+<item>"H<xliff:g id="separator">=</xliff:g> ഹൈഫ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g> സാൻ ജുവാൻ"</item>
+<item>"T<xliff:g id="separator">=</xliff:g> ടെഗൂസിഗാൽപ"</item>
+<item>"P<xliff:g id="separator">=</xliff:g> പാരമാരിബോ"</item>
+<item>"Q<xliff:g id="separator">=</xliff:g> ക്വിറ്റോ"</item>
+<item>"L<xliff:g id="separator">=</xliff:g> ലുബ്ലിയാന"</item>
+</string-array>
+<string-array name="repeat_days_sat">
+<item>"ശനി"</item>
+<item>"ഞായര്‍"</item>
+<item>"തിങ്കള്‍"</item>
+<item>"ചൊവ്വ"</item>
+<item>"ബുധന്‍"</item>
+<item>"വ്യാഴം"</item>
+<item>"വെള്ളി"</item>
+</string-array>
+<string-array name="repeat_days_sun">
+<item>"ഞായര്‍"</item>
+<item>"തിങ്കള്‍"</item>
+<item>"ചൊവ്വ"</item>
+<item>"ബുധന്‍"</item>
+<item>"വ്യാഴം"</item>
+<item>"വെള്ളി"</item>
+<item>"ശനി"</item>
+</string-array>
+<string-array name="repeat_days_mon">
+<item>"തിങ്കള്‍"</item>
+<item>"ചൊവ്വ"</item>
+<item>"ബുധന്‍"</item>
+<item>"വ്യാഴം"</item>
+<item>"വെള്ളി"</item>
+<item>"ശനി"</item>
+<item>"ഞായര്‍"</item>
+</string-array>
+<string-array name="auto_silence">
+<item>"1 മിനിട്ട്"</item>
+<item>"5 മിനുട്ടുകള്‍"</item>
+<item>"10 മിനുട്ടുകള്‍"</item>
+<item>"15 മിനുട്ടുകള്‍"</item>
+<item>"20 മിനുട്ടുകള്‍"</item>
+<item>"25 മിനുട്ടുകള്‍"</item>
+<item>"30 മിനുട്ടുകള്‍"</item>
+</string-array>
+<string-array name="cities_names_sprd">
+<item>"കീരിമാറ്റി/കീരിബാറ്റി"</item>
+<item>"ചാതം ദ്വീപ്/ന്യൂസിലാന്‍ഡ്"</item>
+<item>"വെല്ലിങ്ങ്ടണ്‍/ന്യൂസിലാന്‍ഡ്"</item>
+<item>"സുവ/ഫിജി"</item>
+<item>"അനാദിര്‍/റഷ്യ"</item>
+<item>"കംചട്ക/റഷ്യ"</item>
+<item>"വ്ലാഡിവ്റ്റോക്ക്/റഷ്യ"</item>
+<item>"സിഡ്നി/ആസ്ത്രേലിയ"</item>
+<item>"കാന്‍ബെറ/ആസ്ത്രേലിയ"</item>
+<item>"മെല്‍ബോണ്‍/ആസ്ത്രേലിയ"</item>
+<item>"ബ്രിസ്ബെയിന്‍/ആസ്ത്രേലിയ"</item>
+<item>"അഡലൈഡ്/ആസ്ത്രേലിയ"</item>
+<item>"ഡാര്‍വിന്‍/ആസ്ത്രേലിയ"</item>
+<item>"ടോക്കിയോ/ജപ്പാന്‍"</item>
+<item>"സിയോള്‍/കൊറിയ"</item>
+<item>"തായ്പേയ്/ചൈന"</item>
+<item>"ഷാങ്ങ്ഹായ്/ചൈന"</item>
+<item>"മനില/ഫിലിപ്പൈന്‍ ദ്വീപുകള്‍"</item>
+<item>"ബെയ്ജിങ്ങ്/ചൈന"</item>
+<item>"പെര്‍ത്ത്/ആസ്ത്രേലിയ"</item>
+<item>"ഹോങ്ങ്കോങ്ങ്/ചൈന"</item>
+<item>"സിംഗപ്പൂര്‍/സിംഗപ്പൂര്‍"</item>
+<item>"ക്വാലലംപൂര്‍/മലേഷ്യ"</item>
+<item>"ജക്കാര്‍ത്ത/ഇന്തൊനേഷ്യ"</item>
+<item>"ഹാനോയ്/വിയറ്റ്നാം"</item>
+<item>"ബാങ്കോക്ക്/തായ്‍ലാന്‍ഡ്"</item>
+<item>"യാംഗോണ്‍/ബര്‍മ്മ"</item>
+<item>"ധാക്ക/ബംഗാള്‍"</item>
+<item>"കാഠ്മണ്ഡു/നേപ്പാള്‍"</item>
+<item>"കൊല്‍ക്കത്ത/ഇന്ത്യ"</item>
+<item>"ന്യൂഡല്‍ഹി/ഇന്ത്യ"</item>
+<item>"മുംബൈ/ഇന്ത്യ"</item>
+<item>"ഇസ്‍ലാമാബാദ്/പാക്കിസ്ഥാന്‍"</item>
+<item>"താഷ്കെന്റ്/ഉസ്ബെക്കിസ്ഥാന്‍"</item>
+<item>"ലാഹോര്‍‌/പാക്കിസ്ഥാന്‍"</item>
+<item>"കറാച്ചി/ പാക്കിസ്ഥാന്‍"</item>
+<item>"കാബൂള്‍/അഫ്ഗാനിസ്ഥാന്‍"</item>
+<item>"ടെഹ്‍റാന്‍/ഇറാന്‍"</item>
+<item>"അബുദാബി/യുണൈറ്റഡ് അറബ് എമിറേറ്റ്സ്"</item>
+<item>"മോസ്കോ/റഷ്യ"</item>
+<item>"അന്താനനാറിവോ/മഡഗാസ്കര്‍"</item>
+<item>"റിയാദ്/സൗദി അറേബ്യ"</item>
+<item>"ഏദന്‍/യെമന്‍"</item>
+<item>"ബാഗ്ദാദ്/ഇറാക്ക്"</item>
+<item>"ആദിസ് അബാബ/എത്യോപ്യ"</item>
+<item>"കുവൈറ്റ് സിറ്റി/ കുവൈറ്റ്"</item>
+<item>"നയ്റോബി/കെനിയ"</item>
+<item>"ഖര്‍ത്തൂം/സുഡാന്‍"</item>
+<item>"അമാന്‍/ജോര്‍ദ്ദാന്‍"</item>
+<item>"ബെയ്റൂട്ട്/ലെബനോന്‍"</item>
+<item>"ജറുസലെം/ഇസ്രായേല്‍"</item>
+<item>"അങ്കാറ/തുര്‍ക്കി"</item>
+<item>"ബുക്കാറസ്റ്റ്/റൊമാനിയ"</item>
+<item>"മിന്‍സ്ക്/ബെലാറസ്"</item>
+<item>"ഒഡേസ/ഉക്രെയിന്‍"</item>
+<item>"ക്യിവ്/ഉക്രെയിന്‍"</item>
+<item>"ഇസ്താംബുള്‍/തുര്‍ക്കി"</item>
+<item>"സോഫിയ/ബള്‍ഗേറിയ"</item>
+<item>"ഏഥന്‍സ്/ഗ്രീസ്"</item>
+<item>"ടാലിന്‍/എസ്തോണിയ"</item>
+<item>"ഹെല്‍സിങ്കി/ഫിന്‍ലാന്‍ഡ്"</item>
+<item>"കെയ്റോ/ഈജിപ്ത്"</item>
+<item>"ഹരാരെ/സിംബാബ്‍വെ"</item>
+<item>"ജോഹനാസ്ബെര്‍ഗ്/സൗത്ത് ആഫ്രിക്ക"</item>
+<item>"കേപ്ടൗണ്‍/സൗത്ത് ആഫ്രിക്ക"</item>
+<item>"വാര്‍സ/പോളണ്ട്"</item>
+<item>"ബെല്‍ഗ്രേഡ്/സെര്‍ബിയയും മോണ്ടെനീഗോ ലോ"</item>
+<item>"ബുഡാപെസ്റ്റ്/ഹംഗറി"</item>
+<item>"സ്റ്റോക്ക്ഹോം/സ്വീഡന്‍"</item>
+<item>"വിയന്ന/ആസ്ട്രിയ"</item>
+<item>"സാഗ്രെബ്/ക്രൊയേഷ്യ"</item>
+<item>"പ്രേഗ്/ചെക്ക്"</item>
+<item>"ബെര്‍ലിന്‍/ജര്‍മ്മനി"</item>
+<item>"റോം/ഇറ്റലി"</item>
+<item>"കോപ്പന്‍ഹേഗന്‍/ഡെന്‍മാര്‍ക്ക്"</item>
+<item>"ഓസ്‍ലോ/നോര്‍വേ"</item>
+<item>"ഫ്രാങ്ക്ഫര്‍ട്ട്/ജര്‍മ്മനി"</item>
+<item>"സൂറിച്ച്/സ്വിറ്റ്സര്‍ലണ്ട്"</item>
+<item>"ജനീവ/സ്വിറ്റ്സര്‍ലണ്ട്"</item>
+<item>"ആംസ്റ്റര്‍ഡാം/ഹോളണ്ട്"</item>
+<item>"ബ്രസല്‍സ്/ബെല്‍ജിയം"</item>
+<item>"പാരീസ്/ഫ്രാന്‍സ്"</item>
+<item>"ബാര്‍സലോണ/എസ്പാന"</item>
+<item>"മാഡ്രിഡ്/എസ്പാന"</item>
+<item>"ലാഗോസ്/നൈജീരിയ"</item>
+<item>"അള്‍ജിയേഴ്സ്/അള്‍ജീരിയ"</item>
+<item>"ലണ്ടന്‍/ഇംഗ്ലണ്ട്"</item>
+<item>"ഡബ്ലിന്‍/അയര്‍ലണ്ട്"</item>
+<item>"ലിസ്ബന്‍/പോര്‍ട്ടുഗല്‍"</item>
+<item>"കാസാബ്ലാങ്ക/മൊറോക്കോ"</item>
+<item>"റെയ്ക്ക്ജാവിക്ക്/ഐസ്‍ലാന്‍‍ഡ്"</item>
+<item>"റിയോ ഡി ജനീറോ/ബ്രസീല്‍"</item>
+<item>"സോവോ പോളോ/ബ്രസീല്‍"</item>
+<item>"ബ്രസീലിയ/ബ്രസീല്‍"</item>
+<item>"മോണ്ടെവീഡിയോ/ഉറുഗ്വേ"</item>
+<item>"ബ്യൂണെസ് അയേഴ്സ്/അര്‍ജന്റീന"</item>
+<item>"ഹാലിഫാക്സ്/കാനഡ"</item>
+<item>"സെന്റ് ജോണ്‍/വെനിസ്വേല"</item>
+<item>"കരാകാസ്/പോര്‍ട്ടോറിക്കോ"</item>
+<item>"സാന്റിയാഗോ/ചിലി"</item>
+<item>"സെന്റ് ജോണ്‍സ്/കാനഡ"</item>
+<item>"അസുന്‍സ യോണ്‍/പരാഗ്വേ"</item>
+<item>"ലാ പാസ്/ബൊളിവിയ" </item>
+<item>"സാന്റോ ഡോമിംഗോ/ഡൊമിനിഷ്യ"</item>
+<item>"ബോസ്റ്റണ്‍/അമേരിക്ക"</item>
+<item>"മോണ്ട്റിയല്‍/കാനഡ"</item>
+<item>"ന്യൂയോര്‍ക്ക്/അമേരിക്ക"</item>
+<item>"നസ്സാവു/ബഹാമസ്"</item>
+<item>"ഒട്ടാവ/കാനഡ"</item>
+<item>"ടൊറൊന്റോ/കാനഡ"</item>
+<item>"ഫിലാഡെല്‍ഫിയ/അമേരിക്ക"</item>
+<item>"ഹവാന/ക്യൂബ"</item>
+<item>"ഇന്ത്യാനാപോളിസ്/അമേരിക്ക"</item>
+<item>"അറ്റ്ലാന്റ/അമേരിക്ക"</item>
+<item>"വാഷിംഗ്ടണ്‍ ഡിസി/അമേരിക്ക"</item>
+<item>"ഡെറ്റ്ട്രോയിറ്റ്/അമേരിക്ക"</item>
+<item>"ബോഗോട്ട/കംപൂച്ചിയ"</item>
+<item>"ലിമ/പെറു"</item>
+<item>"കിങ്ങ്സ്റ്റണ്‍/ജമൈക്ക"</item>
+<item>"മെക്സിക്കോ സിറ്റി/മെക്സിക്കോ"</item>
+<item>"ഹോസ്റ്റണ്‍/അമേരിക്ക"</item>
+<item>"വിന്നിപെഗ്/കാനഡ"</item>
+<item>"മിന്നപോളിസ്/അമേരിക്ക"</item>
+<item>"മോണ്ട്ഗോമെറി/ അമേരിക്ക"</item>
+<item>"ചിക്കാഗോ/ അമേരിക്ക"</item>
+<item>"ന്യു ഓര്‍ലിയന്‍സ്/ അമേരിക്ക"</item>
+<item>"സെന്റ് പോള്‍/അമേരിക്ക"</item>
+<item>"ഗ്വാട്ടിമാല/ഗ്വാട്ടിമാല"</item>
+<item>"തെഗുസിഗാല്‍പ/ഹോണ്ടുറാസ്"</item>
+<item>"സാന്‍ സാല്‍വദോര്‍/സാല്‍വതോര്‍"</item>
+<item>"മനാഗുവ/നിക്കരാഗ്വ"</item>
+<item>"ഡെന്‍വര്‍/അമേരിക്ക"</item>
+<item>"എഡ്മണ്ടന്‍/കാനഡ"</item>
+<item>"ഫീനീക്സ്/അമേരിക്ക"</item>
+<item>"അക്‍ലാവിക്/കാനഡ"</item>
+<item>"ലോസ് ആഞ്ചലസ്/അമേരിക്ക"</item>
+<item>"സിയാറ്റില്‍/അമേരിക്ക"</item>
+<item>"വാന്‍കൂവര്‍/കാനഡ"</item>
+<item>"സാന്‍ഫ്രാന്‍സിസ്കോ/അമേരിക്ക"</item>
+<item>"ആങ്കറേജ്/അമേരിക്ക"</item>
+<item>"ഹോണോലുലു/അമേരിക്ക"</item>
+</string-array>
+</resources>

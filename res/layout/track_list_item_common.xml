@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_toEndOf="@+id/WCReorderSrc"
+        android:gravity="center_vertical"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/city_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="16dip"
+            android:paddingTop="5dip"
+            android:singleLine="true"
+            android:textAppearance="@style/SecondaryLabelTextAppearance"
+            android:textColor="@color/clock_white"
+            android:textSize="16sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingStart="16dip" >
+
+            <TextView
+                android:id="@+id/city_tz"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_gravity="center_vertical"
+                android:textDirection="locale"
+                android:textColor="@color/clock_gray"
+                android:textAppearance="@style/SecondaryLabelTextAppearance" />
+
+            <TextView
+                android:id="@+id/city_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginEnd="20dip"
+                android:textDirection="locale"
+                android:textAppearance="@style/SecondaryLabelTextAppearance"
+                android:textColor="@color/clock_gray" />
+        </LinearLayout>
+    </LinearLayout>
+
+</merge>

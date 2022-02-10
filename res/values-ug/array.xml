@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="cities_names">
+<item>"A<xliff:g id="separator">=</xliff:g>ئابدران"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ئاككرا"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ئاددىس ئابابا"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ئالجىرىيە"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بۇلانتايىر"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بىراززاۋېللى"</item>
+<item>"Q<xliff:g id="separator">=</xliff:g>قاھىرە"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كاسابۇلەنكا"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كونكارى"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>داككار"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>دارىسسالام"</item>
+<item>"J<xliff:g id="separator">=</xliff:g>جىبۇتى"</item>
+<item>"F<xliff:g id="separator">=</xliff:g>ڧرىتون"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>گابورونى"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>خارارى"</item>
+<item>"J<xliff:g id="separator">=</xliff:g>جونىسبۇرۇگ"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كامپالا"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>خارتوم"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كىگالى"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كىنشاسا"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>لاگوس"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>ماسېرۇ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>موقدىشۇ"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>نايروبى"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سان تومې"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>تىمبۇكتۇ"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>تىرىپولى"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>تۇنىس"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ئانچوراگى"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مېندوسا"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ئارۇبا"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ئاسۇن سىن"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>باربادوس"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بىلىز"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بوگوتا"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بۇنىئوس ئايرىس"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كانكۇن"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كاراكاس"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كايمان"</item>
+<item>"CH<xliff:g id="separator">=</xliff:g>چىكاگو"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كوستارىكا"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كۇراساۋ"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>داۋسۇن كىرىك"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>دېنۋىر"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>دېترويىت"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>دومىنىكا"</item>
+<item>"E<xliff:g id="separator">=</xliff:g>ئەدمېنتون"</item>
+<item>"E<xliff:g id="separator">=</xliff:g>ئەل سالۋادور"</item>
+<item>"F<xliff:g id="separator">=</xliff:g>ڧورتالېزا"</item>
+<item>"CH<xliff:g id="separator">=</xliff:g>چوڭ تۈرك"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>گىرېنادا"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>گۇاتېمالا"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>گۇيانا"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>خالىڧاكىس"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>خاۋانا"</item>
+<item>"I<xliff:g id="separator">=</xliff:g>ئىندىيان پولىس"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>نوكىس"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مارېنگو"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>پىتىرىسبۇرۇگ"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>تېل شەھىرى"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>ۋېۋاي"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>ۋىنسىننىس"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>ۋېناماك"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كىڭىستون"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>نۇئېسترا سېن ئورا دې لا پاز"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>لىما"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>لوسئانژىلىس"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>لۇئىسۋىللى"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>ماناگۇا"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مارتىنكۇ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مېندوسا"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مېتلاكاتلا"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مېكسىكا شەھىرى"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مونتېررىي"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مونتېۋىدىئو"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مونتارىئال"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>ناسساۋ"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>نىيۇيۇرك"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بىئۇلاھ"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>سېنتېر"</item>
+<item>"Y<xliff:g id="separator">=</xliff:g>يېڭى سالىم"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>پاناما"</item>
+<item>"F<xliff:g id="separator">=</xliff:g>ڧىنىكىس"</item>
+<item>"I<xliff:g id="separator">=</xliff:g>ئىسپانىيە پورتى"</item>
+<item>"X<xliff:g id="separator">=</xliff:g>شاھزادە پورتى"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>پورتورىكو"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سانتودومىنگو"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سانپاۋلو"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سانجونىس"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سانكىتتىس"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سانلۇسىئاۋ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سانتوماس"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>دىخۇانا"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>تورونتو"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>ۋانكۇئېر"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>ۋىننىپېگ"</item>
+<item>"J<xliff:g id="separator">=</xliff:g>جەنۇبى قۇتۇب"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>لاڭيىر شەھىرى"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ئالمۇتا"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ھاممان"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ئانادىر"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ئاقتۇ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>باغداد"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بەھرەين"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>باكۇ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>باڭكوك"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بېيرۇت"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كالكۇتتا"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>دەمەشىق"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>داكا"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>دۇبەي"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>گازا"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>خىبرون"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>خوچىمىنىخ"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>خوڭكوڭ"</item>
+<item>"I<xliff:g id="separator">=</xliff:g>ئىستانبۇل"</item>
+<item>"J<xliff:g id="separator">=</xliff:g>جاكارتا"</item>
+<item>"I<xliff:g id="separator">=</xliff:g>ئىرۇسالىم"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كابۇل"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كاراچى"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كەتمەندۇ"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كۇالالامپۇر"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كۇۋەيت"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>ماكاۋ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مانىلا"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مۇسكات"</item>
+<item>"F<xliff:g id="separator">=</xliff:g>ڧىنوم ڧىنىخ"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>پىيوڭ ياڭ"</item>
+<item>"Q<xliff:g id="separator">=</xliff:g>قاتار"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>رانگۇن"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>رىياد"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سايگون"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سېئول"</item>
+<item>"X<xliff:g id="separator">=</xliff:g>شاڭخەي"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سىنگاپور"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>تەيبېي"</item>
+<item>""T<xliff:g id="separator">=</xliff:g>"تېھران"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>تېلاۋېۋ"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>توكيو"</item>
+<item>"U<xliff:g id="separator">=</xliff:g>ئۇلانباتۇر"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بېرمۇدا"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كانارا"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كاپې ۋېردا"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>رېيىكجاۋىك"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>ستانلىي"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ئادېلايدې"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>برىسبان"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كانبېررا"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>دارۋىن"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مېلبۇرن"</item>
+<item>"Y<xliff:g id="separator">=</xliff:g>يېڭى جەنۇبى ۋېلش"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>پېرىس"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كۇنسلاند"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سىدنى"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>ۋىكتورىيە"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>نېۋڧوندلەند"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>ساسكاچۋېن"</item>
+<item>"E<xliff:g id="separator">=</xliff:g>ئېستىر ئارىلى"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ئامىستىردان"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ئاندوررا"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ئاڧېنا"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بېلڧاست"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بېلگرادې"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بېرلىن"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>براتىسلاۋا"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بۇرۇسسېلىس"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بۇچارېست"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بۇداپېست"</item>
+<item>"CH<xliff:g id="separator">=</xliff:g>چىسىناۋ"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كوپىنخاگېن"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>دۇبلىن"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>گىبرالتار"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>خېلسىنكى"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مان ئارىلى"</item>
+<item>"I<xliff:g id="separator">=</xliff:g>ئىستانبۇل"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كىىۋ"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>لىسبون"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>لوندون"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>لۇكسىمبۇرۇگ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مادرىد"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مالتا"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مىنسىك"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>موناكو"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>موسكىۋا"</item>
+<item>"O<xliff:g id="separator">=</xliff:g>ئوسلو"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>پارىس"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>پاراگۇ"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>رىگا"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>رۇم"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سان مارىنو"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>ساراجېۋو"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سىمڧېروپول"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سىكوپجې"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سوڧىيە"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سىتوكخولىم"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>تاللىن"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>ۋاتىكان"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>ۋېينا"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>ۋېلنىيۇس"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>ۋارشا"</item>
+<item>"Z<xliff:g id="separator">=</xliff:g>زاگرېب"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سيۇرىخ"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ئانتانانارىۋو"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مالدىۋېس"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>ماۋرىتىيۇس"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ئاۋكلاند"</item>
+<item>"F<xliff:g id="separator">=</xliff:g>ڧىجى"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>گۇام"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>ھونولۇلۇ"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كىرىتىماتى"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>نۇمېئا"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>ساموئا"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>تاخىتى"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ئانتىگۇا"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ئاۋستىن"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بوستون"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كالگارىي"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كولۇمبىيە"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>دالاس"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>نوكسىۋېل"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مېمڧىس"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مىيامى"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مىننېئاپولىس"</item>
+<item>"O<xliff:g id="separator">=</xliff:g>ئوتتاۋا"</item>
+<item>"F<xliff:g id="separator">=</xliff:g>ڧىلادېلڧىيا"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>پورتلاند"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>ساندىيېگو"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سان ڧىرانسىسكو"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سولت لېيك"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سان خوسى"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سان سالۋادور"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سېئاتېل"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سان لۇئىس"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>ۋاشىنگىتون ئالاھىدە رايۇنى"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>خوستون"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سان ئانتونىيو"</item>
+<item>"J<xliff:g id="separator">=</xliff:g>جېسۇنۋېل"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بالتىمور"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>ناشۋىللى"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مىلۋائۇكى"</item>
+<item>"O<xliff:g id="separator">=</xliff:g>ئوكلاخاما شەھىرى"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>لاس ۋېگاس"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ئالبۇكۋېر كۋې"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>تۇكسون"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>ساكرامېنتو"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ئاتلانتا"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كېلاۋېلاند"</item>
+<item>"Y<xliff:g id="separator">=</xliff:g>يېڭى ئورلېئان"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>تامپا"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>پىتتىسبۇرۇگ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سىنسىننات"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مونتالاۋى"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>رېنو"</item>
+<item>"Q<xliff:g id="separator">=</xliff:g>قارا تاش شەھىرى"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>دوھا"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بېيجىڭ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بومباي"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>دېھلى"</item>
+<item>"O<xliff:g id="separator">=</xliff:g>ئوساكا"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>لاھۇر"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سانئا"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بارىسلونا"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مىيۇنخېن"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مىلان"</item>
+<item>"F<xliff:g id="separator">=</xliff:g>ڧرانكىڧورت"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>خانوي"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ئەنقەرە"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>Bangaloreبانگالور"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بىرازىلىيە"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كاپېتوۋن"</item>
+<item>"I<xliff:g id="separator">=</xliff:g>ئىسلامئاباد"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>رىئو دې ژانېيرو"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ئان ئاربور"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بولدىر"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كامبرىج"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كىركلاند"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مادىسۇن"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>گۇاڭجۇ"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>ھەيدەرئاباد"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>رېستون"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بېلوخورىزونتو"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سانتىياگو"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مونروۋىيا"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كولومپو"</item>
+<item>"Q<xliff:g id="separator">=</xliff:g>چىخۇاخۇا"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سالۋادور"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>گۇارگان"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مانچىستىر"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كىيىۋ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سانپىتىرىسبۇرۇگ"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كىراكوۋ"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>ۋىروكلاۋ"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>ھامبۇرگ"</item>
+<item>"O<xliff:g id="separator">=</xliff:g>ئوۋلۇ"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>خايڧا"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سانجۇئان"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>تېگۇسىگالپا"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>پارامارىبو"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>كۈيتو"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>لىبۇلىيانا"</item>
+</string-array>
+<string-array name="cities_names_sprd">
+<item>كىرىتىماتى/كىرىباتى</item>
+<item>چاتام ئارىلى/يېڭى زېلاندىيە</item>
+<item>ۋېللىنگتون/يېڭى زېلاندىيە</item>
+<item>سۇۋا/فىجى</item>
+<item>ئانادېر/روسىيە</item>
+<item>كامچاتكا/روسىيە</item>
+<item>ۋىلادىۋوستوك/روسىيە</item>
+<item>سىدنېي/ئاۋسترالىيە</item>
+<item>كانبېرا/ئاۋسترالىيە</item>
+<item>مېلبۇرن/ئاۋسترالىيە</item>
+<item>بىرىسبان/ئاۋسترالىيە</item>
+<item>ئادېلېيد/ئاۋسترالىيە</item>
+<item>دارۋىن/ئاۋسترالىيە</item>
+<item>توكيو/ياپونىيە</item>
+<item>سېئول/كورىيە</item>
+<item>تەيبېي/جۇڭگو</item>
+<item>شاڭخەي/جۇڭگو</item>
+<item>مانىلا/فېللىپىن</item>
+<item>بېيجىڭ/جۇڭگو</item>
+<item>پېرس/ئاۋسترالىيە</item>
+<item>شياڭگاڭ/جۇڭگو</item>
+<item>سىنگاپور/سىنگاپور</item>
+<item>كۇئالا لۇمپۇر/مالايسىيا</item>
+<item>جاكارتا /ھىندونېزىيە</item>
+<item>خانوي/ۋيېتنام</item>
+<item>باڭكوك/تايلاند</item>
+<item>رانگون/بىرما</item>
+<item>داككا/بېنگال</item>
+<item>كاتماندۇ/نېپال</item>
+<item>كالكۇتتا/ھىندىستان</item>
+<item>يېڭى دېھلى/ھىندىستان</item>
+<item>بومباي/ھىندىستان</item>
+<item>ئىسلامئاباد/پاكىستان</item>
+<item>تاشكەنت/ئۆزبېكىستان</item>
+<item>لاھورې/پاكىستان</item>
+<item>كاراچى/پاكىستان</item>
+<item>كابول/ئافغانىستان</item>
+<item>تېھران/ئىران</item>
+<item>ئەبۇ زەبى/ئەرەب بىرلەشمە خەلىپىلىكى</item>
+<item>موسكىۋا/روسىيە</item>
+<item>تانانارىۋو/ماداغاسقار</item>
+<item>رىياد/سەئۇدى ئەرەبىستان</item>
+<item>ئادېن/يەمەن</item>
+<item>باغداد/ئىراق</item>
+<item>ئەددىس-ئەبېبە/ئېفىيوپىيە</item>
+<item>كۇۋەيت شەھرى/كۇۋەيت</item>
+<item>نايروبى/كېنىيە</item>
+<item>خارتۇم/سۇدان</item>
+<item>ئاممان/ئىيوردانىيە</item>
+<item>بېيرۇت/لىۋان</item>
+<item>ئېروسالىم/ئىسرائىلىيە</item>
+<item>ئەنقەرە/تۈركىيە</item>
+<item>بۇخارېست/رومىنىيە</item>
+<item>مىنسكى/بېلارۇسىيە</item>
+<item>ئودېسا/ئۇكرائىنا</item>
+<item>كيۋ/ئۇكرائىنا</item>
+<item>ئىستانبۇل/تۈركىيە</item>
+<item>سوفىيە/بۇلغارىيە</item>
+<item>ئافېنا/گىرېتسىيە</item>
+<item>تاللىن/ئېستونىيە</item>
+<item>خلىسىنكى/فىنلاندىيە</item>
+<item>قاھىرە/مىسىر</item>
+<item>خارارې/زىمبابۋې</item>
+<item>يوھاننسبورگ/جەنۇبىي ئافرىقا</item>
+<item>كاپېتوۋن/جەنۇبىي ئافرىقا</item>
+<item>ۋارشاۋا/پولشا</item>
+<item>بېلگراد/سېربىيە ۋە مونتېنېگو لو</item>
+<item>بۇداپېشت/ۋېنگىرىيە</item>
+<item>ستوكگولم/شىۋېتسىيە</item>
+<item>ۋېنا/ئاۋسترىيە</item>
+<item>زاگرېب/كىرودىيە</item>
+<item>پراگا/چېخ </item>
+<item>بېرلىن/گېرمانىيە</item>
+<item>رىم/ئىتالىيە</item>
+<item>كوپېنھاگېن/دانىيە</item>
+<item>ئوسلۇ/نورۋېگىيە</item>
+<item>فرانكفورت/گېرمانىيە</item>
+<item>سيۇرىخ/شىۋېتسارىيە</item>
+<item>جەنۋە/شىۋېتسارىيە</item>
+<item>ئامستېردام/گوللاندىيە</item>
+<item>بىريۇسسېل/بېلگىيە</item>
+<item>پارىژ/فىرانسىيە</item>
+<item>بارسېلونا/ئىسپانىيە</item>
+<item>مادرىد/ئىسپانىيە</item>
+<item>لاگوس/نىگېرىيە</item>
+<item>ئالجىر/ئالجىرىيە</item>
+<item>لوندون/ئەنگلىيە</item>
+<item>دۇبلىن/ئىرېلاندىيە</item>
+<item>لىسبون/پورتۇگالىيە</item>
+<item>كاسابىلانكا/موروكو</item>
+<item>ېيكياۋىك/ئىسلاندىيە</item>
+<item>رىيو دې ژانىرو/بىرازىلىيە</item>
+<item>سان پاۋلو/بىرازىلىيە</item>
+<item>بىرازىلىيە/بىرازىلىيە</item>
+<item>مونتېۋىدېئو/ئۇرۇگۋاي</item>
+<item>بۇئېنوس ئايرېس/ئارگېنتىنا</item>
+<item>ھالىفاكس/كانادا</item>
+<item>كاراكاس/ۋېنېسۇئېلا</item>
+<item>سانت جون/پۇئېرتو رىكو</item>
+<item>سانتىياگو/چىلى</item>
+<item>"سانت جونىس/كانادا"</item>
+<item>ئاسۇنسىئون/پاراگۋاي</item>
+<item>لاپاز/بولىۋىيە</item>
+<item>سانتو دومىنگو/دومىنىكا</item>
+<item>بوستون/ئامېرىكا</item>
+<item>مونترېئال/كانادا</item>
+<item>نيۇيورك/ئامېرىكا</item>
+<item>ناسسائۇ/باھاما</item>
+<item>ئوتتاۋا/كانادا</item>
+<item>تورونتو/كانادا</item>
+<item>فىلادېلفىيە/ئامېرىكا</item>
+<item>ھاۋانا/كۇبا</item>
+<item>ئىندىئاناپولىس/ئامېرىكا</item>
+<item>ئاتلانتا/ئامېرىكا</item>
+<item>ۋاشىنگىتون ئالاھىدە رايۇنى/ئامېرىكا</item>
+<item>دېترويت/ئامېرىكا</item>
+<item>بوگوتا/ كولومبىيە</item>
+<item>لىما/پېرۇ</item>
+<item>كىنگستون/يامايكا</item>
+<item>مېكسىكا شەھرى/مېكسىكا</item>
+<item>ھيۇستون/ئامېرىكا</item>
+<item>ۋىننىپېگ/كانادا</item>
+<item>مىننېئاپولىس/ئامېرىكا</item>
+<item>مونتگومېرىي/ئامېرىكا</item>
+<item>چىكاگو/ئامېرىكا</item>
+<item>يېڭى ئورلېئان/ئامېرىكا</item>
+<item>سان پاۋلو/ئامېرىكا</item>
+<item>گۋاتېمالا/گۋاتېمالا</item>
+<item>تېگۇسىگالپا/ھوندۇراس</item>
+<item>سان سالۋادور/سالۋادور</item>
+<item>ماناگۇئا/نىكاراگۇئا</item>
+<item>دېنۋېر/ئامېرىكا</item>
+<item>ئېدمونتون/كانادا</item>
+<item>فونىكىس/ئامېرىكا</item>
+<item>ئاكلاۋىك/كانادا</item>
+<item>لوس ئانژېلېس/ئامېرىكا</item>
+<item>سېئاتل/ئامېرىكا</item>
+<item>ۋانكۇۋىر/كانادا</item>
+<item>" سان فىرانسىسكو/ئامېرىكا"</item>
+<item>ئانكورېج/ئامېرىكا</item>
+<item>خونولۇلۇ/ئامېرىكا</item>
+</string-array>
+<string-array name="auto_silence">
+<item>"1مىنۇت"</item>
+<item>"5مىنۇت"</item>
+<item>"10مىنۇت"</item>
+<item>"15مىنۇت"</item>
+<item>"20مىنۇت"</item>
+<item>"25مىنۇت"</item>
+<item>"30مىنۇت"</item>
+</string-array>
+<string-array name="repeat_days_sat">
+<item>"شەنبە"</item>
+<item>"يەكشەنبە"</item>
+<item>"دۈشەنبە"</item>
+<item>"سەيشەنبە"</item>
+<item>"چارشەنبە"</item>
+<item>"پەيشەنبە"</item>
+<item>"جۈمە"</item>
+</string-array>
+<string-array name="repeat_days_sun">
+<item>"يەكشەنبە"</item>
+<item>"دۈشەنبە"</item>
+<item>"سەيشەنبە"</item>
+<item>"چارشەنبە"</item>
+<item>"پەيشەنبە"</item>
+<item>"جۈمە"</item>
+<item>"شەنبە"</item>
+</string-array>
+<string-array name="repeat_days_mon">
+<item>"دۈشەنبە"</item>
+<item>"سەيشەنبە"</item>
+<item>"چارشەنبە"</item>
+<item>"پەيشەنبە"</item>
+<item>"جۈمە"</item>
+<item>"شەنبە"</item>
+<item>"يەكشەنبە"</item>
+</string-array>
+</resources>

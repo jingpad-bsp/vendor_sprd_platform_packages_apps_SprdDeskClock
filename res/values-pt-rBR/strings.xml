@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_label">"Relógio"</string>
+<string name="alarm_list_title">"Alarmes"</string>
+<string name="add_alarm">"Adicionar alarme"</string>
+<string name="menu_desk_clock">"Relógio de mesa"</string>
+<string name="menu_edit_alarm">"Editar alarme"</string>
+<string name="delete_alarm">"Excluir alarme"</string>
+<string name="enable_alarm">"Ligar alarme"</string>
+<string name="disable_alarm">"Desligar alarme"</string>
+<string name="delete_alarm_confirm">"Apagar este alarme?"</string>
+<string name="show_clock">"Mostrar relógio"</string>
+<string name="hide_clock">"Esconder relógio"</string>
+<string name="label">"Etiqueta"</string>
+<string name="on_switch">"Ativado"</string>
+<string name="off_switch">"Desativado"</string>
+<string name="default_label">"Alarme"</string>
+<string name="set_alarm">"Definir alarme"</string>
+<string name="alarm_vibrate">"Vibrar"</string>
+<string name="alarm_repeat">"Repetir"</string>
+<string name="alert">"Melodia do Alarme"</string>
+<string name="default_timer_ringtone_title">"Temporizador Expirou"</string>
+<string name="silent_timer_ringtone_title">"Silencioso"</string>
+<string name="ringtone">"Toque"</string>
+<string name="time">"Horário"</string>
+<string name="alarm_tomorrow">"Amanhã"</string>
+<string name="alarm_today">"Hoje"</string>
+<string name="alarm_alert_wake_up">"Acordar\u0021"</string>
+<string name="alarm_alert_off_action_text">"Desativado"</string>
+<string name="alarm_alert_dismiss_text">"Descartar"</string>
+<string name="alarm_alert_dismiss_now_text">"Dispensar agora"</string>
+<string name="alarm_missed_title">"Alarme perdido"</string>
+<string name="alarm_alert_snoozed_text">"Adiado"</string>
+<plurals name="alarm_alert_snooze_duration">
+<item quantity="one">"1 min"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%d</xliff:g>min"</item>
+</plurals>
+<string name="alarm_alert_off_text">"Alarme desligado"</string>
+<string name="alarm_alert_snooze_text">"Soneca"</string>
+<plurals name="alarm_alert_snooze_set">
+<item quantity="one">"Adiando por 1 minuto."</item>
+<item quantity="other">"Soneca por <xliff:g id="minutes">%d</xliff:g> minutos."</item>
+</plurals>
+<string name="alarm_alert_snooze_until">"Soneca até <xliff:g id="time">%s</xliff:g>"</string>
+<string name="alarm_alert_predismiss_title">"Alarme seguinte"</string>
+<string name="missed_alarm_has_been_deleted">"Seu alarme perdido foi apagado"</string>
+<string name="timer_notifications_less_min">"Menos de um minuto restante"</string>
+<string name="timer_notifications_hours">"<xliff:g id =" HOURS " example =" 2 horas ">%1$s</xliff:g> <xliff:g id =" RESTANTE " example =" restantes ">%3$s</xliff:g> "</string>
+<string name="timer_notifications_minutes">"<xliff:g id =" MINUTES " example =" 2 minutos ">%2$s</xliff:g> <xliff:g id =" RESTANTE " example =" restantes ">%3$s</xliff:g> "</string>
+<string name="timer_notifications_hours_minutes">"<xliff:g id =" HOURS " example =" 2 horas ">%1$s</xliff:g> <xliff:g id =" MINUTOS " example =" 2 minutos ">%2$s</xliff:g> restante "</string>
+<string name="timer_remaining_single">"restante"</string>
+<string name="timer_remaining_multiple">"restante"</string>
+<string-array name="alarm_set">
+<item>"Alarme definido para menos de 1 minuto desde agora."</item>
+<item>"Alarme definido para <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> a partir de agora."</item>
+<item>"Alarme definido para <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> a partir de agora."</item>
+<item>"Alarme definido para <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> e <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> a partir de agora."</item>
+<item>"Alarme definido para <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> a partir de agora."</item>
+<item>"Alarme definido para <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> e <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> a partir de agora."</item>
+<item>"Alarme definido para <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> e <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> a partir de agora."</item>
+<item>"Alarme definido para <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, e <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> a partir de agora."</item>
+</string-array>
+<plurals name="days">
+<item quantity="one">"1 dia"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%s</xliff:g> dias"</item>
+</plurals>
+<plurals name="hours">
+<item quantity="one">"1 hora"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%s</xliff:g> horas"</item>
+</plurals>
+<plurals name="minutes">
+<item quantity="one">"1 minuto"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%s</xliff:g> minutos"</item>
+</plurals>
+<string name="every_day">"Todos os dias"</string>
+<string name="clock_instructions">"Escolher um relógio"</string>
+<string name="analog_gadget">"Relógio analógico"</string>
+<string name="help">"Ajuda"</string>
+<string name="settings">"Configurações"</string>
+<string name="snooze_duration_title">"Duração da soneca"</string>
+<plurals name="snooze_duration">
+<item quantity="one">"1 minuto"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%s</xliff:g> minutos"</item>
+</plurals>
+<plurals name="snooze_picker_label">
+<item quantity="one">"minuto"</item>
+<item quantity="other">"minutos"</item>
+</plurals>
+<string name="crescendo_duration_title">"Aumentar volume gradualmente"</string>
+<string name="no_crescendo_duration">"Desativado"</string>
+<string name="crescendo_duration">"<xliff:g id="NUMBER">%s</xliff:g> segundos"</string>
+<string name="crescendo_picker_label">"segundos"</string>
+<string name="auto_silence_title">"Silêncio depois de"</string>
+<plurals name="auto_silence_summary">
+<item quantity="one">"1 minuto"</item>
+<item quantity="other">"<xliff:g id="formatted_number" example="7">%s</xliff:g> minutos"</item>
+</plurals>
+<string name="auto_silence_never">"Nunca"</string>
+<string-array name="auto_silence_entries">
+<item>"1 minuto"</item>
+<item>"5 minutos"</item>
+<item>"10 minutos"</item>
+<item>"15 minutos"</item>
+<item>"20 minutos"</item>
+<item>"25 minutos"</item>
+<item>"Nunca"</item>
+</string-array>
+<string name="week_start_title">"Iniciar semana em"</string>
+<string-array name="week_start_entries">
+<item>"Sábado"</item>
+<item>"Domingo"</item>
+<item>"Segunda-feira"</item>
+</string-array>
+<string name="done">"Concluído"</string>
+<string name="revert">"Reverter"</string>
+<string name="delete">"Apagar"</string>
+<string name="alarm_volume_title">"Volume do alarme"</string>
+<string name="silent_ringtone_title">"Silencioso"</string>
+<string name="unknown_ringtone_title">"Desconhecido"</string>
+<string name="alarm_notify_text">"Parar ou dispensar alarme."</string>
+<string name="alarm_notify_snooze_label">"<xliff:g id="label">%s</xliff:g> (soneca)"</string>
+<string name="alarm_notify_snooze_text">"O alarme foi definido para <xliff:g id="time">%s</xliff:g>. Toque para cancelar."</string>
+<string name="volume_button_setting_title">"Teclas de volume"</string>
+<string name="volume_button_dialog_title">"Efeito do botão"</string>
+<string-array name="volume_button_setting_entries">
+<item>"Soneca"</item>
+<item>"Descartar"</item>
+<item>"Não faça nada"</item>
+</string-array>
+<string name="default_ringtone_setting_title">"Definir toque padrão"</string>
+<string name="alarm_button_description">"Alarmes"</string>
+<string name="gallery_button_description">"Galeria"</string>
+<string name="music_button_description">"Música"</string>
+<string name="nightmode_button_description">"Escurecer"</string>
+<string name="home_button_description">"tela de início"</string>
+<string name="desk_clock_button_description">"Display de Relógio"</string>
+<string name="label_description">"Etiqueta"</string>
+<string name="ringtone_description">"Toque"</string>
+<string name="weather_fetch_failure">"Informação sobre o clima não está disponível agora."</string>
+<string name="alarm_klaxon_service_desc">"Serviço de reprodução de som para os alarmes definidos no Relógio."</string>
+<string name="loading_ringtone">"Carregando melodia\u2026"</string>
+<string name="timer_ring_service_desc">"Serviço de reprodução de som para ajuste de temporizador no Relógio."</string>
+<string name="control_set_alarm">"Definir alarme"</string>
+<string name="menu_alarm">"Alarme"</string>
+<string name="menu_timer">"Temporizador"</string>
+<string name="menu_clock">"Relógio"</string>
+<string name="menu_stopwatch">"Cronômetro"</string>
+<string name="button_alarms">"Adicionar alarme"</string>
+<string name="button_cities">"Cidades"</string>
+<string name="button_menu">"Mais opções"</string>
+<string name="menu_item_settings">"Configurações"</string>
+<string name="menu_item_help">"Ajuda"</string>
+<string name="menu_item_night_mode">"Modo de noite"</string>
+<string name="menu_item_sort_by_gmt_offset">"Classificar por tempo"</string>
+<string name="menu_item_sort_by_name">"Classificar por nome"</string>
+<string name="selected_cities_label">"Cidades selecionadas"</string>
+<string name="sw_resume_button">"Retomar"</string>
+<string name="sw_reset_button">"Redefinir"</string>
+<string name="sw_start_button">"Iniciar"</string>
+<string name="sw_pause_button">"Pausar"</string>
+<string name="sw_lap_button">"Volta"</string>
+<string name="sw_share_button">"Compartilhar"</string>
+<string name="hours_label">"h"</string>
+<string name="minutes_label">"M"</string>
+<string name="seconds_label">"s"</string>
+<string name="hours_label_description">"horas"</string>
+<string name="minutes_label_description">"minutos"</string>
+<string name="seconds_label_description">"segundos"</string>
+<string name="sw_share_main">"Meu tempo é <xliff:g id="time">%s</xliff:g>"</string>
+<string name="sw_share_laps">"Tempo da volta:"</string>
+<string name="sw_notification_lap_number">"Volta <xliff:g id="number">%d</xliff:g>"</string>
+<plurals name="Nhours_description">
+<item quantity="one">"1 hora"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%d</xliff:g> horas"</item>
+</plurals>
+<plurals name="Nminutes_description">
+<item quantity="one">"1 minuto"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%d</xliff:g> minutos"</item>
+</plurals>
+<plurals name="Nseconds_description">
+<item quantity="one">"1 segundo"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%d</xliff:g> segundos"</item>
+</plurals>
+<string name="timer_add_timer">"Adicionar Temporizador"</string>
+<string name="timer_start">"Iniciar"</string>
+<string name="timer_delete">"Apagar"</string>
+<string name="timer_descriptive_delete">"Excluir <xliff:g id="number_string">%s</xliff:g>"</string>
+<string name="timer_plus_one">"Adicionar 1 Minuto"</string>
+<string name="timer_plus_1_min">"Adicionar 1 min"</string>
+<string name="timer_stop">"Parar"</string>
+<string name="timer_stop_all">"Parar todos os temporizadores"</string>
+<string name="timer_reset">"Redefinir"</string>
+<string name="timer_cancel">"Cancelar"</string>
+<string name="timer_canceled">"Temporizador cancelado"</string>
+<string name="timer_times_up">"Expirado"</string>
+<string name="timer_multi_times_up">"<xliff:g id="NUM_TIMERS" example="2">%d</xliff:g> contagens de tempo expiraram"</string>
+<string name="timer_notification_label">"Temporizador"</string>
+<string name="timers_max_count_reached">"4 temporizadores no máximo"</string>
+<string name="timer_pause">"Pausar"</string>
+<string name="timer_reset_all">"Reiniciar todos os temporizadores"</string>
+<string-array name="sw_share_strings">
+<item>"Você é o demônio veloz."</item>
+<item>"Aprecie os frutos do seu trabalho."</item>
+<item>"Andróides são conhecidos por serem rápidos, mas não tão rápidos quanto você!"</item>
+<item>"Ufa."</item>
+<item>"L33t vezes."</item>
+<item>"Que velocidade extraordinária."</item>
+<item>"Vamos preparar o tempo de novo."</item>
+<item>"Apenas um salto para esquerda."</item>
+<item>"Você tem um dom artístico para pressa."</item>
+<item>"Velocidade fotônica."</item>
+</string-array>
+<string name="home_label">"Página Inicial"</string>
+<string name="cities_activity_title">"Cidades"</string>
+<string name="clock_settings">"Relógio"</string>
+<string name="clock_style">"Estilo"</string>
+<string name="open_date_settings">"Alterar Data \u0026 hora"</string>
+<string-array name="clock_style_entries">
+<item>"Analógico"</item>
+<item>"Digital"</item>
+</string-array>
+<string name="automatic_home_clock">"Relógio de casa automático"</string>
+<string name="automatic_home_clock_summary">"Quando está viajando numa área onde o tempo é diferente, adicione um relógio para casa"</string>
+<string name="home_time_zone">"Fuso horário local"</string>
+<string name="home_time_zone_title">"Fuso horário local"</string>
+<string name="time_picker_cancel">"Cancelar"</string>
+<string name="time_picker_set">"OK"</string>
+<string name="city_checked">"<xliff:g id="city_name">%s</xliff:g> marcado"</string>
+<string name="city_unchecked">"<xliff:g id="city_name">%s</xliff:g> desmarcado"</string>
+<string-array name="timezone_labels">
+<item>"Ilhas Marshall"</item>
+<item>"Ilha de Midway"</item>
+<item>"Hawaii"</item>
+<item>"Alasca"</item>
+<item>"Horário do Pacífico"</item>
+<item>"Tijuana"</item>
+<item>"Arizona"</item>
+<item>"Chihuahua"</item>
+<item>"Horário das Montanhas Rochosas"</item>
+<item>"América Central"</item>
+<item>"Horário Central"</item>
+<item>"Cidade do México"</item>
+<item>"Saskatchewan"</item>
+<item>"Bogotá"</item>
+<item>"Horário Oriental"</item>
+<item>"Venezuela"</item>
+<item>"Horário do Atlântico (Barbados)"</item>
+<item>"Horário do Atlântico (Canadá)"</item>
+<item>"Manaus"</item>
+<item>"Santiago"</item>
+<item>"Terra Nova"</item>
+<item>"Brasília"</item>
+<item>"Buenos Aires"</item>
+<item>"Groenlândia"</item>
+<item>"Montevidéu"</item>
+<item>"Meio-Atlântico"</item>
+<item>"Açores"</item>
+<item>"Ilhas de Cabo Verde"</item>
+<item>"Casablanca"</item>
+<item>"Londres, Dublin"</item>
+<item>"Amsterdã, Berlin"</item>
+<item>"Belgrado"</item>
+<item>"Bruxelas"</item>
+<item>"Sarajevo"</item>
+<item>"Windhoek"</item>
+<item>"Horário da África Ocidental."</item>
+<item>"Amman, Jordânia"</item>
+<item>"Atenas, Istambul"</item>
+<item>"Beirute, Líbano"</item>
+<item>"Cairo"</item>
+<item>"Helsinque"</item>
+<item>"Jerusalém"</item>
+<item>"Minsk"</item>
+<item>"Harare"</item>
+<item>"Bagdá"</item>
+<item>"Moscou"</item>
+<item>"Kuweit"</item>
+<item>"Nairóbi"</item>
+<item>"Teerã"</item>
+<item>"Baku"</item>
+<item>"Tbilisi"</item>
+<item>"Yerevan"</item>
+<item>"Dubai"</item>
+<item>"Kabul"</item>
+<item>"Islamabad, Karachi"</item>
+<item>"Uralsk"</item>
+<item>"Yekaterinburg"</item>
+<item>"Kolkata"</item>
+<item>"Sri Lanka"</item>
+<item>"Kathmandu"</item>
+<item>"Astana"</item>
+<item>"Yangon"</item>
+<item>"Krasnoyarsk"</item>
+<item>"Bangkok"</item>
+<item>"Pequim"</item>
+<item>"Hong Kong"</item>
+<item>"Irkutsk"</item>
+<item>"Kuala Lumpur"</item>
+<item>"Perth"</item>
+<item>"Taipé"</item>
+<item>"Seul"</item>
+<item>"Tóquio, Osaka"</item>
+<item>"Yakutsk"</item>
+<item>"Adelaide"</item>
+<item>"Darwin"</item>
+<item>"Brisbane"</item>
+<item>"Hobart"</item>
+<item>"Sydney, Canberra"</item>
+<item>"Vladivostok"</item>
+<item>"Guam"</item>
+<item>"Magadan"</item>
+<item>"Auckland"</item>
+<item>"Fiji"</item>
+<item>"Tonga"</item>
+<item>"Jakarta"</item>
+</string-array>
+<string name="alarm_settings">"Alarmes"</string>
+<string name="timer_service_desc">"Processa ações das notificações do temporizador."</string>
+<string name="stopwatch_service_desc">"Processa ações das notificações do cronômetro."</string>
+<string name="swn_paused">"Pausado"</string>
+<string name="description_direction_right">"Deslizar para direita para descartar"</string>
+<string name="description_direction_left">"Deslizar para esquerda para o modo soneca"</string>
+<string name="description_direction_both">"Deslizar para esquerda para o modo soneca ou direito para descartar"</string>
+<string name="timer_settings">"Temporizadores"</string>
+<string name="timer_ringtone_title">"Toque do Temporizador"</string>
+<string name="timer_stopped">"Temporizador parado"</string>
+<string name="timer_paused">"Temporizador pausado"</string>
+<string name="timers_stopped">"<xliff:g id="number" example="7">%d</xliff:g> contagens regressivas em pausa"</string>
+<string name="all_timers_stopped_notif">"Toque para ver os seus temporizadores"</string>
+<string name="timers_in_use">"<xliff:g id="number" example="7">%d</xliff:g> contagens regressivas"</string>
+<string name="next_timer_notif">"Próxima contagem regressiva: <xliff:g id="time_remaining" example="2 minutes remaining">%s</xliff:g>"</string>
+<string name="screensaver_settings">"Configurações de proteção de tela"</string>
+<string name="night_mode_title">"Modo noite"</string>
+<string name="night_mode_summary">"Display muito fraco (para ambientes escuros)"</string>
+<string name="expand_alarm">"Expandir alarme"</string>
+<string name="collapse_alarm">"Interromper alarme"</string>
+<string name="alarm_undo">"Desfazer"</string>
+<string name="alarm_deleted">"Alarme apagado"</string>
+<string name="next_alarm_description">"Próximo alarme: <xliff:g id="alarm_time" example="Wed 8:00am">%s</xliff:g>"</string>
+<string name="alarms_selected">"<xliff:g id="alarms">%d</xliff:g> selecionado"</string>
+<string name="deleted_message">"excluído"</string>
+<plurals name="alarm_delete_confirmation">
+<item quantity="one">"Apagar o alarme selecionado?"</item>
+<item quantity="other">"Apagar alarmes selecionados?"</item>
+</plurals>
+<string name="timer_delete_confirmation">"Excluir este temporizador?"</string>
+<string name="city_delete_confirmation">"Remover esta cidade?"</string>
+<string name="digital_gadget">"Relógio digital"</string>
+<string name="no_alarms">"Sem Alarme"</string>
+<string name="no_alarms_set">"Nenhum alarme definido"</string>
+<string name="no_upcoming_alarms">"NENHUM PRÓXIMO ALARME"</string>
+<string name="invalid_time">"Hora inválida <xliff:g id="invalid_hour" example="25">%d</xliff:g>:<xliff:g id="invalid_minutes" example="63">%d</xliff:g> <xliff:g id="invalid_ampm" example="PM">%s</xliff:g>"</string>
+<string name="no_alarm_at">"Nenhum alarme em <xliff:g id="alarm_time_hour" example="14">%d</xliff:g>:<xliff:g id="alarm_time_minutes" example="23">%d</xliff:g>"</string>
+<string name="no_scheduled_alarms">"Sem alarme agendado"</string>
+<string name="no_label_specified">"Sem legenda específica"</string>
+<string name="no_alarms_with_label">"Nenhum alarme contém legenda"</string>
+<string name="stopwatch_isnt_running">"O cronômetro não está rodando"</string>
+<string name="stopwatch_paused">"Cronômetro pausado"</string>
+<string name="stopwatch_reset">"Cronômetro reiniciado"</string>
+<string name="stopwatch_lapped">"Cronômetro sobreposto"</string>
+<string name="stopwatch_started">"Cronômetro iniciado"</string>
+<string name="no_alarm_scheduled_for_this_time">"Sem alarme agendado para este horário"</string>
+<string name="alarm_is_dismissed">"<xliff:g id="alarm_time" example="14:20">%s</xliff:g> alarme descartado"</string>
+<string name="alarm_is_set">"O alarme está definido para <xliff:g id="alarm_time" example="14:20">%s</xliff:g>"</string>
+<string name="no_timers_exist">"Nenhum temporizador"</string>
+<string name="too_many_timers_exist">"Existe mais de um temporizador"</string>
+<string name="timer_does_not_exist">"O temporizador foi removido."</string>
+<string name="timer_created">"Temporizador criado"</string>
+<string name="timer_was_reset">"Temporizador reiniciado"</string>
+<string name="timer_deleted">"Temporizador excluído"</string>
+<string name="timer_started">"Temporizador iniciado"</string>
+<string name="invalid_timer_length">"Tempo de duração de temporizador inválido"</string>
+<string name="no_city_selected">"Nenhuma cidade selecionada"</string>
+<string name="the_city_you_specified_is_not_available">"A cidade que você especificou não está disponível"</string>
+<string name="the_city_already_added">"Esta cidade já foi adicionada"</string>
+<string name="city_added">"<xliff:g id="city_name" example="Paris">%s</xliff:g> adicionada"</string>
+<string name="city_deleted">"<xliff:g id="city_name" example="Paris">%s</xliff:g> excluída"</string>
+<string name="alarm_cant_be_dismissed_still_more_than_24_hours_away">"<xliff:g id="alarm_time" example="14:20">%s</xliff:g> O alarme não pode ser descartado, ele está há mais de 24 horas"</string>
+<string name="dismiss_alarm">"Desligar alarme"</string>
+<string name="pick_alarm_to_dismiss">"Escolher qual alarme a ser descartado"</string>
+<string name="no_firing_alarms">"Sem alarmes para disparar"</string>
+<string name="alarm_is_snoozed">"<xliff:g id="alarm_time" example="14:20">%s</xliff:g> alarme em soneca por 10 minutos"</string>
+<string name="pause">"Soneca"</string>
+<string name="alarm_shutdown_cancal_open">"Descartar"</string>
+<string name="alarm_shutdown_cancal_close">"Dispensar e desligar"</string>
+<string name="sw_stop_button">"Parar"</string>
+<string name="reorder_city">"Alterar ordem"</string>
+<string name="delete_city">"Apagar"</string>
+<string name="delete_alarm_cancel">"Cancelar"</string>
+<string name="delete_alarm_done">"Concluído"</string>
+<string name="cancel_select">"Cancelar tudo"</string>
+<string name="all_select">"Selecionar tudo"</string>
+<string name="repeat_every_days">"Todos os dias"</string>
+<string name="repeat_work_days">"Dias úteis"</string>
+<string name="repeat_single">"Único"</string>
+<string name="repeat_dialog_done">"OK"</string>
+<string name="repeat_dialog_cancel">"Cancelar"</string>
+<string name="auto_silence_cancel">"Cancelar"</string>
+<string name="title_too_long">"Texto de entrada é muito longo."</string>
+<string name="your_sounds">"Seus sons"</string>
+<string name="world_yesterday">"Ontem"</string>
+<string name="world_tomorrow">"Amanhã"</string>
+<string name="world_time_behind">"<xliff:g id="time" example="4 hours">%1$s</xliff:g> atrás"</string>
+<string name="world_time_ahead">"<xliff:g id="time" example="6 hours">%1$s</xliff:g> adiante"</string>
+<string name="world_hours_yesterday">"Ontem, <xliff:g id="time" example="4 hours behind">%1$s</xliff:g>"</string>
+<string name="world_hours_tomorrow">"Amanhã, <xliff:g id="time" example="6 hours ahead">%1$s</xliff:g>"</string>
+<string name="world_hours_minutes_behind">"<xliff:g id="hours" example="4 hr">%1$s</xliff:g> <xliff:g id="minutes" example="30 min">%2$s</xliff:g> atrás"</string>
+<string name="world_hours_minutes_ahead">"<xliff:g id="hours" example="6 hr">%1$s</xliff:g> <xliff:g id="minutes" example="30 min">%2$s</xliff:g> adiante"</string>
+<string name="unmute_alarm_volume">"Ativar som"</string>
+<string name="timer_vibrate_title">"Vibração da contagem regressiva"</string>
+<string name="timer_sound">"Som da contagem regressiva"</string>
+<string name="timer_setup_description">"<xliff:g id="hours" example="1 hour">%1$s</xliff:g>, <xliff:g id="minutes" example="15 minutes">%2$s</xliff:g>, <xliff:g id="seconds" example="30 seconds">%3$s</xliff:g>"</string>
+<string name="timer_notifications_seconds">"<xliff:g id="SECONDS" example="2 seconds">%4$s</xliff:g><xliff:g id="REMAINING" example="remaining"> %3$s</xliff:g>"</string>
+<string name="timer_notifications_minutes_seconds">"<xliff:g id="MINUTES" example="2 minutes">%2$s</xliff:g> <xliff:g id="SECONDS" example="2 seconds"> %4$s</xliff:g><xliff:g id="REMAINING" example="remaining"> %3$s</xliff:g>"</string>
+<string name="timer_notifications_hours_seconds">"<xliff:g id="HOURS" example="2 hours">%1$s</xliff:g> <xliff:g id="SECONDS" example="2 seconds"> %4$s</xliff:g><xliff:g id="REMAINING" example="remaining"> %3$s</xliff:g>"</string>
+<string name="timer_notifications_hours_minutes_seconds">"<xliff:g id="HOURS" example="2 hours">%1$s</xliff:g><xliff:g id="MINUTES" example="2 minutes"> %2$s</xliff:g><xliff:g id="SECONDS" example="2 seconds"> %4$s</xliff:g><xliff:g id="REMAINING" example="remaining"> %3$s</xliff:g>"</string>
+<string name="timer_multi_missed">"<xliff:g id="number" example="2">%d</xliff:g> contagem regressivas foram perdidas"</string>
+<string name="timer_accessibility_stopped">"Contagem regressiva pausada, <xliff:g id="TIME" example="5 hours remaining">%1$s</xliff:g>"</string>
+<string name="timer_accessibility_started">"Contagem regressiva em funcionamento, <xliff:g id="TIME" example="5 hours remaining">%1$s</xliff:g>"</string>
+<string name="timer_accessibility_one_minute_added">"Foi adicionado um minuto à contagem regressiva, <xliff:g id="TIME" example="5 hours remaining">%1$s</xliff:g>"</string>
+<string-array name="snooze_duration_entries">
+<item>"1 minuto"</item>
+<item>"2 minutos"</item>
+<item>"3 minutos"</item>
+<item>"4 minutos"</item>
+<item>"5 minutos"</item>
+<item>"6 minuto"</item>
+<item>"7 minutos"</item>
+<item>"8 minutos"</item>
+<item>"9 minutos"</item>
+<item>"10 minutos"</item>
+<item>"11 minutos"</item>
+<item>"12 minutos"</item>
+<item>"13 minutos"</item>
+<item>"14 minutos"</item>
+<item>"15 minutos"</item>
+<item>"16 minutos"</item>
+<item>"17 minutos"</item>
+<item>"18 minutos"</item>
+<item>"19 minutos"</item>
+<item>"20 minutos"</item>
+<item>"21 minutos"</item>
+<item>"22 minutos"</item>
+<item>"23 minutos"</item>
+<item>"24 minutos"</item>
+<item>"25 minutos"</item>
+<item>"26 minutos"</item>
+<item>"27 minutos"</item>
+<item>"28 minutos"</item>
+<item>"29 minutos"</item>
+<item>"30 minutos"</item>
+</string-array>
+<string name="silent_default_alarm_ringtone">"O toque padrão do alarme está silenciado"</string>
+<string name="shortcut_start_stopwatch_short">"Iniciar"</string>
+<string name="shortcut_start_stopwatch_long">"Disparar cronômetro"</string>
+<string name="shortcut_start_screensaver_short">"Protetor de tela"</string>
+<string name="shortcut_start_screensaver_long">"Iniciar a proteção de tela"</string>
+<string name="shortcut_pause_stopwatch_short">"Pausar"</string>
+<string name="shortcut_pause_stopwatch_long">"Parar cronômetro"</string>
+<string name="shortcut_new_timer_short">"Nova contagem regressiva"</string>
+<string name="shortcut_new_timer_long">"Criar nova contagem regressiva"</string>
+<string name="shortcut_new_alarm_short">"Novo alarme"</string>
+<string name="shortcut_new_alarm_long">"Criar novo alarme"</string>
+<string name="remove_sound">"Remover"</string>
+<plurals name="seconds">
+<item quantity="one">"<xliff:g id="COUNT">%d</xliff:g> segundos"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%s</xliff:g> segundos"</item>
+</plurals>
+<plurals name="minutes_short">
+<item quantity="one">"1 min"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%s</xliff:g>min"</item>
+</plurals>
+<plurals name="hours_short">
+<item quantity="one">"1h"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%s</xliff:g>h"</item>
+</plurals>
+<plurals name="expired_timers_dismissed">
+<item quantity="one">"Temporizador descartado"</item>
+<item quantity="other">"<xliff:g id="number" example="5">%d</xliff:g> temporizadores descartados"</item>
+</plurals>
+<string name="no_expired_timers">"Nenhum temporizador expirado"</string>
+<string name="missed_timer_notification_label">"Contagem regressiva perdida"</string>
+<string name="missed_named_timer_notification_label">"Contagem regressiva perdida: <xliff:g id="name" example="Pick up kids">%s</xliff:g>"</string>
+<string name="minutes_seconds">"<xliff:g id="minutes" example="3">%d</xliff:g>:<xliff:g id="seconds" example="44">%02d</xliff:g>"</string>
+<string name="loading_widget">"Carregando…"</string>
+<string name="invalid_timer">"Temporizador inválido selecionado"</string>
+<string name="hours_minutes_seconds">"<xliff:g id="hours" example="2">%d</xliff:g>:<xliff:g id="minutes" example="3">%02d</xliff:g>:<xliff:g id="seconds" example="44">%02d</xliff:g>"</string>
+<string name="firing_alarm">"Temporizador de disparo"</string>
+<string name="display_clock_seconds_pref">"Exibir tempo com segundos"</string>
+<string name="device_sounds">"Sons do dispositivo"</string>
+<string name="default_alarm_ringtone_title">"Som de alarme padrão"</string>
+<string name="custom_ringtone_lost_permissions">"O conteúdo de som não pode ser acessado."</string>
+<string-array name="crescendo_entries">
+<item>"Desativado"</item>
+<item>"5 segundos"</item>
+<item>"10 segundos"</item>
+<item>"15 segundos"</item>
+<item>"20 segundos"</item>
+<item>"25 segundos"</item>
+<item>"30 segundos"</item>
+<item>"35 segundos"</item>
+<item>"40 segundos"</item>
+<item>"45 segundos"</item>
+<item>"50 segundos"</item>
+<item>"55 segundos"</item>
+<item>"60 segundos"</item>
+</string-array>
+<string name="confirm_remove_custom_ringtone">"Alarmes e contagens regressiva usando este som reproduzirão o som padrão em seu lugar."</string>
+<string name="change_setting_action">"Alterar"</string>
+<string name="app_notifications_blocked">"As notificações do relógio estão bloqueadas"</string>
+<string name="alarms_blocked_by_dnd">"O dispositivo está definido como silêncio total"</string>
+<string name="alarm_volume_muted">"Volume do alarme silenciado"</string>
+<string name="alarm_sound">"Som de alarme"</string>
+<string name="add_new_sound">"Adicionar novo"</string>
+</resources>

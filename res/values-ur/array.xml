@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="cities_names">
+<item>"A<xliff:g id="separator">=</xliff:g>عابڈ جان"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>اقرہ"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>اڈیز بابا"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>الجائرس"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بلنتائر"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>برزاویلے"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>قاہرہ"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>کاسہ بلانکا"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>کوناکری"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>ڈاکر"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>دار السلام"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>جبوٹی"</item>
+<item>"F<xliff:g id="separator">=</xliff:g>فری ٹاون"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>گیبرون"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>ہرارے"</item>
+<item>"J<xliff:g id="separator">=</xliff:g>جوہانسبرگ"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>کمپلا"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>خرطوم"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>کگالی"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>کنہاسہ"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>لاگوس"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مسیرو"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>موگا دیشو"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>نیروبی"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>ساؤ ٹوم"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>ٹمبُکٹو"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>تریپولی"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>تیونس"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>اینکوریگ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مینڈوزا"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>اروبا"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>اسونسیان"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>برباڈوس"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بیلائز"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بوگوٹا"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بیونس ایرز"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>کانکن"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>کراکس"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>کیمین"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>شکاگو"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>کوسٹا ریکا"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>کوراکاؤ"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>ڈاوسن کریک"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>ڈینور"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>ڈیٹرائٹt"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>ڈومنیکا"</item>
+<item>"E<xliff:g id="separator">=</xliff:g>ایڈمانٹن"</item>
+<item>"E<xliff:g id="separator">=</xliff:g>سلواڈورr"</item>
+<item>"F<xliff:g id="separator">=</xliff:g>فورٹا لیزا"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>گرانڈ ترک"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>گریناڈہ"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>گوتمالا"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>گیانا"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>ہیلیفیکس"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>ہوانا"</item>
+<item>"I<xliff:g id="separator">=</xliff:g>انڈیانا پالس"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>ناکس"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مرینگو"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>پیٹرس برگ"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>ٹیل سٹی"</item>
+<item>"V<xliff:g id="separator">=</xliff:g>ویوے"</item>
+<item>"V<xliff:g id="separator">=</xliff:g>وینسینس"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>وینامیک"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>کنگسٹن"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>نیوستر سینورا ڈی لا پاز"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>لیما"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>لاس اینجلس"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>لوئز ویلے"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>منا گوا"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مارٹینک"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مینڈوزا"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>میٹلاکٹلا"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>میکسیکو سٹی"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مانٹیری"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مونٹیویڈیو"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مونٹریئل"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>نساؤ"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>نیو یارک"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بیولا"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>سنٹر"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>نیو سالم"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>پناما"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>فونکس"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>پورٹ آف اسپین"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>پورٹ آو پرنس"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>پوئرٹو ریکو"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سینٹو ڈومنیگو"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>ساؤ پاولو"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سینٹ جانس"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سینٹ کٹس"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سینٹ لوسیا"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سینٹ تھومس"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>ٹجوانا"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>ٹورنٹو"</item>
+<item>"V<xliff:g id="separator">=</xliff:g>وینکویر"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>وین پیگ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>ساؤتھ پولے"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>لانگ ایئربائن"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>الماٹی"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>عمان"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>اینا ڈائر"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>اکتاؤ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بغداد"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بحرین"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بکو"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بینگ کاک"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بیروت"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>کولکتہ"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>دمشق"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>ڈھاکا"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>دبئی"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>غزہ"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>ہیبرون"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>ہو چی من"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>ہانگ کانگ"</item>
+<item>"I<xliff:g id="separator">=</xliff:g>استنبول"</item>
+<item>"J<xliff:g id="separator">=</xliff:g>جکارتہ"</item>
+<item>"J<xliff:g id="separator">=</xliff:g>یروشلم"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>کابل"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>کراچی"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>کٹھمنڈو"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>کوالالم پور"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>کویت"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مکاؤ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>منیلا"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مسقط"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>فینم پین"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>پیونگ یانگ"</item>
+<item>"Q<xliff:g id="separator">=</xliff:g>قطر"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>رنگون"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>ریاض"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سائگن"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سیول"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>شنگھائی"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سنگاپور"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>تائی پئی"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>تہران"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>تل ابیب"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>ٹوکیو"</item>
+<item>"U<xliff:g id="separator">=</xliff:g>الان باٹر"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>برموڑز"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>کینری"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>کیپ ویرڈے"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>ریکاوک"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سٹانلی"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ایڈیلیڈ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>برسبن"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>کین بیرا"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>ڈارون"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>ملبورن"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>نیو ساؤتھ ویلس"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>پرتھ"</item>
+<item>"Q<xliff:g id="separator">=</xliff:g>کوئنسلینڈ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سڈنی"</item>
+<item>"V<xliff:g id="separator">=</xliff:g>وکٹوریا"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>نیو فاؤنڈلینڈ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سسکاچیون"</item>
+<item>"E<xliff:g id="separator">=</xliff:g>ایسٹر آئیلینڈ"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>امسٹرڈم"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>انڈورا"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ایتھنس"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بیل فاسٹ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بلغراد"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>برلن"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>براتیسلوا"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>برسلس"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بوکاریسٹ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بوڈا پیسٹ"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>کسیناؤ"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>کوپن ہیگن"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>ڈبلن"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>گبریلٹر"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>ہیلسنکی"</item>
+<item>"I<xliff:g id="separator">=</xliff:g>آئل آف مین"</item>
+<item>"I<xliff:g id="separator">=</xliff:g>استنبول"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>کائیف"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>لسبن"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>لندن"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>لگژمبرگ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>میڈرڈ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مالٹا"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>منسک"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>موناکو"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>ماسکو"</item>
+<item>"O<xliff:g id="separator">=</xliff:g>اوسلو"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>پیرس"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>پراگوے"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>ریگا"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>روم"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سین مرینو"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سراجیو"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سیم فیروپول"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>اسکاپیے"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>صوفیہ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سٹاکلہم"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>ٹائلن"</item>
+<item>"V<xliff:g id="separator">=</xliff:g>ویٹیکن"</item>
+<item>"V<xliff:g id="separator">=</xliff:g>ویانا"</item>
+<item>"V<xliff:g id="separator">=</xliff:g>ویلنس"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>وارسوا"</item>
+<item>"Z<xliff:g id="separator">=</xliff:g>زگریب"</item>
+<item>"Z<xliff:g id="separator">=</xliff:g>زیورخ"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>انتنانا ریو"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مالدیپ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>ماریشش"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>آکلینڈ"</item>
+<item>"F<xliff:g id="separator">=</xliff:g>فجی"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>گوام"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>ہونولولو"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>کرتماٹی"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>نومیا"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سموا"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>تہیٹی"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>اینٹیگا"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>آسٹن"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بوسٹن"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>کلگری"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>کولمبس"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>ڈلاس"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>ناکس ویلے"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>میمفس"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>میامی"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>منیاپولس"</item>
+<item>"O<xliff:g id="separator">=</xliff:g>اوتاوا"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>فلا ڈیلفیا"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>پورٹ لینڈ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سین ڈیاگو"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سین فرانسسکو"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سالٹ لیک سٹی"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سین جوز"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سین سلواڈور"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سیٹل"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سینٹ لوئس"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>واشنگٹن ڈی سی."</item>
+<item>"H<xliff:g id="separator">=</xliff:g>ہوسٹن"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سین انٹونیو"</item>
+<item>"J<xliff:g id="separator">=</xliff:g>جیکسن ویلے"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بالٹی مور"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>ناش ویلے"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>ملواؤکی"</item>
+<item>"O<xliff:g id="separator">=</xliff:g>اوکلا ہوما سٹی"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>لاس ویگاس"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>ابقورقی"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>ٹکسن"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سکرامینٹو"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>اٹلانٹا"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>کلیولینڈ"</item>
+<item>"N<xliff:g id="separator">=</xliff:g>نیو آرلنس"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>تمپا"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>پتسبرگ"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>سنسناٹی"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>ماونٹین ویو"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>رینو"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بلیک راک سٹی"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>دوحہ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بیجنگ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>ممبئی"</item>
+<item>"D<xliff:g id="separator">=</xliff:g>دلی"</item>
+<item>"O<xliff:g id="separator">=</xliff:g>اوساکا"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>لاہور"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>صنعاء"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بارسلونا"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>میونخ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>ملان"</item>
+<item>"F<xliff:g id="separator">=</xliff:g>فرینکفرٹ"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>ہنوئی"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>انقرہ"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بنگلور"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>براسیلیا"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>کیپ ٹاؤن"</item>
+<item>"I<xliff:g id="separator">=</xliff:g>اسلام آباد"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>ریو ڈی جنیریو"</item>
+<item>"A<xliff:g id="separator">=</xliff:g>این آربر"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بولڈر"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>کیمبرج"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>کرکلینڈ"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>میڈیسن"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>گوانژو"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>حیدرآباد"</item>
+<item>"R<xliff:g id="separator">=</xliff:g>ریسٹن"</item>
+<item>"B<xliff:g id="separator">=</xliff:g>بیلو ہوریزونٹے"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سین ٹیاگو"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مونرویا"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>کولمبو"</item>
+<item>"C<xliff:g id="separator">=</xliff:g>چواوا"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سلواڈور"</item>
+<item>"G<xliff:g id="separator">=</xliff:g>گُڑگاؤں"</item>
+<item>"M<xliff:g id="separator">=</xliff:g>مانچسٹر"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>کائیو"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سینٹ پیٹسبرگ"</item>
+<item>"K<xliff:g id="separator">=</xliff:g>کراکوف"</item>
+<item>"W<xliff:g id="separator">=</xliff:g>وراتسواف"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>ہیمبرگ"</item>
+<item>"O<xliff:g id="separator">=</xliff:g>اولو"</item>
+<item>"H<xliff:g id="separator">=</xliff:g>حائفہ"</item>
+<item>"S<xliff:g id="separator">=</xliff:g>سین جوان"</item>
+<item>"T<xliff:g id="separator">=</xliff:g>ٹیگوسگالپا"</item>
+<item>"P<xliff:g id="separator">=</xliff:g>پیرامریبو"</item>
+<item>"Q<xliff:g id="separator">=</xliff:g>کویٹو"</item>
+<item>"L<xliff:g id="separator">=</xliff:g>لبلیانا"</item>
+</string-array>
+<string-array name="repeat_days_sat">
+<item>ہفتہ</item>
+<item>اتوار</item>
+<item>پیر</item>
+<item>"منگل"</item>
+<item>"بدھ"</item>
+<item>"جمعرات"</item>
+<item>"جمعہ"</item>
+</string-array>
+<string-array name="repeat_days_sun">
+<item>اتوار</item>
+<item>پیر</item>
+<item>"منگل"</item>
+<item>"بدھ"</item>
+<item>"جمعرات"</item>
+<item>"جمعہ"</item>
+<item>ہفتہ</item>
+</string-array>
+<string-array name="repeat_days_mon">
+<item>پیر</item>
+<item>"منگل"</item>
+<item>"بدھ"</item>
+<item>"جمعرات"</item>
+<item>"جمعہ"</item>
+<item>ہفتہ</item>
+<item>اتوار</item>
+</string-array>
+<string-array name="auto_silence">
+<item>"1 منٹ"</item>
+<item>"5 منٹ"</item>
+<item>"10 منٹ"</item>
+<item>"15 منٹ"</item>
+<item>"20 منٹ"</item>
+<item>"25 منٹ"</item>
+<item>"30 منٹ"</item>
+</string-array>
+<string-array name="cities_names_sprd">
+<item>کریٹیماٹی / کرباتی</item>
+<item>چیٹہم جزیرہ / نیوزی لینڈ</item>
+<item>ویلنگٹن / نیوزی لینڈ</item>
+<item>سووا / فیجی</item>
+<item>انادیر/ روس</item>
+<item>کامچٹکا/ روس</item>
+<item>ولادووستوک / روس</item>
+<item>سڈنی / آسٹریلیا</item>
+<item>کینبرا / آسٹریلیا</item>
+<item>میلبورن/آسٹریلیا</item>
+<item>برسبین / آسٹریلیا</item>
+<item>یڈیلیڈ / آسٹریلیا</item>
+<item>ڈارون / آسٹریلیا</item>
+<item>ٹوکیو / جاپان</item>
+<item>سیول / کوریا</item>
+<item>تائی پے / چین</item>
+<item>شنگھائی / چین</item>
+<item>منیلا / فلپائن کے جزائر</item>
+<item>بیجنگ / چین</item>
+<item>پرتھ / آسٹریلیا</item>
+<item>ہانگ کانگ / چین</item>
+<item>سنگاپور / سنگاپور</item>
+<item>کوالالمپور / ملائیشیا</item>
+<item>جکارتہ / انڈونیشیا</item>
+<item>ہنوئی / ویت نام</item>
+<item>بینکاک / تھائی لینڈ</item>
+<item>رنگون / برما</item>
+<item>ڈھاکہ / بنگال</item>
+<item>کھٹمنڈو / نیپال</item>
+<item>کولکتہ / بھارت</item>
+<item>نئی دہلی / بھارت</item>
+<item>ممبئی / بھارت</item>
+<item>اسلام آباد / پاکستان</item>
+<item>تاشقند / ازبکستان</item>
+<item>لاہور / پاکستان</item>
+<item>کراچی / پاکستان</item>
+<item>کابل / افغانستان</item>
+<item>تہران / ایران</item>
+<item>ابو ظہبی / متحدہ عرب امارات</item>
+<item>ماسکو / روس</item>
+<item>اینٹانانیریو / مڈغاسکر</item>
+<item>ریاض / سعودی عرب</item>
+<item>عدن / یمن</item>
+<item>بغداد / عراق</item>
+<item>ادیس ابابا / ایتھوپیا</item>
+<item>کویت شہر / کویت</item>
+<item>نیروبی / کینیا</item>
+<item>خرطوم / سوڈان</item>
+<item>عمان / اردن</item>
+<item>بیروت / لبنان</item>
+<item>یروشلم / اسرائیل</item>
+<item>انقرہ / ترکی</item>
+<item>بخارسٹ / رومانیہ</item>
+<item>منسک / بیلا رس</item>
+<item>وڈیسا / یوکرائن</item>
+<item>کیف / یوکرائن</item>
+<item>استنبول / ترکی</item>
+<item>صوفیہ / بلغاریہ</item>
+<item>ایتھنز / یونان</item>
+<item>ٹالن / ایسٹونیا</item>
+<item>ہیلسنکی / فن لینڈ</item>
+<item>قاہرہ / مصر</item>
+<item>ہرارے / زمبابوے</item>
+<item>جوہانسبرگ / جنوبی افریقہ</item>
+<item>کیپ ٹاؤن / جنوبی افریقہ</item>
+<item>وارسا / پولینڈ</item>
+<item>بلغراد / سربیا اور مانٹینیگرو</item>
+<item>بڈاپسٹ / ہنگری</item>
+<item>سٹاکہوم / سویڈن</item>
+<item>ویانا / آسٹریا</item>
+<item>۔زگریب/ کروشیا</item>
+<item>پراگ / چیک</item>
+<item>برلن / جرمنی</item>
+<item>روم / اٹلی</item>
+<item>کوپن ہیگن / ڈنمارک</item>
+<item>اوسلو / ناروے</item>
+<item>فرینکفرٹ / جرمنی</item>
+<item>زیورخ / سوئٹزر لینڈ</item>
+<item>جنیوا / سوئٹزر لینڈ</item>
+<item>ایمسٹرڈیم / ہالینڈ</item>
+<item>برسلز / بیلجئیم</item>
+<item>پیرس / فرانس</item>
+<item>بارسلونا / سپین</item>
+<item>میڈرڈ / سپین</item>
+<item>لاگوس / نائیجیریا</item>
+<item>الجزائر / الجیریا</item>
+<item>لندن / انگلینڈ</item>
+<item>ڈبلن / آئر لینڈ</item>
+<item>لزبن / پرتگال</item>
+<item>کاسا بلانکا / مراکش</item>
+<item>ریکجااخت / آئس لینڈ</item>
+<item>ریو ڈی جینرو / برازیل</item>
+<item>ساؤ پالو / برازیل</item>
+<item>براسیلیا / برازیل</item>
+<item>مونٹیویڈیو / یوراگوئے</item>
+<item>بیونس آئرس / ارجنٹینا</item>
+<item>ہیلی فیکس / کینیڈا</item>
+<item>سینٹ جان / وینیزویلا</item>
+<item>کراکس / پورٹو ریکو</item>
+<item>سینٹیاگو / چلی</item>
+<item>سینٹ جان / کینیڈا</item>
+<item>آسنکیان / پیراگوئے</item>
+<item>لا پاز / بولیویا</item>
+<item>سینٹو ڈومنگو / ڈومینیکا</item>
+<item>بوسٹن / امریکہ</item>
+<item>مونٹریال / کینیڈا</item>
+<item>نیویارک / امریکہ</item>
+<item>نساؤ / باھا ماس</item>
+<item>اوٹاوا / کینیڈا</item>
+<item>ٹورنٹو / کینیڈا</item>
+<item>فلاڈیلفیا / امریکہ</item>
+<item>ہوانا / کیوبا</item>
+<item>انڈیاناپولس / امریکہ</item>
+<item>اٹلانٹا / امریکہ</item>
+<item>واشنگٹن ڈی سی / امریکہ</item>
+<item>ڈیٹرایٹ / امریکہ</item>
+<item>بگوٹا / کمپوچیا</item>
+<item>لیما / پیرو</item>
+<item>کنگسٹن / جمیکا</item>
+<item>میکسیکو شہر / میکسیکو</item>
+<item>ہوسٹن / امریکہ</item>
+<item>ونی پیگ/ کینیڈا</item>
+<item>منیاپولس / امریکہ</item>
+<item>مانٹگومیری / امریکہ</item>
+<item>شکاگو / امریکہ</item>
+<item>نیو اورلینز / امریکہ</item>
+<item>سینٹ پال / امریکہ</item>
+<item>گوئٹے مالا / گوئٹے مالا</item>
+<item>ٹیگوسیگلپا / ہونڈوراس</item>
+<item>سان سلواڈور / سیلواتور</item>
+<item>ماناگوا / نکاراگوا</item>
+<item>ڈینور / امریکہ</item>
+<item>ایڈمنٹن / کینیڈا</item>
+<item>فینکس / امریکہ</item>
+<item>عکرہ اخت / کینیڈا</item>
+<item>لاس اینجلس / امریکہ</item>
+<item>سیٹل / امریکہ</item>
+<item>وینکوور / کینیڈا</item>
+<item>سان فرانسسکو / امریکہ</item>
+<item>لنگر / امریکہ</item>
+<item>ہونولولو/امریکہ</item>
+</string-array>
+</resources>

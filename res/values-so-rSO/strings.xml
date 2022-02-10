@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_label">"Saacadda darbiga"</string>
+<string name="alarm_list_title">"Saacad kuxirid"</string>
+<string name="add_alarm">"Kuxir saacadda"</string>
+<string name="menu_desk_clock">"Saacadda miiska"</string>
+<string name="menu_edit_alarm">"Wax ka bedel saacadda kuxiran"</string>
+<string name="delete_alarm">"Tirtir saacadda lagu xiray"</string>
+<string name="enable_alarm">"Daar saacadda lagu xiray"</string>
+<string name="disable_alarm">"Dami saacadda lagu xiray"</string>
+<string name="delete_alarm_confirm">"Tirtir saacaddan lagu xiray?"</string>
+<string name="show_clock">"Tuus saacadda"</string>
+<string name="hide_clock">"Qari saacadda"</string>
+<string name="label">"Simid"</string>
+<string name="on_switch">"DAARAN"</string>
+<string name="off_switch">"Dansan"</string>
+<string name="default_label">"Alaarmiga"</string>
+<string name="set_alarm">"Kuxir saacadda"</string>
+<string name="alarm_vibrate">"Gariir"</string>
+<string name="alarm_repeat">"Kuceli"</string>
+<string name="alert">"Codka soo dhicista Saacadda lagu xiray"</string>
+<string name="default_timer_ringtone_title">"Waqti sheeguhu wuu dhacay"</string>
+<string name="silent_timer_ringtone_title">"Aamusin"</string>
+<string name="ringtone">"Codka soo dhicista"</string>
+<string name="time">"Wakhtiga"</string>
+<string name="alarm_tomorrow">"Bari\'"</string>
+<string name="alarm_today">"Maanta"</string>
+<string name="alarm_alert_wake_up">"Kac\u0021"</string>
+<string name="alarm_alert_off_action_text">"Dansan"</string>
+<string name="alarm_alert_dismiss_text">"Ka bixid"</string>
+<string name="alarm_alert_dismiss_now_text">"Hadda Kabax"</string>
+<string name="alarm_missed_title">"Ka daahida saacadda "</string>
+<string name="alarm_alert_snoozed_text">"Hurda gaaban lagu xiray"</string>
+<plurals name="alarm_alert_snooze_duration">
+<item quantity="one">"1 daqiiqo"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%d</xliff:g> daqiiqad"</item>
+</plurals>
+<string name="alarm_alert_off_text">"Saacadda oo la damiyay"</string>
+<string name="alarm_alert_snooze_text">"Hurda gaaban lagu xiray"</string>
+<plurals name="alarm_alert_snooze_set">
+<item quantity="one">"Hurda gaaban oo 1 daqiiqo lagu xiray."</item>
+<item quantity="other">"Hurda gaaban oo <xliff:g id="minutes">%d</xliff:g> daqiiqado lagu xiray."</item>
+</plurals>
+<string name="alarm_alert_snooze_until">"Hurda gaaban ilaa <xliff:g id="time">%s</xliff:g>"</string>
+<string name="alarm_alert_predismiss_title">"Saacadda lagu xiray oo soosocda"</string>
+<string name="missed_alarm_has_been_deleted">"Saacadda oo aad ka daahday wala tirtiray"</string>
+<string name="timer_notifications_less_min">"In ka yar hal daqiiqo oo dhiman"</string>
+<string name="timer_notifications_hours">"<xliff:g id="HOURS" example="2 hours">%1$s</xliff:g><xliff:g id="REMAINING" example="remaining"> %3$s</xliff:g>"</string>
+<string name="timer_notifications_minutes">"<xliff:g id="MINUTES" example="2 minutes">%2$s</xliff:g><xliff:g id="REMAINING" example="remaining"> %3$s</xliff:g>"</string>
+<string name="timer_notifications_hours_minutes">"<xliff:g id="HOURS" example="2 hours">%1$s</xliff:g> <xliff:g id="MINUTES" example="2 minutes">%2$s</xliff:g> haray"</string>
+<string name="timer_remaining_single">"Haray"</string>
+<string name="timer_remaining_multiple">"Haray"</string>
+<string-array name="alarm_set">
+<item>"Saacadda waxaa lagu xiray wax kayar 1 daqiiqo laga bilaawo hadda."</item>
+<item>"Saacadda waxaa lagu xiray <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> laga bilaawo hadda."</item>
+<item>"Saacadda waxaa lagu xiray <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> laga bilaawo hadda."</item>
+<item>"Saacadda waxaa lagu xiray <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> iyo <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> laga bilaawo hadda."</item>
+<item>"Saacadda waxaa lagu xiray <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> laga bilaawo hadda."</item>
+<item>"Saacadda waxaa lagu xiray <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> iyo <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> laga bilaawo hadda."</item>
+<item>"Saacadda waxaa lagu xiray <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> iyo <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> laga bilaawo hadda."</item>
+<item>"Saacadda waxaa lagu xiray <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>,<xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, iyo <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> laga bilaawo hadda."</item>
+</string-array>
+<plurals name="days">
+<item quantity="one">"1 maalin"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%s</xliff:g> maalmo"</item>
+</plurals>
+<plurals name="hours">
+<item quantity="one">"1 saac"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%s</xliff:g> saacado"</item>
+</plurals>
+<plurals name="minutes">
+<item quantity="one">"1 daqiiqo"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%s</xliff:g> daqiiqado"</item>
+</plurals>
+<string name="every_day">"Maalin  kasta"</string>
+<string name="clock_instructions">"Dooro saacadda"</string>
+<string name="analog_gadget">"Saacada calaamadaha ku shaqeeya"</string>
+<string name="help">"caawimaad"</string>
+<string name="settings">"Qaabaynada"</string>
+<string name="snooze_duration_title">"Qiyaasta hurdada gaaban"</string>
+<plurals name="snooze_duration">
+<item quantity="one">"1 daqiiqo"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%s</xliff:g> daqiiqado"</item>
+</plurals>
+<plurals name="snooze_picker_label">
+<item quantity="one">"daqiiqad"</item>
+<item quantity="other">"daqiiqado"</item>
+</plurals>
+<string name="crescendo_duration_title">"Si tartiib ah ukordhi cadadka"</string>
+<string name="no_crescendo_duration">"Dansan"</string>
+<string name="crescendo_duration">"<xliff:g id="number" example="7">%s</xliff:g>  sikin"</string>
+<string name="crescendo_picker_label">"sikino"</string>
+<string name="auto_silence_title">"Aamuusi kadib"</string>
+<plurals name="auto_silence_summary">
+<item quantity="one">"1 daqiiqo"</item>
+<item quantity="other">"<xliff:g id="formatted_number" example="7">%s</xliff:g> daqiiqado"</item>
+</plurals>
+<string name="auto_silence_never">"Marnaba maya"</string>
+<string-array name="auto_silence_entries">
+<item>"1 daqiiqo"</item>
+<item>"5 daqiiqo"</item>
+<item>"10 daqiiqo"</item>
+<item>"15 daqiiqo"</item>
+<item>"20 daqiiqo"</item>
+<item>"25 daqiiqo"</item>
+<item>"Marnaba maya"</item>
+</string-array>
+<string name="week_start_title">"Asbuuca ka bilaaw"</string>
+<string-array name="week_start_entries">
+<item>"Sabti"</item>
+<item>"Axad"</item>
+<item>"Isniin"</item>
+</string-array>
+<string name="done">"Waa lafuliyay"</string>
+<string name="revert">"Dib ugu celi"</string>
+<string name="delete">"tirtir"</string>
+<string name="alarm_volume_title">"Muga ganbalelka"</string>
+<string name="silent_ringtone_title">"Aamusin"</string>
+<string name="unknown_ringtone_title">"Aan la aqoon"</string>
+<string name="alarm_notify_text">"Hurdo gaaban ama saacadda la tirtiray."</string>
+<string name="alarm_notify_snooze_label">"<xliff:g id="label">%s</xliff:g> (Hurda gaaban lagu xiray)"</string>
+<string name="alarm_notify_snooze_text">"Saacada waxaa lagu xiray <xliff:g id="time">%s</xliff:g>. Taabo si aad u joojisid."</string>
+<string name="volume_button_setting_title">"Badhamada codka"</string>
+<string name="volume_button_dialog_title">"Saamaynta badhamada"</string>
+<string-array name="volume_button_setting_entries">
+<item>"Hurda gaaban lagu xiray"</item>
+<item>"Ka bixid"</item>
+<item>"Waxba ha samayn"</item>
+</string-array>
+<string name="default_ringtone_setting_title">"Kuxir codka soodhicista asalka ah"</string>
+<string name="alarm_button_description">"Saacad kuxirid"</string>
+<string name="gallery_button_description">"Bandhiga"</string>
+<string name="music_button_description">"Muusig"</string>
+<string name="nightmode_button_description">"Iftiinka oo la yareeyay"</string>
+<string name="home_button_description">"Kiciyaha"</string>
+<string name="desk_clock_button_description">"Bandhiga saacadda"</string>
+<string name="label_description">"Simid"</string>
+<string name="ringtone_description">"Codka soo dhicista"</string>
+<string name="weather_fetch_failure">"Macluumaadka cimiladda lama heli karo hadda."</string>
+<string name="alarm_klaxon_service_desc">"Adeega baahinta codka ee saacaddaha lagu xiray Saacadda."</string>
+<string name="loading_ringtone">"Soodejinta codka soodhicista\u2026"</string>
+<string name="timer_ring_service_desc">"Adeega baahinta codka ee saacadda lagu xiray Saacadda."</string>
+<string name="control_set_alarm">"Kuxir saacadda"</string>
+<string name="menu_alarm">"Alaarmiga"</string>
+<string name="menu_timer">"Saacad sheegaha"</string>
+<string name="menu_clock">"Saacadda darbiga"</string>
+<string name="menu_stopwatch">"Wakhti sheegaha"</string>
+<string name="button_alarms">"Kuxir saacadda"</string>
+<string name="button_cities">"Magaalooyinka"</string>
+<string name="button_menu">"Ikhtiyaaraha dheraad ah"</string>
+<string name="menu_item_settings">"Qaabaynada"</string>
+<string name="menu_item_help">"caawimaad"</string>
+<string name="menu_item_night_mode">"Habka habeenka"</string>
+<string name="menu_item_sort_by_gmt_offset">"Wakhtiga ku sooc"</string>
+<string name="menu_item_sort_by_name">"Magaca ku sooc"</string>
+<string name="selected_cities_label">"Magaalooyinka La doortay"</string>
+<string name="sw_resume_button">"Wadista"</string>
+<string name="sw_reset_button">"Dib u sax"</string>
+<string name="sw_start_button">"Bilaaw"</string>
+<string name="sw_pause_button">"Jooji"</string>
+<string name="sw_lap_button">"Wareega"</string>
+<string name="sw_share_button">"Wadaag"</string>
+<string name="hours_label">"h"</string>
+<string name="minutes_label">"m"</string>
+<string name="seconds_label">"S"</string>
+<string name="hours_label_description">"saacado"</string>
+<string name="minutes_label_description">"daqiiqado"</string>
+<string name="seconds_label_description">"sikino"</string>
+<string name="sw_share_main">"Wakhtigayga waa <xliff:g id="time">%s</xliff:g>"</string>
+<string name="sw_share_laps">"Tirada wareega:"</string>
+<string name="sw_notification_lap_number">"Wareega <xliff:g id="number">%d</xliff:g>"</string>
+<plurals name="Nhours_description">
+<item quantity="one">"1 saac"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%d</xliff:g> saacado"</item>
+</plurals>
+<plurals name="Nminutes_description">
+<item quantity="one">"1 daqiiqo"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%d</xliff:g> daqiiqado"</item>
+</plurals>
+<plurals name="Nseconds_description">
+<item quantity="one">"1 sikin"</item>
+<item quantity="other">"<xliff:g id="number" example="7">%d</xliff:g> sikino"</item>
+</plurals>
+<string name="timer_add_timer">"Kudar Saacad Sheegaha"</string>
+<string name="timer_start">"Bilaaw"</string>
+<string name="timer_delete">"tirtir"</string>
+<string name="timer_descriptive_delete">"Tirtir <xliff:g id="number_string">%s</xliff:g>"</string>
+<string name="timer_plus_one">"Kudar 1 Daqiiqo"</string>
+<string name="timer_plus_1_min">"Kudar 1 daq"</string>
+<string name="timer_stop">"Jooji"</string>
+<string name="timer_stop_all">"Jooji dhamaan waqti bixiyaasha"</string>
+<string name="timer_reset">"Dib u sax"</string>
+<string name="timer_cancel">"Jooji"</string>
+<string name="timer_canceled">"Waqti sheegaha waa lajoojiyay"</string>
+<string name="timer_times_up">"Wakhtiga waa dhammaday"</string>
+<string name="timer_multi_times_up">"<xliff:g id="NUM_TIMERS" example="2">%d</xliff:g> waqti sheege ayaa dhacay"</string>
+<string name="timer_notification_label">"Saacad sheegaha"</string>
+<string name="timers_max_count_reached">"Ugu badnaan 4 wakhti sheegaha"</string>
+<string name="timer_pause">"Jooji"</string>
+<string name="timer_reset_all">"Dib usoo biloow dhamaan waqti sheegayaasha"</string>
+<string-array name="sw_share_strings">
+<item>"Dhabti waxaad tahay cirfidkii xawaraha."</item>
+<item>"Ku raaxeyso miraha dadaalkaaga."</item>
+<item>"Aaladdaha Android degdegsiinyo ayaa lagu yaqaana, laakin ma ahan wax adiga kaga dhaqsiya badan!"</item>
+<item>"Phew."</item>
+<item>"L33t jeer."</item>
+<item>"Xawaaraha sidaas u weyn."</item>
+<item>"Aan mar kale samayno xawaaraha wakhtiga."</item>
+<item>"Keliya bodidda dhanka bidix."</item>
+<item>"Waxaad leedahay miiska aad ku shaqaysatid markaad degdegsantahay. "</item>
+<item>"Xawaaraha iftiinka sayniiska."</item>
+</string-array>
+<string name="home_label">"Guriga"</string>
+<string name="cities_activity_title">"Magaalooyinka"</string>
+<string name="clock_settings">"Saacadda darbiga"</string>
+<string name="clock_style">"Qaab"</string>
+<string name="open_date_settings">"Badal taariikhda \u0026 waqtiga"</string>
+<string-array name="clock_style_entries">
+<item>"Wax calaamad ku shaqeeya"</item>
+<item>"Wax tiro ah ku shaqeeya"</item>
+</string-array>
+<string name="automatic_home_clock">"Saacadda guriga oo otomaatik ah"</string>
+<string name="automatic_home_clock_summary">"Markaad u safrayso meel ay wakhtigeedu tahay mid duwan, saacadda kudar magaaladaada  "</string>
+<string name="home_time_zone">"Goobta wakhtiga magaalada"</string>
+<string name="home_time_zone_title">"Goobta wakhtiga magaalada"</string>
+<string name="time_picker_cancel">"Jooji"</string>
+<string name="time_picker_set">"OK"</string>
+<string name="city_checked">"<xliff:g id="city_name">%s</xliff:g> lahubiyay"</string>
+<string name="city_unchecked">"<xliff:g id="city_name">%s</xliff:g> aan lahubin"</string>
+<string-array name="timezone_labels">
+<item>"Marshall Islands"</item>
+<item>"Midway Island"</item>
+<item>"Hawaii"</item>
+<item>"Alaska"</item>
+<item>"Wakhtiga Basiifik"</item>
+<item>"Tijuana"</item>
+<item>"Arizona"</item>
+<item>"Chihuahua"</item>
+<item>"Wakhtiga Buuraha"</item>
+<item>"Ameerikada Dhexe"</item>
+<item>"Wakhtiga Dhexe"</item>
+<item>"Magaalada Mexico"</item>
+<item>"Saskatchewan"</item>
+<item>"Bogota"</item>
+<item>"Wakhtiga Bariga"</item>
+<item>"Venezuela"</item>
+<item>"Wakhtiga Atalaantiga (Barbados)"</item>
+<item>"Wakhtiga Atalaantiga (Canada)"</item>
+<item>"Manaus"</item>
+<item>"Santiago"</item>
+<item>"Newfoundland"</item>
+<item>"Brasilia"</item>
+<item>"Buenos Aires"</item>
+<item>"Greenland"</item>
+<item>"Montevideo"</item>
+<item>"Ataalantiga-Dhexe"</item>
+<item>"Azores"</item>
+<item>"Cape Verde Islands"</item>
+<item>"Casablanca"</item>
+<item>"London, Dublin"</item>
+<item>"Amsterdam, Berlin"</item>
+<item>"Belgrade"</item>
+<item>"Brussels"</item>
+<item>"Sarajevo"</item>
+<item>"Windhoek"</item>
+<item>"Wakhtiga Afrikada Galbeed"</item>
+<item>"Amman/Jordan"</item>
+<item>"Athens, Istanbul"</item>
+<item>"Beirut, Lebanon"</item>
+<item>"Cairo"</item>
+<item>"Helsinki"</item>
+<item>"Jerusalem"</item>
+<item>"Minsk"</item>
+<item>"Harare"</item>
+<item>"Baghdad"</item>
+<item>"Moscow"</item>
+<item>"Kuwait"</item>
+<item>"Nairobi"</item>
+<item>"Tehran"</item>
+<item>"Baku"</item>
+<item>"Tbilisi"</item>
+<item>"Yerevan"</item>
+<item>"Dubai"</item>
+<item>"Kabul"</item>
+<item>"Islamabad, Karachi"</item>
+<item>"Ural\'sk"</item>
+<item>"Yekaterinburg"</item>
+<item>"Kolkata"</item>
+<item>"Sri Lanka"</item>
+<item>"Kathmandu"</item>
+<item>"Astana"</item>
+<item>"Yangon"</item>
+<item>"Krasnoyarsk"</item>
+<item>"Bangkok"</item>
+<item>"Beijing"</item>
+<item>"Hong Kong"</item>
+<item>"Irkutsk"</item>
+<item>"Kuala Lumpur"</item>
+<item>"Perth"</item>
+<item>"Taipei"</item>
+<item>"Seoul"</item>
+<item>"Tokyo, Osaka"</item>
+<item>"Yakutsk"</item>
+<item>"Adelaide"</item>
+<item>"Darwin"</item>
+<item>"Brisbane"</item>
+<item>"Hobart"</item>
+<item>"Sydney, Canberra"</item>
+<item>"Vladivostok"</item>
+<item>"Guam"</item>
+<item>"Magadan"</item>
+<item>"Auckland"</item>
+<item>"Fiji"</item>
+<item>"Tonga"</item>
+<item>"Jakarta"</item>
+</string-array>
+<string name="alarm_settings">"Saacad kuxirid"</string>
+<string name="timer_service_desc">"Talaabo ayay kaqaadaa fariimaha waqti sheegaha."</string>
+<string name="stopwatch_service_desc">"Talaabo ayay kaqaadaa fariimaha wsaacada wax tirisa."</string>
+<string name="swn_paused">"Lajoojiyay"</string>
+<string name="description_direction_right">"Farta dhanka midigta mari si aad uga baxdid"</string>
+<string name="description_direction_left">"Farta dhanka bidixda mari si aad hurda gaaban uga xiratid"</string>
+<string name="description_direction_both">"Farta dhanka bidix mari si aad hurda gaaban uga xiratid ama midigta si aad uga baxdid"</string>
+<string name="timer_settings">"Waqti sheegaha"</string>
+<string name="timer_ringtone_title">"Codka lagu xiro waqtiga"</string>
+<string name="timer_stopped">"Wakhti sheegaha wala joojiyay"</string>
+<string name="timer_paused">"Waqti sheegaha waa laxiray"</string>
+<string name="timers_stopped">"<xliff:g id="number" example="7">%d</xliff:g> waqti sheegeeha waa laxiray"</string>
+<string name="all_timers_stopped_notif">"Taabo si aad u eegtid wahti sheegeyaashada"</string>
+<string name="timers_in_use">"<xliff:g id="number" example="7">%d</xliff:g> wakhti sheegayaasha"</string>
+<string name="next_timer_notif">"Wakhti sheegaha xiga: <xliff:g id="time_remaining" example="2 minutes remaining">%s</xliff:g>"</string>
+<string name="screensaver_settings">"Setting-ka kaydiyaha shaashada"</string>
+<string name="night_mode_title">"Habka habeenka"</string>
+<string name="night_mode_summary">"Muuqaalka aad u daciif ah (loogu talagalay qolalka mugdiga ah)"</string>
+<string name="expand_alarm">"Balaari alaarmiga"</string>
+<string name="collapse_alarm">"Isku keen alaarmiga"</string>
+<string name="alarm_undo">"DIB UGU NOQO"</string>
+<string name="alarm_deleted">"Alaarmiga wala damiyay"</string>
+<string name="next_alarm_description">"Alaarmiga xiga: <xliff:g id="alarm_time" example="Wed 8:00am">%s</xliff:g>"</string>
+<string name="alarms_selected">"<xliff:g id="alarms">%d</xliff:g> ladoortay"</string>
+<string name="deleted_message">"Latiray"</string>
+<plurals name="alarm_delete_confirmation">
+<item quantity="one">"Tirtir saacada lagu xiray?"</item>
+<item quantity="other">"Tirtir saacadaha lagu xiray?"</item>
+</plurals>
+<string name="timer_delete_confirmation">"Tirtir wakhti sheegahaan?"</string>
+<string name="city_delete_confirmation">"Kabixi magaaladan?"</string>
+<string name="digital_gadget">"Saacada nambarada leh"</string>
+<string name="no_alarms">"Majiraan Saacadaha lagu xiray"</string>
+<string name="no_alarms_set">"Majiro saacadaha ku xiran"</string>
+<string name="no_upcoming_alarms">"MAJIRAAN SAACADAHA LAGU XIRAY OO SOOSOCDA"</string>
+<string name="invalid_time">"Wakhti aan jirin <xliff:g id="invalid_hour" example="25">%d</xliff:g>:<xliff:g id="invalid_minutes" example="63">%d</xliff:g> <xliff:g id="invalid_ampm" example="PM">%s</xliff:g>"</string>
+<string name="no_alarm_at">"Majirto saacada lagu xiray <xliff:g id="alarm_time_hour" example="14">%d</xliff:g>:<xliff:g id="alarm_time_minutes" example="23">%d</xliff:g>"</string>
+<string name="no_scheduled_alarms">"Majiraan saacadaha lagu xiray"</string>
+<string name="no_label_specified">"Majirto calaamad la shaciyay"</string>
+<string name="no_alarms_with_label">"Majiraan saacadaha lagu xiray oo leh calaamada"</string>
+<string name="stopwatch_isnt_running">"Wakhti-sheegaha ma shaqaynayo"</string>
+<string name="stopwatch_paused">"Saacada wax tirisa waa lajoojiyay"</string>
+<string name="stopwatch_reset">"Dib u sixidda wakhti-sheegaha"</string>
+<string name="stopwatch_lapped">"Wakhti-sheegaha wala meelayay"</string>
+<string name="stopwatch_started">"Wakhti-sheegaha wuu bilaamay"</string>
+<string name="no_alarm_scheduled_for_this_time">"Majirto saacada lagu xiray wakhtigan"</string>
+<string name="alarm_is_dismissed">"<xliff:g id="alarm_time" example="14:20">%s</xliff:g> saacada lagu xiray wala bixiyay"</string>
+<string name="alarm_is_set">"Saacadda waxaa lagu xiray <xliff:g id="alarm_time" example="14:20">%s</xliff:g>"</string>
+<string name="no_timers_exist">"Waqti tiriye majiro"</string>
+<string name="too_many_timers_exist">"Wax kabadan hal waqti tiriye ayaa kujira"</string>
+<string name="timer_does_not_exist">"Waqti tiriyaha waa lasiibay."</string>
+<string name="timer_created">"Saacad sheegaha wala samayay"</string>
+<string name="timer_was_reset">"Dib u sixidda saacad sheegaha"</string>
+<string name="timer_deleted">"Saacad sheegaha wala tirtiray"</string>
+<string name="timer_started">"Saacad sheegaha wuu bilaamay"</string>
+<string name="invalid_timer_length">"Qiyaasta saacad sheegaha aan jirin"</string>
+<string name="no_city_selected">"Majirto magaalada oo la doortay"</string>
+<string name="the_city_you_specified_is_not_available">"Magaalada aad sheegtay lama heli karo"</string>
+<string name="the_city_already_added">"Magaalada hore ayaa lagu daray"</string>
+<string name="city_added">"<xliff:g id="city_name" example="Paris">%s</xliff:g> lagu daray"</string>
+<string name="city_deleted">"<xliff:g id="city_name" example="Paris">%s</xliff:g> latiray"</string>
+<string name="alarm_cant_be_dismissed_still_more_than_24_hours_away">"<xliff:g id="alarm_time" example="14:20">%s</xliff:g> saacada lagu xiray wali lama bixin karo, wali waxaa dhiman in kabadan 24 saacadood"</string>
+<string name="dismiss_alarm">"Kabixi saacada lagu xiray"</string>
+<string name="pick_alarm_to_dismiss">"Dooro saacada lagu xiray si aad uga baxdid"</string>
+<string name="no_firing_alarms">"Majirto saacadaha dabka oo lagu xiray"</string>
+<string name="alarm_is_snoozed">"<xliff:g id="alarm_time" example="14:20">%s</xliff:g> saacada waxaa hurda gaaban lagu xiray 10 daqiiqo"</string>
+<string name="pause">"Hurda gaaban lagu xiray"</string>
+<string name="alarm_shutdown_cancal_open">"Ka bixid"</string>
+<string name="alarm_shutdown_cancal_close">"Dabi dabka"</string>
+<string name="sw_stop_button">"Jooji"</string>
+<string name="reorder_city">"Bedel nidaamka"</string>
+<string name="delete_city">"tirtir"</string>
+<string name="delete_alarm_cancel">"Jooji"</string>
+<string name="delete_alarm_done">"Waa lafuliyay"</string>
+<string name="cancel_select">"Jooji dhammaan"</string>
+<string name="all_select">"Dooro dhamaan"</string>
+<string name="repeat_every_days">"Maalin  kasta"</string>
+<string name="repeat_work_days">"Maalmaha shaqada"</string>
+<string name="repeat_single">"Keli ah"</string>
+<string name="repeat_dialog_done">"OK"</string>
+<string name="repeat_dialog_cancel">"Jooji"</string>
+<string name="auto_silence_cancel">"Jooji"</string>
+<string name="title_too_long">"Wax ku daarida aad buu u dheeryahay."</string>
+</resources>
